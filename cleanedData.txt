@@ -1,0 +1,1915 @@
+Sname: Abelmoschus esculentus (L.) Moench	Family: MALVACEAE	Cname: Bhindi, Bhindi tori
+Sname: Abelmoschus ficulneus (L.) Wight & Arn.	Family: MALVACEAE	Cname: Ran Bhendi
+Sname: Abelmoschus manihot (L.) Medik.	Family: MALVACEAE	Cname: Jangli Bhindi, Kantalo Bhendo (Guj.)
+Sname: Abelmoschus moschatus Medik.	Family: MALVACEAE	Cname: Muskdana, Kasturi dana
+Sname: Abies spectabilis (D. Don) Spach.	Family: PINACEAE	Cname: Talish patra, Gobra salla (Nepal)
+Sname: Abroma agusta (L.) L.f.	Family: STERCULIACEAE	Cname: Ulatkambal
+Sname: Abrus precatorius L.	Family: FABACEAE	Cname: Ratti, Ghungchi
+Sname: Abutilon hirtum (Lam.) Sweet	Family: MALVACEAE	Cname: Barakanghi
+Sname: Abutilon indicum (L.) Sweet	Family: MALVACEAE	Cname: Kanghi, Kakahi
+Sname: Abutilon pannosum (Forst.) Schlect.	Family: MALVACEAE	Cname: Kakrai
+Sname: Abutilon theophrastii Medik.	Family: MALVACEAE	Cname: Indian Mallow (Eng.)
+Sname: Acacia catechu (L.f.) Willd.	Family: MIMOSACEAE	Cname: Khair
+Sname: Acacia farnesiana (L.) Willd.	Family: MIMOSACEAE	Cname: Vilayati kikar
+Sname: Acacia jacquemontii Benth.	Family: MIMOSACEAE	Cname: Kikar, Babul (Punjab)
+Sname: Acacia leucophloea (Roxb.) Willd.	Family: MIMOSACEAE	Cname: Safed kikar, Arimeda
+Sname: Acacia modesta Wall.	Family: MIMOSACEAE	Cname: Phulai (Punjab)
+Sname: Acacia nilotica (L.) Willd. ex Delile	Family: MIMOSACEAE	Cname: Kirkar, Babula
+Sname: Acacia pennata (L.) Willd.	Family: MIMOSACEAE	Cname: Aila, Biswal
+Sname: Acacia rugata (Lam.) Merr.	Family: MIMOSACEAE	Cname: Kochi, Ritha
+Sname: Acacia senegal (L.) Willd.	Family: MIMOSACEAE	Cname: Goradio-babul (Guj.)
+Sname: Acacia torta (Roxb.) Craib	Family: MIMOSACEAE	Cname: Aila
+Sname: Acalypha fruticosa Forsk.	Family: EUPHORBIACEAE	Cname: Chinniaka (Tel.)
+Sname: Acalypha indica L.	Family: EUPHORBIACEAE	Cname: Kuppi, Khokli
+Sname: Acalypha racemosa Wall. ex Bailley	Family: EUPHORBIACEAE	Cname: Valia-kuppameni (Finnish)
+Sname: Acampe papillosa (Lindl.) Lindl.	Family: ORCHIDACEAE	Cname: Alasyakampa (Tel.)
+Sname: Acanthus illicifolius L.	Family: ACANTHACEAE	Cname: Hargoza
+Sname: Achillea millefolium L.	Family: ASTERACEAE	Cname: Gandana, Roojamari (Kan.)
+Sname: Achyranthes aspera L.	Family: AMARANTHACEAE	Cname: Latjira
+Sname: Achyranthes bidentata Blume	Family: AMARANTHACEAE	Cname: Apamarga (Assam)
+Sname: Aconitum balfourii Stapf	Family: RANUNCULACEAE	Cname: Gobari (West Nepal)
+Sname: Aconitum bisma (Buch. -Ham.) Rapaics	Family: RANUNCULACEAE	Cname: Bikhima
+Sname: Aconitum chasmanthum Holmes ex Stapf	Family: RANUNCULACEAE	Cname: Bisha, Ban-bal-nag (Kashmir)
+Sname: Aconitum falconeri Stapf	Family: RANUNCULACEAE	Cname: Bis (Gharwal)
+Sname: Aconitum heterophyllum Wall. ex Royle	Family: RANUNCULACEAE	Cname: Atis
+Sname: Aconitum laciniatum (Bruhl) Stapf	Family: RANUNCULACEAE	Cname: Kalo bikhoma (Sikkim)
+Sname: Aconitum novoluridum Munz	Family: RANUNCULACEAE	Cname: Mahoor
+Sname: Aconitum spicatum (Bruhl) Stapf	Family: RANUNCULACEAE	Cname: Bikh or Bish (Nepal & Sikkim)
+Sname: Aconitum violaceum Jacq. Ex Stapf	Family: RANUNCULACEAE	Cname: Tilia Kachang (Sutlej Basin)
+Sname: Acorus calamus L.	Family: ARACEAE	Cname: Bach, Gora-bach
+Sname: Acronychia pedunculata (L.) Miq.	Family: RUTACEAE	Cname: Paowlay (Nepal)
+Sname: Actaea spicata L.	Family: RANUNCULACEAE	Cname: Vishaphala (Kan.)
+Sname: Actiniopteris radiata(Swartz) Link	Family: ACTINIOPTERIDACEAE	Cname: Morpankhi, Morshikha (Local names)
+Sname: Actinodaphne hookeri Meissn.	Family: LAURACEAE	Cname: Tudambo (Oriya)
+Sname: Adansonia digitata L.	Family: BOMBACACEAE	Cname: Gorak, Amli
+Sname: Adenanthera pavonia L.	Family: MIMOSACEAE	Cname: Barigumchi, Kunchandana (Sans.)
+Sname: Adenia wightiana (Wall. ex Wight & Arn.) Engl.	Family: PASSIFLORACEAE	Cname: Perumkorattaikodi (Tam.)
+Sname: Adenostemma lavenia (L.) Kuntze	Family: ASTERACEAE	Cname: Jangli-jira
+Sname: Adiantum capillus-veneris L.	Family: ADIANTACEAE	Cname: Hansraj, Mubaraka
+Sname: Adiantum caudatum L.	Family: ADIANTACEAE	Cname: Mayurshikha (Sans.)
+Sname: Adiantum philippense L.	Family: ADIANTACEAE	Cname: Kalijhant
+Sname: Adiantum venustum D.Don	Family: ADIANTACEAE	Cname: Mayir sikki (Tam.)
+Sname: Adonis aestivalis L.	Family: RANUNCULACEAE	Cname: Summer Pheasant's Eye (Eng.)
+Sname: Aegle marmelos (L.) Corr.	Family: RUTACEAE	Cname: Bel
+Sname: Aerva javanica (Burm.f.) Juss. ex Schult.	Family: AMARANTHACEAE	Cname: Bur (Guj.)
+Sname: Aerva lanata (L.) Juss.	Family: AMARANTHACEAE	Cname: Gorakhganja, Chaya (Beng.)
+Sname: Aesculus indica Colebr. ex Camb.	Family: HIPPOCASTANACEAE	Cname: Pangar
+Sname: Aganosma caryophyllata G.Don	Family: APOCYNACEAE	Cname: Maalati
+Sname: Agave americana Blanco	Family: AMARYLLIDACEAE	Cname: Bans-keora, Kantala
+Sname: Agave americana L.	Family: AMARYLLIDACEAE	Cname: Chick-kuri (Local name)
+Sname: Agave angustifolia Haw.	Family: AMARYLLIDACEAE	Cname: Kantala (Sans.)
+Sname: Agave sisalana Perr. ex Engelm.	Family: AMARYLLIDACEAE	Cname: Sisal (Eng.)
+Sname: Ageratum conyzoides L.	Family: ASTERACEAE	Cname: Uchunti (Beng.)
+Sname: Aglaia elaeagnoidea (Juss.) Benth.	Family: MELIACEAE	Cname: Gandha priyangu, Yerraaduga (Tel.)
+Sname: Agropyron repens (L.) Beauv.	Family: POACEAE	Cname: Couch grass, Dog grass (Eng.)
+Sname: Ailanthus altissima (Mill.) Swingle	Family: SIMAROUBACEAE	Cname: Tree of Heaven (Eng.)
+Sname: Ailanthus excelsa Roxb.	Family: SIMAROUBACEAE	Cname: Arlu, Maruk
+Sname: Ailanthus triphysa (Dennst.) Alston	Family: SIMAROUBACEAE	Cname: Guggul Dhup
+Sname: Ajuga bracteosa Wall. ex Benth.	Family: LAMIACEAE	Cname: Nilkanthi (Sans.)
+Sname: Alangium salvifolium (L.f.) Wang.	Family: ALANGIACEAE	Cname: Akola, Dhera
+Sname: Albizzia amara (Roxb.) Boivin	Family: MIMOSACEAE	Cname: Lallei (Mar.)
+Sname: Albizzia lebbeck (L.) Willd.	Family: MIMOSACEAE	Cname: Siris
+Sname: Albizzia odoratissima (L.f.) Benth.	Family: MIMOSACEAE	Cname: Kala siris
+Sname: Aleurites mollucana Willd.	Family: EUPHORBIACEAE	Cname: Candle Nut Tree (Eng.)
+Sname: Alhagi pseudoalhagi (Bieb.) Desv.	Family: FABACEAE	Cname: Bharbharra, Jawasa
+Sname: Alhagi pseudoalhagi (Bieb.) Desv.	Family: FABACEAE	Cname: Bharbharra, Jawasa
+Sname: Allamanda cathartica L.	Family: APOCYNACEAE	Cname: Harkakra (Beng.)
+Sname: Allium cepa L.	Family: LILIACEAE	Cname: Piyaz
+Sname: Allium macleanii Baker	Family: LILIACEAE	Cname: Salabmisri
+Sname: Alnus nepalensis D.Don	Family: BETULACEAE	Cname: Utis
+Sname: Alnus nitida Endl.	Family: BETULACEAE	Cname: Utis
+Sname: Alocasia macrorrhizos (L.) G.Don	Family: ARACEAE	Cname: Boro mankachu (Assam)
+Sname: Aloe vera (L.) Burm.f.	Family: LILIACEAE	Cname: Ghee-kunvar
+Sname: Aloysia triphylla (L'Herit) Britton	Family: VERBENACEAE	Cname: Aloysia triphylla (Eng.)
+Sname: Alpinia galanga (L.) Willd.	Family: ZINGIBERACEAE	Cname: Kulanjan, Barakulanjan
+Sname: Alpinia nigra (Gaertn.) B.L.Burtt	Family: ZINGIBERACEAE	Cname: Gong (Local name)
+Sname: Alstonia scholaris (L.) R.Br.	Family: APOCYNACEAE	Cname: Chatium, Chattiyan
+Sname: Alstonia venenata R.Br.	Family: APOCYNACEAE	Cname: Pazha Munnipala (Tam.)
+Sname: Alternanthera sessilis (L.) R.Br. ex. DC.	Family: AMARANTHACEAE	Cname: Gudari sag, Giojihra (Sans.)
+Sname: Althaea officinalis L.	Family: MALVACEAE	Cname: Marsh Mallow (Eng.)
+Sname: Althaea rosea (L.) Cav.	Family: MALVACEAE	Cname: Holly-Hock (Eng.)
+Sname: Altingia excelsa Noronha	Family: HAMAMELIDACEAE	Cname: Silaras
+Sname: Alysicarpus longifolius (Rottler ex Spreng.) Wight & Arn.	Family: FABACEAE	Cname: Longleaf Alyce Clover (Eng.)
+Sname: Alysicarpus vaginalis (L.) DC.	Family: FABACEAE	Cname: Chauli, Sauri
+Sname: Amaranthus lividus L.	Family: AMARANTHACEAE	Cname: Sada natya, Van natya
+Sname: Amaranthus tricolor L.	Family: AMARANTHACEAE	Cname: Lal sag, Chaulai sag
+Sname: Amaranthus viridis L.	Family: AMARANTHACEAE	Cname: Tanduliya (Sans.)
+Sname: Amaranthus caudatus L.	Family: AMARANTHACEAE	Cname: Ram dana
+Sname: Amaranthus spinosus L.	Family: AMARANTHACEAE	Cname: Kataili chaulai
+Sname: Ammania auriculata Willd.	Family: LYTHRACEAE	Cname: Jangli Mehndi
+Sname: Ammania baccifera L.	Family: LYTHRACEAE	Cname: Dadmari
+Sname: Ammi visnaga (L.) Lam.	Family: APIACEAE	Cname: Toothpick plant (Eng.)
+Sname: Amomum aromaticum Roxb.	Family: ZINGIBERACEAE	Cname: Morang elaichi
+Sname: Amomum subulatum Roxb.	Family: ZINGIBERACEAE	Cname: Bari elachi, Baara aliach (Beng.)
+Sname: Amorphophallus paeoniifolius (Dennst.) Nicolson	Family: ARACEAE	Cname: Suranakanda, Jamikanda
+Sname: Ampelocissus areneosa (Laws.) Planch.	Family: VITACEAE	Cname: Kauraj
+Sname: Ampelocissus arnottiana (Wight & Arn.) Planch.	Family: VITACEAE	Cname: Jangli-angur
+Sname: Ampelocissus latifolia (Roxb.) Planch.	Family: VITACEAE	Cname: Panibel
+Sname: Ampelocissus tomentosa (Roth) Planch.	Family: VITACEAE	Cname: Atukulabadda (Tel.)
+Sname: Anacardium occidentale L.	Family: ANACARDIACEAE	Cname: Kaju
+Sname: Anagallis arvensis L.	Family: PRIMULACEAE	Cname: Jonkmari
+Sname: Anamitra cocculus Wight & Arn.	Family: MENISPERMACEAE	Cname: Kakamari (Sans.)
+Sname: Ananas comosus (L.) Merr.	Family: BROMELIACEAE	Cname: Kazudhachakka (Mal.)
+Sname: Anaphalis neelgerryana DC.	Family: ASTERACEAE	Cname: Raktaskandana (Sans.)
+Sname: Andrographis echinoides (L.) Nees	Family: ACANTHACEAE	Cname: Birkubat
+Sname: Andrographis paniculata (Burm.) Wall. ex Nees	Family: ACANTHACEAE	Cname: Kirayat
+Sname: Andropogon sorghum (L.) Brot.	Family: POACEAE	Cname: Kafir (Eng.)
+Sname: Anemone narcissiflora L.	Family: RANUNCULACEAE	Cname: Narcissus anemone (Eng.)
+Sname: Anemone obtusiloba D. Don	Family: RANUNCULACEAE	Cname: Ageli (Jaunsar)
+Sname: Angelica archangelica L.	Family: APIACEAE	Cname: Garden Angelica (Eng.)
+Sname: Aniseia martinicensis (Jacq.) Choisy.	Family: CONVOLVULACEAE	Cname: Potupala (Sinhalese)
+Sname: Anisochilus carnosus (Linn.f.) Wall.	Family: LAMIACEAE	Cname: Ajapada (Sans.)
+Sname: Anisomeles indica (L.) Kuntze	Family: LAMIACEAE	Cname: Gobura
+Sname: Anisomeles malabarica (L.) R.Br.	Family: LAMIACEAE	Cname: Chodhara (Mar.)
+Sname: Annona muricata L.	Family: ANNONACEAE	Cname: Mamphal (Mar.)
+Sname: Annona reticulata L.	Family: ANNONACEAE	Cname: Nona (Beng.)
+Sname: Annona squamosa L.	Family: ANNONACEAE	Cname: Sharifa
+Sname: Anodendron paniculatum A.DC.	Family: APOCYNACEAE	Cname: Kavali (Mar.)
+Sname: Anogeissus latifolia (Roxb. ex. DC.) Wall. ex. Guill. &	Family: COMBRETACEAE	Cname: Dhawa, Dhaura
+Sname: Anthemis cotula L.	Family: ASTERACEAE	Cname: Dog-fennel (Eng.)
+Sname: Anthemis nobilis L.	Family: ASTERACEAE	Cname: Roman Chamomile (Eng.)
+Sname: Anthoxanthum odoratum L.	Family: POACEAE	Cname: Sweet Vernal Grass (Eng.)
+Sname: Anthriscus cerefolium Hoffm.	Family: APIACEAE	Cname: French Parsley (Eng.)
+Sname: Antiaris toxicaria (Pers.) Lesch.	Family: MORACEAE	Cname: Karwat (Mar.)
+Sname: Antidesma bunius Spreng.	Family: EUPHORBIACEAE	Cname: Amati (Mar.)
+Sname: Apama siliquosa Lam.	Family: ARISTOLOCHIACEAE	Cname: Kuravankanda (Local name)
+Sname: Aphanamixis polystachya (Wall.) R.Parker	Family: MELIACEAE	Cname: Harin-harra
+Sname: Apium graveolens L.	Family: APIACEAE	Cname: Shalari, Ajmud
+Sname: Aquilegia vulgaris L.	Family: RANUNCULACEAE	Cname: Common Columbine (Eng.)
+Sname: Arachis hypogaea L.	Family: FABACEAE	Cname: Mung-phali
+Sname: Arachne cordifolia (Decne.) Hurus.	Family: EUPHORBIACEAE	Cname: Bharti, Bhartoi
+Sname: Arctium lappa L.	Family: ASTERACEAE	Cname: Jangli Kuth, Burdock (Eng.)
+Sname: Ardisia solanacea (Poir.) Roxb.	Family: MYRSINACEAE	Cname: Dhan-priya
+Sname: Areca catechu L.	Family: ARECACEAE	Cname: Supari, Chaali
+Sname: Areca triandra Roxb. ex Buch.-Ham.	Family: ARECACEAE	Cname: wild areca palm (Eng.)
+Sname: Arenga saccharifera Labill.	Family: ARECACEAE	Cname: Sugar palm (Eng.)
+Sname: Argemone mexicana L.	Family: PAPAVERACEAE	Cname: Bharbhand
+Sname: Argyreia cuneata (Willd.) Ker.-Gawl	Family: CONVOLVULACEAE	Cname: Mhalungi (Mar.)
+Sname: Argyreia imbricata (Roth) Santapau & V.Patel	Family: CONVOLVULACEAE	Cname: Errakuta (Tel.)
+Sname: Argyreia nervosa (Burm.f.) Boj.	Family: CONVOLVULACEAE	Cname: Samudrasokha, Ghavapatta
+Sname: Arisaema leschenaultii Blume	Family: ARACEAE	Cname: Pambucholam (Malayalam)
+Sname: Arisaema speciosum (Wall.) Mart.	Family: ARACEAE	Cname: Samo-ki-khumb, Kiralu( Punjab)
+Sname: Arisaema tortuosum (Wall.) Schott	Family: ARACEAE	Cname: Bagh Jandhra, Lin Cheisu (Manipuri)
+Sname: Aristida depressa Retz.	Family: POACEAE	Cname: sixweeks threeawn (Eng.)
+Sname: Aristolochia bracteolata Lam.	Family: ARISTOLOCHIACEAE	Cname: Kitamari
+Sname: Aristolochia indica L.	Family: ARISTOLOCHIACEAE	Cname: Ishvari mul (Sans.)
+Sname: Aristolochia tagala Chem.	Family: ARISTOLOCHIACEAE	Cname: Nallayiswari (Tel.)
+Sname: Arnebia benthamii (Wall.ex G. Don) Johnston	Family: BORAGINACEAE	Cname: Kashmiri kahzaban (Kashmir)
+Sname: Arnebia euchroma (Royle) Johnston	Family: BORAGINACEAE	Cname: Laljiri (Garhwal), Aam (Ladh.)
+Sname: Arnica montana L.	Family: ASTERACEAE	Cname: Leopard's bane (Eng.)
+Sname: Artabotrys hexapetalus (L.f.) Bhandari	Family: ANNONACEAE	Cname: Hara Champaka (Sans.)
+Sname: Artabotrys suaveolens Blume	Family: ANNONACEAE	Cname: Koluvaravalli (Mal.)
+Sname: Artanema longifolium (L). Vatke	Family: SCROPHULARIACEAE	Cname: Kokilaksha (Sans.)
+Sname: Artemisia absynthium L.	Family: ASTERACEAE	Cname: Vilayathi afsanthin
+Sname: Artemisia dracunculcus L.	Family: ASTERACEAE	Cname: Dragon Mugwort (Eng.)
+Sname: Artemisia indica Willd.	Family: ASTERACEAE	Cname: Nagdona (Hindi)
+Sname: Artemisia maritima L.	Family: ASTERACEAE	Cname: Kirmala
+Sname: Artemisia nilagirica (C.B.Clarke) Pamp.	Family: ASTERACEAE	Cname: Nagdona
+Sname: Artemisia persica Boiss.	Family: ASTERACEAE	Cname: Pardesi davano (Guj.)
+Sname: Artemisia roxburghiana Wall. ex. Besser	Family: ASTERACEAE	Cname: Roxburgh's Wormwood (Eng.)
+Sname: Artemisia sacrorum Ledeb.	Family: ASTERACEAE	Cname: Burmack (Ladakh)
+Sname: Artemisia scoparia Waldst. & Kit.	Family: ASTERACEAE	Cname: Seeta-bani, Jhau
+Sname: Artemisia sivarsiana Ehrh. Ex. Willd.	Family: ASTERACEAE	Cname: Kaadu davana (Kan.)
+Sname: Arthrocnemum indicum (Willd.) Moq.	Family: CHENOPODIACEAE	Cname: Machola
+Sname: Artocarpus heterophyllus Lam.	Family: MORACEAE	Cname: Kathal
+Sname: Artocarpus lakoocha Roxb.	Family: MORACEAE	Cname: Barhal
+Sname: Arundo donax L.	Family: POACEAE	Cname: Bara nal
+Sname: Asclepias curassavica L.	Family: ASCLEPIADACEAE	Cname: Kakatundi, Kakanasika
+Sname: Asparagus adscendens Roxb.	Family: LILIACEAE	Cname: Satavar
+Sname: Asparagus filicinus Buch.-Ham ex D. Don	Family: LILIACEAE	Cname: Allipalli (Punj.)
+Sname: Asparagus gonocladus Baker	Family: LILIACEAE	Cname: Sadaveri (Local name)
+Sname: Asparagus officinalis L.	Family: LILIACEAE	Cname: Marchuba, Paragus, Vilayati Karua, Nakdown, Margiyeh, Halyun
+Sname: Asparagus racemosus Willd.	Family: LILIACEAE	Cname: Satawar, Satmuli (Beng.)
+Sname: Asplenium adiantum-nigrum L.	Family: ASPLENIACEAE	Cname: Black Spleenwort (Eng.)
+Sname: Astragalus strobiliferus Royle ex Benth.	Family: FABACEAE	Cname: Garmezu (Chitral)
+Sname: Astragalus tribuloides Delile	Family: FABACEAE	Cname: Ogai (Punjab)
+Sname: Asystasia gangetica (L.) T.Anderson	Family: ACANTHACEAE	Cname: Lavana-valli (Sans.)
+Sname: Atriplex hortensis L.	Family: CHENOPODIACEAE	Cname: Korake, Surake
+Sname: Atropa acuminata Royle	Family: SOLANACEAE	Cname: Indian Atropa (Eng.)
+Sname: Atropa belladona L.	Family: SOLANACEAE	Cname: Angur Shefa
+Sname: Atylosia scrabaeoides (L.) Benth.	Family: FABACEAE	Cname: Bnkulthi, Birghore (Local names)
+Sname: Avena fatua L.	Family: POACEAE	Cname: Common wild oat (Eng.)
+Sname: Avena sativa L.	Family: POACEAE	Cname: Common Oat (Eng.)
+Sname: Averrhoa bilimbi L.	Family: OXALIDACEAE	Cname: Tree Sorrel (Eng.)
+Sname: Avicennia officinalis L.	Family: VERBENACEAE	Cname: Bina
+Sname: Azadirachta indica (L.) A.Juss.	Family: MELIACEAE	Cname: Nim
+Sname: Azanza lampas (Cav.) Alef.	Family: MALVACEAE	Cname: Jangli bhendi, Bankapasi
+Sname: Azima tetracantha Lam.	Family: SALVADORACEAE	Cname: Kantagur-kamai
+Sname: Bacopa monnieri (L.) Pennell	Family: SCROPHULARIACEAE	Cname: Nira-brahmi
+Sname: Balanites aegyptiaca (L.) Delile	Family: BALANITACEAE	Cname: Hingan, Hingot
+Sname: Baliospermum montanum (Willd.) Muell.Arg.	Family: EUPHORBIACEAE	Cname: Danti
+Sname: Bambusa bambos Druce	Family: POACEAE	Cname: Kalak (Local name)
+Sname: Barleria buxifolia L.	Family: ACANTHACEAE	Cname: Liksura (Sans.)
+Sname: Barleria courtallica Nees	Family: ACANTHACEAE	Cname: Chethasahacharam (Sans.)
+Sname: Barleria cristata L.	Family: ACANTHACEAE	Cname: Nil jhinti
+Sname: Barleria longiflora L.f.	Family: ACANTHACEAE	Cname: Ekakantaka (Sans.)
+Sname: Barleria noctiflora L.f.	Family: ACANTHACEAE	Cname: Naga gorinta (Telugu)
+Sname: Barleria prionitis L.	Family: ACANTHACEAE	Cname: Jhinti, Katsareya
+Sname: Barleria strigosa Willd.	Family: ACANTHACEAE	Cname: Neelakurantak (Sans.)
+Sname: Barringtonia acutangula (L.) Gaertn.	Family: LECYTHIDACEAE	Cname: Hijjal
+Sname: Barringtonia racemosa (L.) Roxb.	Family: LECYTHIDACEAE	Cname: Samudraphala (Sans.)
+Sname: Basella rubra L.	Family: BASELLACEAE	Cname: Poi, Safedbachla
+Sname: Bauhinia malabarica Roxb.	Family: CAESALPINIACEAE	Cname: Amli, Amlosa
+Sname: Bauhinia purpurea L.	Family: CAESALPINIACEAE	Cname: Khairwal
+Sname: Bauhinia racemosa Lam.	Family: CAESALPINIACEAE	Cname: Kachnal, Ashta
+Sname: Bauhinia retusa Ham. ex. DC.	Family: CAESALPINIACEAE	Cname: Semla
+Sname: Bauhinia vahlii Wight & Arn.	Family: CAESALPINIACEAE	Cname: Maljan
+Sname: Bauhinia variegata L.	Family: CAESALPINIACEAE	Cname: Kachnar
+Sname: Begonia rex Putz.	Family: BEGONIACEAE	Cname: King Begonia (Eng.)
+Sname: Benincasa hispida (Thunb.) Cogn.	Family: CUCURBITACEAE	Cname: Petha
+Sname: Berberis aristata DC.	Family: BERBERIDACEAE	Cname: Chitra, Daruhald
+Sname: Berberis asiatica Roxb. ex. DC.	Family: BERBERIDACEAE	Cname: Kilmora (Kumaun)
+Sname: Berberis insignis Hook.f. & Thomson	Family: BERBERIDACEAE	Cname: Kasmal (Simla)
+Sname: Berberis lycium Royle	Family: BERBERIDACEAE	Cname: Kasmal (Simla)
+Sname: Berchemia lineata DC.	Family: RHAMNACEAE	Cname: Kameti (Kumaun)
+Sname: Bergia suffriticosa (Del.) Fenzl.	Family: ELATINACEAE	Cname: Gangharaw (Guj.)
+Sname: Beta vulgaris L.	Family: CHENOPODIACEAE	Cname: Chukandar
+Sname: Betula alnoides Buch.-Ham.ex D.Don	Family: BETULACEAE	Cname: Bhojpatra
+Sname: Betula utilis D.Don	Family: BETULACEAE	Cname: Bhojpatra
+Sname: Bidens tripartita L.	Family: ASTERACEAE	Cname: Threelobe Beggar Tick (Eng.)
+Sname: Biophytum sensitivum (L.) DC.	Family: OXALIDACEAE	Cname: Lajalu
+Sname: Bischofia javanica Blume	Family: EUPHORBIACEAE	Cname: Paniala
+Sname: Bixa orellana L.	Family: BIXACEAE	Cname: Latkan
+Sname: Blechnum orientale L.	Family: BLECHNACEAE	Cname: Haththazori
+Sname: Blepharis edulis Pers.	Family: ACANTHACEAE	Cname: Chaupatia
+Sname: Blepharis indica Stocks ex T.Anderson	Family: ACANTHACEAE	Cname: Kolimukkan chedi (Tamil)
+Sname: Blighia sapida Koen. & Sims.	Family: SAPINDACEAE	Cname: Akee (Eng.)
+Sname: Blumea balsamifera (L.) DC.	Family: ASTERACEAE	Cname: Kakaronda
+Sname: Blumea densiflora (Wall.) DC.	Family: ASTERACEAE	Cname: Grand Blumea (Eng.)
+Sname: Blumea eriantha DC.	Family: ASTERACEAE	Cname: Nimurdi (Mar.)
+Sname: Blumea lacera (Burm.f.) DC.	Family: ASTERACEAE	Cname: Kakranda
+Sname: Blumea lanceolaria (Roxb.) Druce	Family: ASTERACEAE	Cname: Tera paibi macha (Manipuri)
+Sname: Boehmeria nivea (L.) Gaud.	Family: URTICACEAE	Cname: Kankura (Beng.)
+Sname: Boerhavia diffusa L.	Family: NYCTAGINACEAE	Cname: Sant
+Sname: Bombax ceiba L.	Family: BOMBACACEAE	Cname: Semal, Semul (Beng.)
+Sname: Borassus flabellifer L.	Family: ARECACEAE	Cname: Tar
+Sname: Borreria articularis (L.f.) F.N.Wiliams	Family: RUBIACEAE	Cname: Guthari, Madanaghanta (Sans.)
+Sname: Boswellia serrata Roxb. ex Coleb.	Family: BURSERACEAE	Cname: Salai
+Sname: Botrychium lunaria (L.) Sw.	Family: OPHIOGLOSSACEAE	Cname: Moonwort (Eng.)
+Sname: Botrychium virginianum (L.) Sw.	Family: OPHIOGLOSSACEAE	Cname: Rattle snake fern (Eng.)
+Sname: Brassica juncea (L.) Czern.	Family: BRASSICACEAE	Cname: Asal rai, Laha
+Sname: Brassica nigra L.	Family: BRASSICACEAE	Cname: Banarasi rai
+Sname: Breynia retusa (Dennst.) Alston	Family: EUPHORBIACEAE	Cname: Chitki (Beng.)
+Sname: Breynia retusa (L.) Spreng.	Family: EUPHORBIACEAE	Cname: Chitki (Beng.)
+Sname: Breynia rhamnoides (Retz.) Muell.-Arg.	Family: EUPHORBIACEAE	Cname: Tikhar
+Sname: Bridelia montana Willd.	Family: EUPHORBIACEAE	Cname: Khaja, Gondui
+Sname: Bromus mollis L.	Family: POACEAE	Cname: Soft brome (Eng.)
+Sname: Brucea javanica (L.) Merr.	Family: SIMAROUBACEAE	Cname: Chinese Sumac (Eng.)
+Sname: Bryonopsis laciniosa (L.) Naud.	Family: CUCURBITACEAE	Cname: Gorgu-naru, Mala (Beng.)
+Sname: Bryophyllum pinnatum Lam.	Family: CRASSULACEAE	Cname: Zakhm-haiyat
+Sname: Buchanania lanzan Spreng.	Family: ANACARDIACEAE	Cname: Piyar, Chironji
+Sname: Buddleja asiatica Lour.	Family: BUDDLEJACEAE	Cname: Neemda
+Sname: Bunium persicum (Boiss.) Fedt.	Family: APIACEAE	Cname: Siah-zirah, Kala-zirah
+Sname: Butea monosperma (Lam.) Taub.	Family: FABACEAE	Cname: Dhak, Palas (Beng.)
+Sname: Butea parviflora Roxb.	Family: FABACEAE	Cname: Maulo, Bando
+Sname: Butea superba Roxb.	Family: FABACEAE	Cname: Palas lata
+Sname: Buxus wallichiana Baill.	Family: BUXACEAE	Cname: Chikri, Papri
+Sname: Byttneria herbacea Roxb.	Family: STERCULIACEAE	Cname: Kambraj (Beng.)
+Sname: Cadaba fruticosa (L.) Druce	Family: CAPPARACEAE	Cname: Kodhab
+Sname: Cadaba trifoliata (Roxb.) Wight & Arn.	Family: CAPPARACEAE	Cname: Balaya (Sans.)
+Sname: Caesalpinia bonduc (L.) Roxb.	Family: CAESALPINIACEAE	Cname: Kantikaranjua, Kat-karanj
+Sname: Caesalpinia coriaria (Jacq.) Willd.	Family: CAESALPINIACEAE	Cname: Dividivi (Tel.)
+Sname: Caesalpinia crista L.	Family: CAESALPINIACEAE	Cname: Karanju, Katkaranj
+Sname: Caesalpinia digyna Rottler	Family: CAESALPINIACEAE	Cname: Vakeri-mul
+Sname: Caesalpinia pulcherrima (L.) Swartz	Family: CAESALPINIACEAE	Cname: Guletura
+Sname: Caesalpinia sappan L.	Family: CAESALPINIACEAE	Cname: Bakam, Patang
+Sname: Cajanus cajan (L.) Millsp.	Family: FABACEAE	Cname: Arhar, Tur
+Sname: Calamus rotang L.	Family: ARECACEAE	Cname: Arichural (Malayalam)
+Sname: Calamus travancoricus Bedd. ex Becc.	Family: ARECACEAE	Cname: Kattuchooral (Malayalam)
+Sname: Calendula officinalis L.	Family: ASTERACEAE	Cname: Zergul (Punjab)
+Sname: Callicarpa arborea Roxb. ex C.B.Clarke	Family: VERBENACEAE	Cname: Khoja (Assam)
+Sname: Callicarpa longifolia Lam.	Family: VERBENACEAE	Cname: Dieng-soh-kait-lang (Khasi Hills)
+Sname: Callicarpa macrophylla Vahl	Family: VERBENACEAE	Cname: Daya, Priyangu
+Sname: Callicarpa tomentosa (L.) Murr.	Family: VERBENACEAE	Cname: Bastra
+Sname: Calligonum polygonoides L.	Family: POLYGONACEAE	Cname: Phog
+Sname: Callistemon lanceolatus DC.	Family: MYRTACEAE	Cname: Bottle Brush (Eng.)
+Sname: Calophyllum apetalum Willd.	Family: CLUSIACEAE	Cname: Bobbi (Mar.)
+Sname: Calophyllum inophyllum L.	Family: CLUSIACEAE	Cname: Sultanachampa
+Sname: Calotropis gigantea (L.) W.T.Aiton	Family: ASCLEPIADACEAE	Cname: Ak
+Sname: Calotropis procera (Aiton) W.T.Aiton	Family: ASCLEPIADACEAE	Cname: Akada, Akavana
+Sname: Caltha palustris L.	Family: RANUNCULACEAE	Cname: Mumiri (Punjab)
+Sname: Calycopteris floribunda (Roxb.) Lam.	Family: COMBRETACEAE	Cname: Kokaray
+Sname: Camellia kissi Wall.	Family: THEACEAE	Cname: Kissi (Nepal)
+Sname: Camellia sinensis (L.) Kuntze	Family: THEACEAE	Cname: Cha, Chai
+Sname: Cananga odorata Hook.f. & Thoms.	Family: ANNONACEAE	Cname: Karumugai (Tam.)
+Sname: Canavalia gladiata (Jacq.) DC.	Family: FABACEAE	Cname: Bara Sem, Sufed Kadsumbal
+Sname: Canna indica L.	Family: CANNACEAE	Cname: Sabbajaya, Sarvajjaya
+Sname: Cannabis sativa L.	Family: CANNABACEAE	Cname: Bhang, Ganja
+Sname: Canscora decussata (Roxb.) Schult. & Schult.f.	Family: GENTIANACEAE	Cname: Sankhaphuli
+Sname: Canscora diffusa (Vahl) R.Br. ex. Roem. & Schult.	Family: GENTIANACEAE	Cname: Kyoukpan (Burma)
+Sname: Canthium dicoccum (Gaertn.) Merr.	Family: RUBIACEAE	Cname: Arsul (Mar.)
+Sname: Capparis decidua (Forssk.) Edgew.	Family: CAPPARACEAE	Cname: Kurrel, Karer
+Sname: Capparis grandis L.f.	Family: CAPPARACEAE	Cname: Kauntel (Mar.)
+Sname: Capparis heyneana Wall. ex Wight	Family: CAPPARACEAE	Cname: Chaymka
+Sname: Capparis sepiaria L.	Family: CAPPARACEAE	Cname: Kaliakara (Ben.)
+Sname: Capparis spinosa L.	Family: CAPPARACEAE	Cname: Kabra
+Sname: Capparis zeylanica L.	Family: CAPPARACEAE	Cname: Ardanda
+Sname: Capsella bursa-pastoris (L.) Medik.	Family: BRASSICACEAE	Cname: Shepherd's purse (Eng.)
+Sname: Capsicum annum L.	Family: SOLANACEAE	Cname: Lalmirch, Gachmarich
+Sname: Capsicum frutescens L.	Family: SOLANACEAE	Cname: Bird Chilli (Eng.)
+Sname: Carallia brachiata (Lour.) Merr.	Family: RHIZOPHORACEAE	Cname: Kierpa (Beng.)
+Sname: Carapa granatum (Koenig) Alston	Family: MELIACEAE	Cname: Pussur
+Sname: Cardiospermum helicacabum L.	Family: SAPINDACEAE	Cname: Kanphuti
+Sname: Carduus nutans L.	Family: ASTERACEAE	Cname: Gulibadaward (Kashmir)
+Sname: Careya arborea Roxb.	Family: LECYTHIDACEAE	Cname: Kumbi
+Sname: Carica papaya L.	Family: CARICACEAE	Cname: Papeeta, Papaya
+Sname: Carissa congesta Wight	Family: APOCYNACEAE	Cname: Karaunda, Karonti
+Sname: Carissa opaca Stapf ex. Haines	Family: APOCYNACEAE	Cname: Karaunda, Karonti
+Sname: Carmona microphylla (Lam.) G.Don	Family: BORAGINACEAE	Cname: Pala
+Sname: Carpesium abrotanoides L.	Family: ASTERACEAE	Cname: Wotiangil (Kashmir)
+Sname: Carpesium cernuum L.	Family: ASTERACEAE	Cname: Nodding Carpesium (Eng.)
+Sname: Carthamus lanatus L.	Family: ASTERACEAE	Cname: Saffron Thistle (Eng.)
+Sname: Carthamus tinctorius L.	Family: ASTERACEAE	Cname: Kusum, Karrah
+Sname: Carum carvi L.	Family: APIACEAE	Cname: Shia-jira, Zira
+Sname: Caryota urens L.	Family: ARECACEAE	Cname: Mari
+Sname: Casaeria graveolens Dalzell	Family: SAMYDACEAE	Cname: Safed-Karai
+Sname: Casearia elliptica Willd.	Family: SAMYDACEAE	Cname: Chilla
+Sname: Cassia angustifolia Vahl	Family: CAESALPINIACEAE	Cname: Bhuikhakhasa
+Sname: Cassia mimosoides L.	Family: CAESALPINIACEAE	Cname: Naelaponna (Tel.)
+Sname: Cassia pumila Lam.	Family: CAESALPINIACEAE	Cname: Sarmal (Mar.)
+Sname: Cassia absus L.	Family: CAESALPINIACEAE	Cname: Chaksu, Chakut
+Sname: Cassia alata L.	Family: CAESALPINIACEAE	Cname: Dadmurdan, Datkapat
+Sname: Cassia alata L.	Family: CAESALPINIACEAE	Cname: Dadmurdan, Datkapat
+Sname: Cassia auriculata L.	Family: CAESALPINIACEAE	Cname: Tarwar, Taroda
+Sname: Cassia fistula L.	Family: CAESALPINIACEAE	Cname: Amaltas
+Sname: Cassia italica (Mill.) Spreng	Family: CAESALPINIACEAE	Cname: Italian Senna (Eng.)
+Sname: Cassia obtusifolia L.	Family: CAESALPINIACEAE	Cname: Panevar
+Sname: Cassia occidentalis L.	Family: CAESALPINIACEAE	Cname: Kasondi, Chakunda
+Sname: Cassia siamea Lam.	Family: CAESALPINIACEAE	Cname: Kassod (Mar.)
+Sname: Cassia sophera L.	Family: CAESALPINIACEAE	Cname: Kasunda
+Sname: Cassia tora L.	Family: CAESALPINIACEAE	Cname: Chakunda, Panevar
+Sname: Cassytha filiformis L.	Family: LAURACEAE	Cname: Amarbeli
+Sname: Castanea sativa Mill.	Family: FAGACEAE	Cname: Sweet Chestnut (Eng.)
+Sname: Castanospermum australe A.Cunn. ex Mudie	Family: FABACEAE	Cname: Black bean (Eng.)
+Sname: Casuarina equisetifolia L.	Family: CASUARINACEAE	Cname: Jangli saru
+Sname: Catharanthus pusillus (Murray) G.Don	Family: APOCYNACEAE	Cname: Sangkhi (Sans.)
+Sname: Catharanthus roseus (L.) G. Don	Family: APOCYNACEAE	Cname: Sadabahar, Nayantara (Beng.)
+Sname: Cayratia pedata (Lam.) Juss. ex Gagnep.	Family: VITACEAE	Cname: Godhapadi (Sans.)
+Sname: Cayratia trifolia (L.) Domin.	Family: VITACEAE	Cname: Amal-bel, Ramchana
+Sname: Cedrus deodara (Roxb.ex D.Don) G.Don	Family: PINACEAE	Cname: Devadaru (Sans.)
+Sname: Ceiba pentandra (L.) Gaertn.	Family: BOMBACACEAE	Cname: Safed simal, Hattian
+Sname: Celastrus paniculatus Willd.	Family: CELASTRACEAE	Cname: Malkangni
+Sname: Celosia argentia L.	Family: AMARANTHACEAE	Cname: Sufaid murgha, Sarwari
+Sname: Celtis caucasia Willd.	Family: ULMACEAE	Cname: Caucasian hackberry (Eng.)
+Sname: Celtis cinnamomea Lindl.	Family: ULMACEAE	Cname: Pinari (Tam.)
+Sname: Cenchrus biflorus Roxb.	Family: POACEAE	Cname: Bhurat (Local name)
+Sname: Centaurea calcitrapa L.	Family: ASTERACEAE	Cname: Purple star thistle (Eng.)
+Sname: Centella asiatica (L.) Urban	Family: APIACEAE	Cname: Brahma-manduki
+Sname: Centipeda minima (L.) A.Braun & Asch.	Family: ASTERACEAE	Cname: Nakk-chikni, Nagdowana
+Sname: Centranthera indica (L.) Gamble	Family: SCROPHULARIACEAE	Cname: Undir-kani (Mar.)
+Sname: Cephaelis ipecacuanha (Brot.) A.Rich.	Family: RUBIACEAE	Cname: Ipecac (Eng.)
+Sname: Ceratonia siliqua L.	Family: CAESALPINIACEAE	Cname: Kharnub (Punjab)
+Sname: Ceratophyllum demursum L.	Family: CERATOPHYLLACEAE	Cname: Sivara
+Sname: Ceratopteris thaictroides Brong.	Family: PARKERIACEAE	Cname: Pan-necha (Local name)
+Sname: Cerbera manghas L.	Family: APOCYNACEAE	Cname: Dabur (Beng.)
+Sname: Cereus grandiflorus Mill.	Family: CACTACEAE	Cname: Night-Blooming Cereus
+Sname: Ceriops tagal (Perr.) C.B.Rob.	Family: RHIZOPHORACEAE	Cname: Goran (Beng.)
+Sname: Ceropegia tuberosa Roxb.	Family: ASCLEPIADACEAE	Cname: Bhutumbi (Sanskrit)
+Sname: Cheiranthus cheiri L.	Family: BRASSICACEAE	Cname: Wall Flower (Eng.)
+Sname: Chenopodium album L.	Family: CHENOPODIACEAE	Cname: Bethu sag
+Sname: Chenopodium ambrosioides L.	Family: CHENOPODIACEAE	Cname: Khatua, Katu ayamoddakam (Mal.)
+Sname: Chenopodium botrys L.	Family: CHENOPODIACEAE	Cname: Sokana (Local name)
+Sname: Chloranthus elatior Link	Family: CHLORANTHACEAE	Cname: Tall Chloranthus (Eng.)
+Sname: Chloris virgata Sw.	Family: POACEAE	Cname: Gharaniagas (Rajasthan)
+Sname: Chlorophytum arundinaceum Baker	Family: LILIACEAE	Cname: Safed musli
+Sname: Chloroxylon swietenia DC.	Family: RUTACEAE	Cname: Bhirra, Girya
+Sname: Chondrus crispus Stackh.	Family: GIGARTINIACEAE	Cname: Irish Moss (Eng.)
+Sname: Chrozophora plicata A.Juss.	Family: EUPHORBIACEAE	Cname: Neelkanthi (Local name)
+Sname: Chrozophora rottleri (Geis.) A.Juss.ex Spreng.	Family: EUPHORBIACEAE	Cname: Subali, Khudi-okra (Beng.)
+Sname: Chrysanthemum coronarium L.	Family: ASTERACEAE	Cname: Guldaudi
+Sname: Chrysanthemum indicum L.	Family: ASTERACEAE	Cname: Guldaudi
+Sname: Chrysobalanus icaco L.	Family: ROSACEAE	Cname: Coco Plum (Eng.)
+Sname: Cicer arietinum L.	Family: FABACEAE	Cname: But, Chana
+Sname: Cichorium endivia L.	Family: ASTERACEAE	Cname: Kasini, Kashini
+Sname: Cichorium intybus L.	Family: ASTERACEAE	Cname: Kasani, Kashini
+Sname: Cicuta virosa L	Family: APIACEAE	Cname: Water Hemlock (Eng.)
+Sname: Cimicifuga foetida L.	Family: RANUNCULACEAE	Cname: Jiunti (Punjab)
+Sname: Cinchona officinalis L.f.	Family: RUBIACEAE	Cname: Cinchona (Eng.)
+Sname: Cinnamomum cassia Benth.	Family: LAURACEAE	Cname: Chinese Cinnamon (Eng.)
+Sname: Cinnamomum glanduliferum (Wall.) Meissn.	Family: LAURACEAE	Cname: Gunserai (Assam)
+Sname: Cinnamomum glausescens (Nees) Hand.-Mazz.	Family: LAURACEAE	Cname: Rohu (Beng.)
+Sname: Cinnamomum impressinervium Meissn.	Family: LAURACEAE	Cname: Tejiya (Assamese)
+Sname: Cinnamomum macrocarpum Hook.f.	Family: LAURACEAE	Cname: Tejapatra (Sans.)
+Sname: Cinnamomum obtusifolium (Roxb.) Nees	Family: LAURACEAE	Cname: Kinton, Ram tezpat (Beng.)
+Sname: Cinnamomum pauciflorum Nees	Family: LAURACEAE	Cname: Dinglatterdop (Khasi Hills)
+Sname: Cinnamomum tamala (Buch.-Ham.) T.Nees & C.H.Eberm.	Family: LAURACEAE	Cname: Tejpatra
+Sname: Cinnamomum verum J.Presl.	Family: LAURACEAE	Cname: Dalchini
+Sname: Cinnamomum camphora (L.) Sieb.	Family: LAURACEAE	Cname: Kapur, Karpur
+Sname: Cirsium arvense (L.) Scop.	Family: ASTERACEAE	Cname: Creeping Thistle (Eng.)
+Sname: Cissampelos pareira L.	Family: MENISPERMACEAE	Cname: Akanadi
+Sname: Cissus adnata Roxb.	Family: VITACEAE	Cname: Nadena (Mar.)
+Sname: Cissus pallida (Wight & Arn.) Planch.	Family: VITACEAE	Cname: Kondage (Kan.)
+Sname: Cissus quadrangularis L.	Family: VITACEAE	Cname: Hadjora, Harsankari
+Sname: Cissus repens Lam.	Family: VITACEAE	Cname: Nelaboddu (Tel.)
+Sname: Cistanche tabulosa (Schrenk) Wight	Family: OROBANCHACEAE	Cname: Pilo agio (Gujrati)
+Sname: Citrullus colocynthis (L.) Schrad.	Family: CUCURBITACEAE	Cname: Indrayan, Makal
+Sname: Citrus aurantifolia (Christm.) Swingle	Family: RUTACEAE	Cname: Kaghzi-nimbu
+Sname: Citrus aurantium L.	Family: RUTACEAE	Cname: Khatta
+Sname: Citrus grandis (L.) Osbeck.	Family: RUTACEAE	Cname: Chakotra, Mahanimbu
+Sname: Citrus medica L.	Family: RUTACEAE	Cname: Bara nimbu, Bijaura
+Sname: Citrus sinensis (L.) Osbeck.	Family: RUTACEAE	Cname: Musambi, Narangi
+Sname: Claoxylon indicum Hassk.	Family: EUPHORBIACEAE	Cname: Laping Budak (Malay)
+Sname: Clausena excavata Burm.f.	Family: RUTACEAE	Cname: Cemamar
+Sname: Clausena pentaphylla (Roxb.) DC.	Family: RUTACEAE	Cname: Ratanjote
+Sname: Cleistanthus collinus (Roxb.) Benth. ex Hook.f.	Family: EUPHORBIACEAE	Cname: Garari
+Sname: Clematis gauriana Roxb. ex DC.	Family: RANUNCULACEAE	Cname: Telejadari (Kan.)
+Sname: Clematis smilacifolia Wall.	Family: RANUNCULACEAE	Cname: Gurraputige (Tel.)
+Sname: Clematis triloba B.Heyne ex Roth	Family: RANUNCULACEAE	Cname: Murhari
+Sname: Cleome chelidoni L.	Family: CAPPARACEAE	Cname: Gulabi Tilwan (Local names)
+Sname: Cleome gynandra (L.) L.	Family: CAPPARACEAE	Cname: Hulul, Churota
+Sname: Cleome monophylla L.	Family: CAPPARACEAE	Cname: Velakkeerai (Local name)
+Sname: Cleome vahliana Fresen.	Family: CAPPARACEAE	Cname: Panwar (Urdu)
+Sname: Cleome viscosa L.	Family: CAPPARACEAE	Cname: Hulhul, Hurhur
+Sname: Clerodendrum inerme (L.f.) Gaertn.	Family: VERBENACEAE	Cname: Lanjai, Sangkupi
+Sname: Clerodendrum multiflorum (Burm.f.) Kuntze	Family: VERBENACEAE	Cname: Arni
+Sname: Clerodendrum philippenum Schauer	Family: VERBENACEAE	Cname: Satabeli (Beng.)
+Sname: Clerodendrum serratum (L.) Moon	Family: VERBENACEAE	Cname: Barangi, Bamanhati (Beng.)
+Sname: Clerodendrum viscosum Vent.	Family: VERBENACEAE	Cname: Bhant
+Sname: Clinopodium vulgare L.	Family: LAMIACEAE	Cname: Cushion Calamint (Eng.)
+Sname: Clitoria ternatia L.	Family: FABACEAE	Cname: Aparajit
+Sname: Cocccinia grandis (L.) Voigt.	Family: CUCURBITACEAE	Cname: Bhimb, Telakucha (Beng.)
+Sname: Coccoloba uvifera L.	Family: POLYGONACEAE	Cname: Sea grape (Eng.)
+Sname: Cocculus hirsutus (L.) Diels	Family: MENISPERMACEAE	Cname: Jamtikibel
+Sname: Cocculus laurifolius DC.	Family: MENISPERMACEAE	Cname: Laurel-Leaved Snail Tree (Eng.)
+Sname: Cocculus pendulus (J.R.Forst. & G.Forst.) Diels	Family: MENISPERMACEAE	Cname: Illarbillar (Punjab)
+Sname: Cochlospermum religiosum (L.) Alston	Family: COCHLOSPERMACEAE	Cname: Kumbi, Galgal
+Sname: Cocos nucifera L.	Family: ARECACEAE	Cname: Nariyal
+Sname: Codiaeum variegatum Blume	Family: EUPHORBIACEAE	Cname: Patabahari (Beng.)
+Sname: Codonopsis ovata Benth.	Family: CAMPANULACEAE	Cname: Kashmir Bonnet Bellflower (Eng.)
+Sname: Coffea arabica L.	Family: RUBIACEAE	Cname: Arabian coffee (Eng.)
+Sname: Coix lacryma-jobi L.	Family: POACEAE	Cname: Sankru
+Sname: Colchicum luteum Baker	Family: LILIACEAE	Cname: Suranjana (Guj., Hind. & Mar.)
+Sname: Coldenia procumbens L.	Family: BORAGINACEAE	Cname: Tripungki
+Sname: Colebrookea oppositifolia Sm.	Family: LAMIACEAE	Cname: Binda, Pansra
+Sname: Coleus amboinicus Lour.	Family: LAMIACEAE	Cname: Pathorchur
+Sname: Coleus scutallarioides (L.) Benth.	Family: LAMIACEAE	Cname: Coleus (Eng.)
+Sname: Colocasia esculenta (L.) Schott	Family: ARACEAE	Cname: Arvi, Ghuiya
+Sname: Combretum nanum Buch.-Ham. ex D.Don	Family: COMBRETACEAE	Cname: Bhuidaudi (Local name)
+Sname: Combretum pilosum Roxb.	Family: COMBRETACEAE	Cname: Bhoree loth, Thoonia loth
+Sname: Combretum roxburghii Spreng.	Family: COMBRETACEAE	Cname: Punk
+Sname: Commelina benghalensis L.	Family: COMMELINACEAE	Cname: Kanchara
+Sname: Commelina longifolia Lam.	Family: COMMELINACEAE	Cname: Jalpipari
+Sname: Commelina paludosa Blume	Family: COMMELINACEAE	Cname: Patugia (Local name)
+Sname: Conium maculatum L.	Family: APIACEAE	Cname: Poison Hemlock (Eng.)
+Sname: Connarus monocarpus L.	Family: CONNARACEAE	Cname: Sunder (Mar.)
+Sname: Consolida ambigua (L.) Ball. & Heywood	Family: RANUNCULACEAE	Cname: Rocket Larkspur (Eng.)
+Sname: Convolvulus arvensis L.	Family: CONVOLVULACEAE	Cname: Beri, Haranpadi
+Sname: Convolvulus auricomus (A.Rich.) Bhandari	Family: CONVOLVULACEAE	Cname: Runchhaliveldi (Guj.)
+Sname: Convolvulus microphyllus Sieb.ex Spreng.	Family: CONVOLVULACEAE	Cname: Shankhapushpi, Dodak (Punjab)
+Sname: Coptis teeta Wall.	Family: RANUNCULACEAE	Cname: Mamira, Mamiran
+Sname: Corchorus aestuans L.	Family: TILIACEAE	Cname: Titapat (Beng.)
+Sname: Corchorus capsularis L.	Family: TILIACEAE	Cname: Narcha
+Sname: Corchorus depressus (L.) Stocks	Family: TILIACEAE	Cname: Baphuli
+Sname: Corchorus fascicularis L.	Family: TILIACEAE	Cname: Bhirupatrika (Sans.)
+Sname: Corchorus olitorius L.	Family: TILIACEAE	Cname: Mithapat (Beng.)
+Sname: Corchorus trilocularis L.	Family: TILIACEAE	Cname: Kadu-chinch (Local name)
+Sname: Cordia dichotoma Forst.	Family: BORAGINACEAE	Cname: Lasora, Chota lasora
+Sname: Cordia gharaf (Forst.) Ehrenb. ex Aschers.	Family: BORAGINACEAE	Cname: Gondni
+Sname: Cordia myxa Roxb.	Family: BORAGINACEAE	Cname: Lasora, Chota lasora
+Sname: Cordia myxa Roxb. (non L.)	Family: BORAGINACEAE	Cname: Lasora, Chota lasora
+Sname: Cordia obliqua Willd.	Family: BORAGINACEAE	Cname: Lasora, Chota lasora
+Sname: Cordia vestita (DC) Hook.f. & Thomson	Family: BORAGINACEAE	Cname: Kumpaiman, Bairola
+Sname: Coriandrum sativum L.	Family: APIACEAE	Cname: Dhania, Dhanya
+Sname: Coriaria nepalensis Wall.	Family: CORIARIACEAE	Cname: Masuri, Makola
+Sname: Corydalis govaniana Wall.	Family: FUMARIACEAE	Cname: Bhutkis
+Sname: Corydalis vaginans Royle	Family: FUMARIACEAE	Cname: Mamiran (Kurra Valley)
+Sname: Corylus jacquemontii Decne.	Family: BETULACEAE	Cname: Thangi (Punjab)
+Sname: Coscinium fenestratum (Gaertn.) Colebr.	Family: MENISPERMACEAE	Cname: Jhar-i-huldi, Haldigachi
+Sname: Cosmostigma racemosum (Roxb.) Wight	Family: ASCLEPIADACEAE	Cname: Shendvel (Mar.)
+Sname: Costus speciosus (Koen. ex Retz.)	Family: ZINGIBERACEAE	Cname: Keu, Kemuka
+Sname: Cotinus coggygria Scop.	Family: ANACARDIACEAE	Cname: Tunga (Punjab)
+Sname: Cotoneaster bacillaris Wall. ex. Lindl.	Family: ROSACEAE	Cname: Ri (Punjab)
+Sname: Cotoneaster microphylla Wall. ex. Lindl.	Family: ROSACEAE	Cname: Khariz (Kashmir)
+Sname: Cotula anthemoides L.	Family: ASTERACEAE	Cname: Babuna (Eng.)
+Sname: Crataeva nurvula Buch-Ham.	Family: CAPPARACEAE	Cname: Barna, Bilasi
+Sname: Cratoxylum cochinchinense (Lour.) Blume	Family: HYPERICACEAE	Cname: Derum Selunchor
+Sname: Crescentia cujute L.	Family: BIGNONIACEAE	Cname: Bilayati Bel
+Sname: Cressa cretica L.	Family: CONVOLVULACEAE	Cname: Rudravanti
+Sname: Crinum asiaticum L.	Family: AMARYLLIDACEAE	Cname: Badakanvar, Pindar
+Sname: Crinum defixum Ker.-Gawl.	Family: AMARYLLIDACEAE	Cname: Sukdarshan (Beng.)
+Sname: Crinum latifolium L.	Family: AMARYLLIDACEAE	Cname: Sukhdarshan ( Beng.)
+Sname: Crocus sativus L.	Family: IRIDACEAE	Cname: Kesar, Zafran
+Sname: Crotalaria albida B.Heyne ex Roth.	Family: FABACEAE	Cname: Ban-methi
+Sname: Crotalaria burhia Buch.-Ham ex Benth.	Family: FABACEAE	Cname: Ghagari (Mar.)
+Sname: Crotalaria juncea L.	Family: FABACEAE	Cname: Sannai Sunn
+Sname: Crotalaria laburnifolia L.	Family: FABACEAE	Cname: Muna
+Sname: Crotalaria pallida Aiton	Family: FABACEAE	Cname: Sen, San
+Sname: Crotalaria prostrata Rottl. ex Willd.	Family: FABACEAE	Cname: Vishnukarni, Chotojhunjhuni (Beng.)
+Sname: Crotalaria retusa L.	Family: FABACEAE	Cname: Ghunghunian
+Sname: Crotalaria sericea Retz.	Family: FABACEAE	Cname: Jhunjhunia
+Sname: Croton bonplandianum Baill.	Family: EUPHORBIACEAE	Cname: Kukka mirapa
+Sname: Croton caudatus Geisel.	Family: EUPHORBIACEAE	Cname: Nanbhantur (Beng.)
+Sname: Croton oblongifolius Roxb.	Family: EUPHORBIACEAE	Cname: Chucka
+Sname: Croton tiglium L.	Family: EUPHORBIACEAE	Cname: Jamalgota
+Sname: Cryptocarya wightiana Thwaites	Family: LAURACEAE	Cname: Neela Vriksha (Sans.)
+Sname: Cryptolepis buchananii R.Br. ex Roem. & Schult.	Family: ASCLEPIADACEAE	Cname: Karanta, Kalisar
+Sname: Cucubalus bacciferous L.	Family: CARYOPHYLLACEAE	Cname: Berry-bearing Catchfly (Eng.)
+Sname: Cucumis callosus (Rottl.) Cogn.	Family: CUCURBITACEAE	Cname: Kharbooza
+Sname: Cucumis melo L.	Family: CUCURBITACEAE	Cname: Kharbuja
+Sname: Cucumis prophetarum L.	Family: CUCURBITACEAE	Cname: Khad-Kachar (Rajasthan)
+Sname: Cucumis sativus L.	Family: CUCURBITACEAE	Cname: Khira
+Sname: Cucurbita maxima Duchesne	Family: CUCURBITACEAE	Cname: Lal kumra, Mitha kumra
+Sname: Cucurbita pepo L.	Family: CUCURBITACEAE	Cname: Kumra, Safedkaddu
+Sname: Cupressus sempervirens L.	Family: CUPRESSACEAE	Cname: Sara, Saras
+Sname: Curculigo orchioides Gaertn.	Family: AMARYLLIDACEAE	Cname: Kali musli, Syahmusali
+Sname: Curcuma angustifolia Roxb.	Family: ZINGIBERACEAE	Cname: Tikhur
+Sname: Curcuma aromatica Salisb.	Family: ZINGIBERACEAE	Cname: Jangli-haldi
+Sname: Curcuma leucorrhiza Roxb.	Family: ZINGIBERACEAE	Cname: Tikar (Beng.)
+Sname: Curcuma longa L.	Family: ZINGIBERACEAE	Cname: Haldi, Halada
+Sname: Curcuma rubescens Roxb.	Family: ZINGIBERACEAE	Cname: Ruby (Eng.)
+Sname: Curcuma zeodoria Roxb.	Family: ZINGIBERACEAE	Cname: Kachura
+Sname: Cuscuta chinensis Lam.	Family: CONVOLVULACEAE	Cname: Dodder (Eng.)
+Sname: Cuscuta hyalina Roth.	Family: CONVOLVULACEAE	Cname: Niradhari
+Sname: Cuscuta reflexa Roxb.	Family: CONVOLVULACEAE	Cname: Akasbel, Amarbel
+Sname: Cyathula prostrata Blume	Family: AMARANTHACEAE	Cname: Lal Chirchita
+Sname: Cycas circinalis L.	Family: CYCADACEAE	Cname: Jangli-madan-mast-ka-phul
+Sname: Cycas rumphii Miq.	Family: CYCADACEAE	Cname: Kama (Tam.)
+Sname: Cyclea peltata Hook.f. & Thomson	Family: MENISPERMACEAE	Cname: Bruhat patha (Sans.)
+Sname: Cydonia oblonga Mill.	Family: ROSACEAE	Cname: Bihi
+Sname: Cymbidium simulans Rolfe	Family: ORCHIDACEAE	Cname: Aloe-leafed Cymbidium (Eng.)
+Sname: Cymbopogon flexuosus (Nees ex Steud.) Will.Watson	Family: POACEAE	Cname: Lemongrass (Eng.), Kodi-pullu (Mal.)
+Sname: Cymbopogon jwarancusa (Jones) Schult.	Family: POACEAE	Cname: Lamajjaka (Sans.)
+Sname: Cymbopogon martinii (Roxb.) Will.Watson	Family: POACEAE	Cname: Gandh bel
+Sname: Cymbopogon nardus (L.) Rendle	Family: POACEAE	Cname: Ganjni
+Sname: Cymbopogon schoenanthus (L.) Spreng.	Family: POACEAE	Cname: Rousaghas
+Sname: Cynara scolymus L.	Family: ASTERACEAE	Cname: Hathichak, Hathi-choke
+Sname: Cynodon dactylon (L.) Pers.	Family: POACEAE	Cname: Dhub, Hariali
+Sname: Cynoglossum glochidiatum Wall. ex Benth.	Family: BORAGINACEAE	Cname: Dhalabrauisabta (Assam)
+Sname: Cynoglossum lanceolatum Forsk.	Family: BORAGINACEAE	Cname: Kuro (Nepali)
+Sname: Cynometra ramiflora L.	Family: CAESALPINIACEAE	Cname: Madhuka (Sans.)
+Sname: Cyperus articulatus L.	Family: CYPERACEAE	Cname: Guinea Rush (Eng.)
+Sname: Cyperus iria L.	Family: CYPERACEAE	Cname: Bara chuncha (Beng.)
+Sname: Cyperus rotundus L.	Family: CYPERACEAE	Cname: Motha, Mutha (Beng.)
+Sname: Cyperus stoloniferous Retz.	Family: CYPERACEAE	Cname: Jatamasi (Mar.)
+Sname: Cyperus triceps (Rottb.) Endl.	Family: CYPERACEAE	Cname: Nirbisi
+Sname: Cyrtophyllum peregrinum Blume	Family: LOGANIACEAE	Cname: Anan (Burma)
+Sname: Cytisus scoparius Link.	Family: FABACEAE	Cname: Scotch broom (Eng.)
+Sname: Dactyloctenium aegyptium (L.) Willd.	Family: POACEAE	Cname: Makra, Makri
+Sname: Dactylorhiza hatagirea (D. Don) Soo	Family: ORCHIDACEAE	Cname: Salampanja, Salam
+Sname: Dalbergia lanceolaria L.f.	Family: FABACEAE	Cname: Takoli, Bithua
+Sname: Dalbergia latifolia Roxb.	Family: FABACEAE	Cname: Shisham
+Sname: Dalbergia pinnata (Lour.) Prain.	Family: FABACEAE	Cname: Keti (Assam)
+Sname: Dalbergia sissoo Roxb. ex DC.	Family: FABACEAE	Cname: Shisham, Sissu
+Sname: Dalbergia spinosa Roxb.	Family: FABACEAE	Cname: Chillanki (Tel.)
+Sname: Dalbergia stipulacea Roxb.	Family: FABACEAE	Cname: Tateberi (Nepal)
+Sname: Dalbergia volubilis Roxb.	Family: FABACEAE	Cname: Bhatia
+Sname: Daphne oleoides Schreb.	Family: THYMELAEACEAE	Cname: Kutilal (Punjab)
+Sname: Daphne papyracea Wall. ex Steud.	Family: THYMELAEACEAE	Cname: Satpura setburwa
+Sname: Datisca cannabina L.	Family: DATISCACEAE	Cname: Akalbir
+Sname: Datura innoxia Mill.	Family: SOLANACEAE	Cname: Safed Dhatura
+Sname: Datura metal L.	Family: SOLANACEAE	Cname: Sadahdhatura
+Sname: Datura stramonium L.	Family: SOLANACEAE	Cname: Dhatura
+Sname: Daucas carota L.	Family: APIACEAE	Cname: Gajar
+Sname: Decalepis hamiltonii Wight & Arn.	Family: ASCLEPIADACEAE	Cname: Mahali kizhangu (Tam.)
+Sname: Deeringia amaranthoides Merill.	Family: AMARANTHACEAE	Cname: Latman
+Sname: Delonix elata (L.) Gamble	Family: CAESALPINIACEAE	Cname: Sankasura (Mar.)
+Sname: Delphinium brunonianum Royle	Family: RANUNCULACEAE	Cname: Laskar (Punjab)
+Sname: Delphinium denudatum Wall. ex Hook.f. & Thomson	Family: RANUNCULACEAE	Cname: Jadwar, Nirbisi
+Sname: Delphinium vestitum Wall. ex Royle	Family: RANUNCULACEAE	Cname: Juha, Kalulu
+Sname: Dendrobium crumenatum Sw.	Family: ORCHIDACEAE	Cname: Pigeon Orchid (Eng.)
+Sname: Dendrobium ovatum (L.) Kraenzl.	Family: ORCHIDACEAE	Cname: Nagli (Mar.)
+Sname: Dendrocalamus strictus (Roxb.) Nees	Family: POACEAE	Cname: Bans kaban, Bans khurd
+Sname: Dendrocnide sinuata (Bl.) Chaw.	Family: URTICACEAE	Cname: Morange, Utigun
+Sname: Dendrophthoe elastica (Desr.) Danser	Family: LORANTHACEAE	Cname: Andagan (Tam.)
+Sname: Dendrophthoe falcata (L.f.) Ettingshausen	Family: LORANTHACEAE	Cname: Banda
+Sname: Derris ferruginea (Roxb.) Benth.	Family: FABACEAE	Cname: Ruphang-doukha, Aru (Assam)
+Sname: Derris indica (Lam.) Bennet.	Family: FABACEAE	Cname: Karanj, Dithori
+Sname: Derris scandens (Roxb.) ex. Benth.	Family: FABACEAE	Cname: Gonj
+Sname: Derris trifoliata Lour.	Family: FABACEAE	Cname: Panlata (Beng.)
+Sname: Descurainia sophia (L.) Webb ex Prantl	Family: BRASSICACEAE	Cname: Khubkallana
+Sname: Desmodium elegans DC.	Family: FABACEAE	Cname: Sambar
+Sname: Desmodium gangeticum (L.) DC.	Family: FABACEAE	Cname: Sarivan, Salpan
+Sname: Desmodium heterocarpon (L.) DC.	Family: FABACEAE	Cname: Chepputatta (Tel.)
+Sname: Desmodium pulchellum (L.) Benth.	Family: FABACEAE	Cname: Chapor, Dheknanadak (Local names)
+Sname: Desmodium triflorum (L.) DC.	Family: FABACEAE	Cname: Kudaliya
+Sname: Desmodium triquetrum (L.) DC.	Family: FABACEAE	Cname: Adkhapanal (Mal.)
+Sname: Desmos chinensis Lour.	Family: ANNONACEAE	Cname: Aitaala (Kannada)
+Sname: Desmos cochinchinensis Lour.	Family: ANNONACEAE	Cname: Dwarf ylang-ylang (Eng.)
+Sname: Desmostachya bipinnata (L.) Stapf	Family: POACEAE	Cname: Dab, Durva
+Sname: Dianthus anatolicus Boiss.	Family: CARYOPHYLLACEAE	Cname: Kanturiyan (Indian Bazaars)
+Sname: Dianthus caryophyllus L.	Family: CARYOPHYLLACEAE	Cname: Clove pink (Eng.)
+Sname: Dichroa febrifuga Lour.	Family: SAXIFRAGACEAE	Cname: Basak
+Sname: Dichrostachys cinerea (L.) Wight & Arn.	Family: MIMOSACEAE	Cname: Kheri, Vartuli
+Sname: Dicliptera bupleuroides Nees	Family: ACANTHACEAE	Cname: Bouna (Simla)
+Sname: Dicoma tomentosa Cass.	Family: ASTERACEAE	Cname: Navananjichapala (Mar.)
+Sname: Dictamnus albus L.	Family: RUTACEAE	Cname: Burning Bush (Eng.)
+Sname: Didymocarpus pedicillatus R.Br.	Family: GESNERIACEAE	Cname: Pathar phori
+Sname: Digera muricata (L.) Mart.	Family: AMARANTHACEAE	Cname: Latmhuria
+Sname: Digitalis lanata Ehrh.	Family: SCROPHULARIACEAE	Cname: Grecian Foxglobe (Eng.)
+Sname: Digitalis purpurea L.	Family: SCROPHULARIACEAE	Cname: Common Foxglove (Eng.)
+Sname: Dillenia indica L.	Family: DILLENIACEAE	Cname: Chalta
+Sname: Dimocarpus longan Lour.	Family: SAPINDACEAE	Cname: Ashphal (Beng.)
+Sname: Dinochloa andamanica Kurz	Family: POACEAE	Cname: Baradaha-barat (Andamans)
+Sname: Dioscorea alata L.	Family: DIOSCOREACEAE	Cname: Chupri alu, Khamalu
+Sname: Dioscorea bulbifera L.	Family: DIOSCOREACEAE	Cname: Ratalu, Suaralu
+Sname: Dioscorea deltoidea Wall. ex Kunth	Family: DIOSCOREACEAE	Cname: Kins (Kash.), Kriss (Punjab)
+Sname: Dioscorea esculenta Burkill	Family: DIOSCOREACEAE	Cname: Suthni, Su nialu (Beng.)
+Sname: Dioscorea oppositifolia L.	Family: DIOSCOREACEAE	Cname: Yellagadda, Adairdumpa (Tel.)
+Sname: Dioscorea pentaphylla L.	Family: DIOSCOREACEAE	Cname: Bhusa, Gazaria
+Sname: Diospyros candolleana Wight	Family: EBENACEAE	Cname: Nila-vriksha (Sans.)
+Sname: Diospyros ebenum Koenig	Family: EBENACEAE	Cname: Ebans, Abnus
+Sname: Diospyros exsculpta Buch.-Ham.	Family: EBENACEAE	Cname: Coromandel Ebony Persimmon (Eng.)
+Sname: Diospyros kaki L.f.	Family: EBENACEAE	Cname: Halwa tendu
+Sname: Diospyros malabarica (Desr.) Kostel.	Family: EBENACEAE	Cname: Gaab
+Sname: Diospyros melanoxylon Roxb.	Family: EBENACEAE	Cname: Tendu, Timburni
+Sname: Diospyros montana Roxb.	Family: EBENACEAE	Cname: Bistendu, Tendu
+Sname: Diospyros paniculata Dalzell	Family: EBENACEAE	Cname: Thinduka (Sans.)
+Sname: Diospyros toposia Buch.-Ham.	Family: EBENACEAE	Cname: Tapsi (Beng.)
+Sname: Diploclisia glaucescens (Blume) Diels	Family: MENISPERMACEAE	Cname: Vatoli (Mar.)
+Sname: Dipterocarpus indicus Bedd.	Family: DIPTEROCARPACEAE	Cname: Kakka (Mal.)
+Sname: Dipterocarpus turbinatus Gaertn.f.	Family: DIPTEROCARPACEAE	Cname: Teli-gurjun (Beng.)
+Sname: Dodonaea viscosa (L.) Jacq.	Family: SAPINDACEAE	Cname: Sanatta, Sinatha
+Sname: Dolichandrone falcata Seem.	Family: BIGNONIACEAE	Cname: Mersingi (Mar.)
+Sname: Dolichandrone spathacea K.Schum.	Family: BIGNONIACEAE	Cname: Gorshingiah (Beng.)
+Sname: Dolichos trilobus L.	Family: FABACEAE	Cname: Minnikizhangu (Local name)
+Sname: Dolichos uniflorus Lam.	Family: FABACEAE	Cname: Kulthi
+Sname: Draba verna L.	Family: BRASSICACEAE	Cname: Spring Whitlowgrass (Eng.)
+Sname: Dracocephalum moldavica L.	Family: LAMIACEAE	Cname: Tukhme-ferunjmishk
+Sname: Drosera burmanni Vahl	Family: DROSERACEAE	Cname: Jalkeshar (Local name)
+Sname: Drosera peltata Sm.	Family: DROSERACEAE	Cname: Mukhajali
+Sname: Drymaria cordata Willd.	Family: CARYOPHYLLACEAE	Cname: Abijalo, Bat-nongrim (Local names)
+Sname: Drynaria quercifolia (L.) J.Sm.	Family: POLYPODIACEAE	Cname: Garur (Beng.)
+Sname: Dryobalanops aromatica Gaertn.f.	Family: DIPTEROCARPACEAE	Cname: Bhimsaini-kapur, Barus kapur
+Sname: Dryopteris filix-mas (L.) Schott.	Family: DRYOPTERIDACEAE	Cname: Sarakhs
+Sname: Dryopteris marginata (Wall. ex Christ.) Christ.	Family: DRYOPTERIDACEAE	Cname: Lai-chankhrang (Manipuri)
+Sname: Drypetyes roxburghii (Wall.) Hurus.	Family: EUPHORBIACEAE	Cname: Jiaputa, Juti
+Sname: Durio zibethinus L.	Family: BOMBACACEAE	Cname: Civet fruit (Eng.)
+Sname: Dysoxylum alliarum (Buch.-Ham.) N.P.Balakr.	Family: MELIACEAE	Cname: Gendheli-poma (Assam)
+Sname: Dysoxylum malabaricum Bedd.	Family: MELIACEAE	Cname: Vellaiyagil (Tam.)
+Sname: Ecballium elaterium L.	Family: CUCURBITACEAE	Cname: Squirting Cucumber (Eng.)
+Sname: Ecbolium viride (Forsk.) Alston	Family: ACANTHACEAE	Cname: Udajati
+Sname: Echinochloa crusgalli (L.) Beauv	Family: POACEAE	Cname: Samak, sanwak
+Sname: Echinochloa frumentacea (Roxb.) Link.	Family: POACEAE	Cname: Sanwa, Shamula
+Sname: Echinochloa stagnina (Retz.) P.Beauv.	Family: POACEAE	Cname: Dul (Beng.)
+Sname: Echinops echinatus Roxb.	Family: ASTERACEAE	Cname: Gokru, Utakanta
+Sname: Eclipta alba (L.) Hassk.	Family: ASTERACEAE	Cname: Bhangra, Babri
+Sname: Edgeworthia gardneri (Wall.) Meissn.	Family: THYMELAEACEAE	Cname: Dhenok (lepcha)
+Sname: Ehretia aspera Roxb.	Family: BORAGINACEAE	Cname: Tella juvi (Tel.)
+Sname: Elaeagnus angustifolia L.	Family: ELAEAGNACEAE	Cname: Shiulik
+Sname: Elaeagnus latifolia L.	Family: ELAEAGNACEAE	Cname: Guara (Beng.)
+Sname: Elaeagnus parvifolia Wall. ex Royle	Family: ELAEAGNACEAE	Cname: Giwain, Kankal
+Sname: Elaeis guineensis Jacq.	Family: ARECACEAE	Cname: African oil palm (Eng.)
+Sname: Elaeocarpus floribundus Blume	Family: ELAEOCARPACEAE	Cname: Jalpai (Beng.)
+Sname: Elaeocarpus serratus L.	Family: ELAEOCARPACEAE	Cname: Jalpai (Beng.)
+Sname: Elaeocarpus tuberculatus Roxb.	Family: ELAEOCARPACEAE	Cname: Rutthracham (Tam.)
+Sname: Elephantopus scaber L.	Family: ASTERACEAE	Cname: Gobhi, Samudulan
+Sname: Eleusine coracana L.	Family: POACEAE	Cname: Mandua, Mandal
+Sname: Eleusine indica (L.) Gaertn.	Family: POACEAE	Cname: Mandla
+Sname: Elsholtzia ciliata (Thunb.) Hyl.	Family: LAMIACEAE	Cname: Crested Late-Summer Mint (Eng.)
+Sname: Embelia ribes Burm.f.	Family: MYRSINACEAE	Cname: Vayavidanga, Bhabhiranga
+Sname: Embelia tsjeriam-cottam A.DC.	Family: MYRSINACEAE	Cname: Babrang, Baibrang
+Sname: Emblica officinalis Gaertn.	Family: EUPHORBIACEAE	Cname: Amla, Amlika
+Sname: Emilia sonchifolia (L.) DC.	Family: ASTERACEAE	Cname: Hirankhuri
+Sname: Enhydra fluctans Lour.	Family: ASTERACEAE	Cname: Harkuch
+Sname: Enicostema hyssopifolium (Willd.) I.Verd.	Family: GENTIANACEAE	Cname: Chota chirayata
+Sname: Entada pursaetha DC.	Family: MIMOSACEAE	Cname: African dream herb (Eng.)
+Sname: Ephedra girardiana Wall. ex Stapf	Family: EPHEDRACEAE	Cname: Asmania (Punjab)
+Sname: Ephedra intermedia Schrenk. & Mey	Family: EPHEDRACEAE	Cname: Central-Asian Jointfir (Eng.)
+Sname: Ephemerantha macraei (Lindl.) Hunt & Summerh	Family: ORCHIDACEAE	Cname: Jivanti
+Sname: Epilobium angustifolium L.	Family: ONAGRACEAE	Cname: Fireweed (Eng.)
+Sname: Epilobium hirsutum L.	Family: ONAGRACEAE	Cname: Hairy Willow Weed (Eng.)
+Sname: Equisetum debile Roxb. ex Vaucher	Family: EQUISETACEAE	Cname: Trotak, Nari (Punjab)
+Sname: Equisetum arvense L.	Family: EQUISETACEAE	Cname: Field Horsetail (Eng.)
+Sname: Eranthemum roseum R.Br.	Family: ACANTHACEAE	Cname: Gulsham
+Sname: Eria pannea Lindl.	Family: ORCHIDACEAE	Cname: Zhu Ye Ni Mao Lan (China)
+Sname: Erigeron asteroides Roxb.	Family: ASTERACEAE	Cname: Sonsali, Maredi (Bombay)
+Sname: Erigeron canadensis L.	Family: ASTERACEAE	Cname: Jarayupriya (Sans.)
+Sname: Eriobotrya japonica (Thunb.) Lindl.	Family: ROSACEAE	Cname: Logat
+Sname: Eriolaena quinquelocularis Wight	Family: STERCULIACEAE	Cname: Naiunnam (Tam.)
+Sname: Erodium cicutarium (L.) L'Herit ex Aiton	Family: GERANIACEAE	Cname: Red-Stem Filaree (Eng.)
+Sname: Erodium moschatum L.'Herit	Family: GERANIACEAE	Cname: Musk-Clover (Eng.)
+Sname: Eruca sativa L.	Family: BRASSICACEAE	Cname: Taramira, Seoha
+Sname: Ervatamia heyneana (Wall.) T. Cooke	Family: APOCYNACEAE	Cname: Kundalapala (Mal.)
+Sname: Erycibe paniculata Roxb.	Family: CONVOLVULACEAE	Cname: Puttapalatige (Tel.)
+Sname: Eryngium foetidum L.	Family: APIACEAE	Cname: Ban-Dhania, Jongali-memedo (Assam)
+Sname: Erysimum rependum L.	Family: BRASSICACEAE	Cname: Hamadan (Kashmir)
+Sname: Erythrina stricta Roxb.	Family: FABACEAE	Cname: Mura (Sans.)
+Sname: Erythrina suberosa Roxb.	Family: FABACEAE	Cname: Dauldhak, Madar
+Sname: Erythrina variegata L.	Family: FABACEAE	Cname: Dadap, Mandara
+Sname: Erythroxylon coca Lam.	Family: ERYTHROXYLACEAE	Cname: Coca (Eng.)
+Sname: Erythroxylon monogynum Roxb.	Family: ERYTHROXYLACEAE	Cname: Devadaru (Kan.)
+Sname: Eucalyptus citridora Hook.	Family: MYRTACEAE	Cname: Lemon-scented Eucalypt (Eng.)
+Sname: Eucalyptus globulus Labill.	Family: MYRTACEAE	Cname: Yukeliptas, Eucalyptus (Beng.)
+Sname: Eulophia epidendraea C.E.C.Fisch.	Family: ORCHIDACEAE	Cname: Katou-Kaida-Maravara (Malayalam)
+Sname: Eulophia herbacea Lindl.	Family: ORCHIDACEAE	Cname: Kukudkand (Mar.)
+Sname: Eulophia nuda Lindl.	Family: ORCHIDACEAE	Cname: Amarkand, Goruma
+Sname: Euonymus tingens Wall. ex Roxb.	Family: CELASTRACEAE	Cname: Kungku
+Sname: Euphorbia microphylla B.Heyne ex Roth	Family: EUPHORBIACEAE	Cname: Chota-keruee (Beng.)
+Sname: Euphorbia neriifolia L.	Family: EUPHORBIACEAE	Cname: Sehund, Thohar, Pattonkisend
+Sname: Euphorbia nivulea Buch.-Ham.	Family: EUPHORBIACEAE	Cname: Katathohar
+Sname: Euphorbia pilosa L.	Family: EUPHORBIACEAE	Cname: Chounpalu (Chinese)
+Sname: Euphorbia rosea Retz.	Family: EUPHORBIACEAE	Cname: Chinnamman paccharisi (Tam.)
+Sname: Euphorbia royleana Boiss.	Family: EUPHORBIACEAE	Cname: Thor, Shakarpitan
+Sname: Euphorbia thymifolia L.	Family: EUPHORBIACEAE	Cname: Choti-dudhi
+Sname: Euphorbia tirucalli L.	Family: EUPHORBIACEAE	Cname: Konpal sehund
+Sname: Euphorbia antiquorum L.	Family: EUPHORBIACEAE	Cname: Tredhara sehund
+Sname: Euphorbia dracunculoides Lam.	Family: EUPHORBIACEAE	Cname: Chagulputputi
+Sname: Euphorbia fusiformis Buch.-Ham. ex D. Don	Family: EUPHORBIACEAE	Cname: Banmuli, Khargoni (Local names)
+Sname: Euphorbia granulata Forsk.	Family: EUPHORBIACEAE	Cname: Kanthaarak (Santali)
+Sname: Euphorbia helioscopia L.	Family: EUPHORBIACEAE	Cname: Hirruseeah, Mahabi
+Sname: Euphorbia hirta L.	Family: EUPHORBIACEAE	Cname: Dudhia
+Sname: Euphorbia hypericifolia L.	Family: EUPHORBIACEAE	Cname: Hakshardana
+Sname: Euphorbia nivulea Buch.-Ham.	Family: EUPHORBIACEAE	Cname: Katathohar
+Sname: Euphorbia thomsoniana Boiss.	Family: EUPHORBIACEAE	Cname: Hirtiz (Kashmir)
+Sname: Euphrasia officinalis L.	Family: SCROPHULARIACEAE	Cname: Eyebright (Eng.)
+Sname: Euploca strigosa (Willd.) Diane & Hilger	Family: BORAGINACEAE	Cname: Chitiphal, Safed bhangra
+Sname: Euryale ferox Salisb.	Family: NYMPHAEACEAE	Cname: Makhana
+Sname: Eurycoma longifolia Jack	Family: SIMAROUBACEAE	Cname: Tongkat ali (Malay)
+Sname: Evodia lunu-ankenda (Gaertn.) Merr.	Family: RUTACEAE	Cname: Kanalei (Mal.)
+Sname: Evolvulus alsinoides (L.) L.	Family: CONVOLVULACEAE	Cname: Shyamakranta, Sankhahuli
+Sname: Exacum bicolor Roxb.	Family: GENTIANACEAE	Cname: Baracharayata
+Sname: Exacum pedunculatum L.	Family: GENTIANACEAE	Cname: Kana poondu (Tam.)
+Sname: Exacum tetragonum Roxb.	Family: GENTIANACEAE	Cname: Bara-charayata
+Sname: Excoecaria acerifolia Didr.	Family: EUPHORBIACEAE	Cname: Basingh
+Sname: Excoecaria agallocha L.	Family: EUPHORBIACEAE	Cname: Gengwa (Beng.)
+Sname: Fagonia cretica L.	Family: ZYGOPHYLLACEAE	Cname: Ustarkhar
+Sname: Fagopyrum dibotrys (D. Don) Hara	Family: POLYGONACEAE	Cname: Ban ogal, Kanjolya
+Sname: Fagopyrum esculentum Moench.	Family: POLYGONACEAE	Cname: Kotu, Phaphra
+Sname: Fagopyrum tataricum (L.) Gaertn.	Family: POLYGONACEAE	Cname: Kaspat
+Sname: Fagraea racemosa Jack	Family: LOGANIACEAE	Cname: Thithpaloo (Burma)
+Sname: Farsetia hamiltonii Royle	Family: BRASSICACEAE	Cname: Faridbuti (Punjab)
+Sname: Farsetia jacquemontii Hook.f. & Thomson	Family: BRASSICACEAE	Cname: Faridbuti (Punjab)
+Sname: Ferula asa-foetida L.	Family: APIACEAE	Cname: Hing
+Sname: Ferula galbaniflua Boiss. ex Buhse	Family: APIACEAE	Cname: Galbanum
+Sname: Ferula jaeschkeana Vatke	Family: APIACEAE	Cname: Hingupatri, Hingu
+Sname: Ferula narthex Boiss.	Family: APIACEAE	Cname: Hing, Inguva (Tel.)
+Sname: Ficus amplissima Sm.	Family: MORACEAE	Cname: Jari
+Sname: Ficus arnottiana (Miq.) Miq.	Family: MORACEAE	Cname: Paraspipal
+Sname: Ficus benghalensis L.	Family: MORACEAE	Cname: Bar, Bargad
+Sname: Ficus benjamina L.	Family: MORACEAE	Cname: Pukar (Beng.)
+Sname: Ficus carica L.	Family: MORACEAE	Cname: Anjir
+Sname: Ficus dalhousiae Miq.	Family: MORACEAE	Cname: Somavalkhom (Sans.)
+Sname: Ficus exasperata Vahl	Family: MORACEAE	Cname: Kalmnor
+Sname: Ficus fistulosa Reinw.	Family: MORACEAE	Cname: Kalapong (Khasi Hills)
+Sname: Ficus heterophylla L.f.	Family: MORACEAE	Cname: Trayamana (Sans.)
+Sname: Ficus hispida L.f.	Family: MORACEAE	Cname: Daduri, Dagurin
+Sname: Ficus microcarpa L.f.	Family: MORACEAE	Cname: Kamrup
+Sname: Ficus palmata Forsk.	Family: MORACEAE	Cname: Anjiri, Bedu
+Sname: Ficus racemosa L.	Family: MORACEAE	Cname: Gular, Umar
+Sname: Ficus religiosa L.	Family: MORACEAE	Cname: Pipal, Pipli
+Sname: Ficus ribes Reinw. ex Blume	Family: MORACEAE	Cname: Chhota Jangli Anjur
+Sname: Ficus rumphii Blume	Family: MORACEAE	Cname: Gagjaira, Ganja
+Sname: Ficus semicordata Buch.-Ham. ex Sm.	Family: MORACEAE	Cname: Jharphali, Khain
+Sname: Ficus talbotii King	Family: MORACEAE	Cname: Plaksha (Sans.)
+Sname: Ficus tinctoria G.Forst.	Family: MORACEAE	Cname: Udumber (Sans.)
+Sname: Ficus virens Aiton	Family: MORACEAE	Cname: Pakad, Pakur (Beng.)
+Sname: Fimbristylis falcata (Vahl) Kunth	Family: CYPERACEAE	Cname: West Indian Fimbry (Eng.)
+Sname: Flacourtia indica (Burm.f.) Merr.	Family: FLACOURTIACEAE	Cname: Gargugal, Kakai (Local names)
+Sname: Flacourtia jangomas (Lour.) Raeusch.	Family: FLACOURTIACEAE	Cname: Paniala
+Sname: Flagellaria indica L.	Family: FLAGELLARIACEAE	Cname: Bomugra (Oriya)
+Sname: Flemingia chappar Buch.-Ham. ex Benth.	Family: FABACEAE	Cname: Salpan
+Sname: Flemingia macrophylla (Willd.) Prain ex Merill.	Family: FABACEAE	Cname: Bara-salpan, Bhalia
+Sname: Flemingia nana Roxb.	Family: FABACEAE	Cname: Bara-salpan, Bhalia
+Sname: Flemingia strobilifera (L.) W.T.Aiton	Family: FABACEAE	Cname: Kussunt
+Sname: Flemingia tuberosa Dalzell	Family: FABACEAE	Cname: Birmova (Mar.)
+Sname: Foeniculum vulgare Mill.	Family: APIACEAE	Cname: Saunf, Sonp
+Sname: Frankenia pulverulenta L.	Family: FRANKENIACEAE	Cname: Shabnami (Urdu)
+Sname: Fraxinus floribunda Wall. ex Roxb.	Family: OLEACEAE	Cname: Dieng-lavmaheg (Khasi hills)
+Sname: Fraxinus hookeri Wenz.	Family: OLEACEAE	Cname: Kum (Kashmir)
+Sname: Fraxinus ornus L.	Family: OLEACEAE	Cname: Shirkhist
+Sname: Fritillaria cirrhosa D.Don	Family: LILIACEAE	Cname: Shothkar (Local name)
+Sname: Fritillaria imperialis L.	Family: LILIACEAE	Cname: Crown Imperial (Eng.)
+Sname: Fucus vesiculosus L.	Family: FUCACEAE	Cname: Bladder wrack (Eng.)
+Sname: Fumaria indica (Hausskn.) Pugsley	Family: FUMARIACEAE	Cname: Pitpara, Shahterah
+Sname: Fumaria parviflora Lam.	Family: FUMARIACEAE	Cname: Pitpara, Shahterah
+Sname: Galeopsis tetrahit L.	Family: LAMIACEAE	Cname: Common Hempnettle (Eng.)
+Sname: Galium aparine L.	Family: RUBIACEAE	Cname: Cleavers, Goose grass (Eng.)
+Sname: Galium elegans Wall.	Family: RUBIACEAE	Cname: Lahare kuro (Nep.)
+Sname: Galium verum L.	Family: RUBIACEAE	Cname: Cheese Rennet (Eng.)
+Sname: Garcinia cambogia (Gaertn.) Desr.	Family: CLUSIACEAE	Cname: Dharambe (Mar.)
+Sname: Garcinia cowa Roxb.	Family: CLUSIACEAE	Cname: Cowa
+Sname: Garcinia indica (Dupetit- Thouars) Chois.	Family: CLUSIACEAE	Cname: Kokam
+Sname: Garcinia mangostana L.	Family: CLUSIACEAE	Cname: Mangustan, Mangusta
+Sname: Garcinia morella (Gaertn.) Desr.	Family: CLUSIACEAE	Cname: Tamal
+Sname: Garcinia pedunculata Roxb.	Family: CLUSIACEAE	Cname: Tikul (Beng.)
+Sname: Garcinia tinctoria (DC.) W.Wight	Family: CLUSIACEAE	Cname: Dampel, Tamal
+Sname: Gardenia campanulata Roxb.	Family: RUBIACEAE	Cname: Bitmara (Assam)
+Sname: Gardenia gummifera L.f.	Family: RUBIACEAE	Cname: Dikamali
+Sname: Gardenia jasminoides J.Ellis	Family: RUBIACEAE	Cname: Gandharaj
+Sname: Gardenia resinifera Roth	Family: RUBIACEAE	Cname: Dikamali
+Sname: Gardenia turgida Roxb.	Family: RUBIACEAE	Cname: Thanella, Ghurgia
+Sname: Garuga pinnata Roxb.	Family: BURSERACEAE	Cname: Kharpat, Ghogar
+Sname: Gaultheria fragrantissima Wall.	Family: ERICACEAE	Cname: Kalomba (Lepcha)
+Sname: Gelonium multiflorum A.Juss.	Family: EUPHORBIACEAE	Cname: Ban naringa
+Sname: Geranium lucidum L.	Family: GERANIACEAE	Cname: Shining cranesbill (Eng.)
+Sname: Geranium mascatense Boiss.	Family: GERANIACEAE	Cname: Ragatageri (Nepali)
+Sname: Geranium molle L.	Family: GERANIACEAE	Cname: Awnless Geranium (Eng.)
+Sname: Geranium nepalense L.	Family: GERANIACEAE	Cname: Bhand
+Sname: Geranium nepalense Sweet	Family: GERANIACEAE	Cname: Bhanda
+Sname: Geranium pusillum Burm.f.	Family: GERANIACEAE	Cname: Small Geranium (Eng.)
+Sname: Geranium robertianum L.	Family: GERANIACEAE	Cname: Herb-Robert Geranium (Eng.)
+Sname: Geranium rotundifolium L.	Family: GERANIACEAE	Cname: Round-leaved crane's bill (Eng.)
+Sname: Geranium wallichianum D.Don ex Sweet	Family: GERANIACEAE	Cname: Laljhari (U.P. & Punjab)
+Sname: Gerbera piloselloides (L.) Cass.	Family: ASTERACEAE	Cname: Hawkweed Gerbera Daisy (Eng.)
+Sname: Geum elatum Wall. ex. G.Don	Family: ROSACEAE	Cname: Gogjemul (Kash.)
+Sname: Girardinia diversifolia (Link.) Friis	Family: URTICACEAE	Cname: Allo Sisnu (Nepali)
+Sname: Gironniera cuspidata (Blume) Planch. ex Kurz	Family: ULMACEAE	Cname: Koditani (Tam.)
+Sname: Gisekia pharmaceoides L.	Family: FICOIDEAE	Cname: Balu-ka-sag
+Sname: Gleditsia triacanthos L.	Family: CAESALPINIACEAE	Cname: Common Honeylocust (Eng.)
+Sname: Glinus lotoides L.	Family: FICOIDEAE	Cname: Gandibudi
+Sname: Glinus oppositifolius (L.) A.DC.	Family: FICOIDEAE	Cname: Jima
+Sname: Glochidion hohenackeri Bedd.	Family: EUPHORBIACEAE	Cname: Bhoma (Mar.)
+Sname: Glochidion zeylanicum (Gaertn.) A.Juss.	Family: EUPHORBIACEAE	Cname: Itepulla (Tel.)
+Sname: Gloriosa superba L.	Family: LILIACEAE	Cname: Karihari, Languli
+Sname: Glossocardia bosvallia (L.f.) DC.	Family: ASTERACEAE	Cname: Seri
+Sname: Glossogyne bidens (Retz.) Alston	Family: ASTERACEAE	Cname: Pardeshibhangro (Guj.)
+Sname: Glycine max (L.) Merr.	Family: FABACEAE	Cname: Bhat, Bhatwar
+Sname: Glycirrhiza glabra L.	Family: FABACEAE	Cname: Mulhatti, Jethi-madh
+Sname: Glycosmis arborea (Roxb.) DC.	Family: RUTACEAE	Cname: Ban-nimbu
+Sname: Gmelina arborea Roxb.	Family: VERBENACEAE	Cname: Gambhar, Gumhar
+Sname: Gmelina asiatica L.	Family: VERBENACEAE	Cname: Badhara, Nag-phul
+Sname: Gnaphalium luteo-album L.	Family: ASTERACEAE	Cname: Bal raksha (Punjab)
+Sname: Gnidia glauca (Fresen.) Gilg.	Family: THYMELAEACEAE	Cname: Nacchinar (Tam.)
+Sname: Gordonia obtusa Wall. ex Wight & Arn.	Family: THEACEAE	Cname: Nagetta (Kan.)
+Sname: Gossypium arboreum L.	Family: MALVACEAE	Cname: Kapas, Rui
+Sname: Gossypium herbaceum L.	Family: MALVACEAE	Cname: Levant Cotton (Eng.)
+Sname: Gouania leptostachya DC.	Family: RHAMNACEAE	Cname: Khanta (Oriya)
+Sname: Grewia hirsuta Vahl	Family: TILIACEAE	Cname: Kakarundah, Kukurbicha
+Sname: Grewia sclerophylla Roxb. ex G.Don	Family: TILIACEAE	Cname: Pharsia
+Sname: Grewia subinaequalis DC.	Family: TILIACEAE	Cname: Phalsa, Dhamin
+Sname: Grewia tenax (Forsk.) Fiori	Family: TILIACEAE	Cname: Achchu (Tam.)
+Sname: Grewia tiliifolia Vahl	Family: TILIACEAE	Cname: Dhamni, Pharsa
+Sname: Grewia villosa Willd	Family: TILIACEAE	Cname: Padekhado (Guj.)
+Sname: Guaiacum officinale L.	Family: ZYGOPHYLLACEAE	Cname: Lignum Vitae (Eng.)
+Sname: Guazuma ulmifolia Lam.	Family: STERCULIACEAE	Cname: Nipaltunth (Beng.)
+Sname: Guettarda speciosa L.	Family: RUBIACEAE	Cname: Panniru chettu (Tel.)
+Sname: Gymnema sylvestre (Retz.) Schult.	Family: ASCLEPIADACEAE	Cname: Gur-mar, Merasingi
+Sname: Gymnopetalum cochinchinensis (Lour.) Kurz	Family: CUCURBITACEAE	Cname: Kaubutkila (Bihar)
+Sname: Gymnostachyum febrifugum Benth.	Family: ACANTHACEAE	Cname: Nelamuchchala (Kan.)
+Sname: Gynocardia odorata R.Br.	Family: FLACOURTIACEAE	Cname: Lemtem (Assam)
+Sname: Habenaria commelinifolia (Roxb.) Wall. ex Lindl.	Family: ORCHIDACEAE	Cname: Ankara, Devsunda (Local names)
+Sname: Haematoxylum campechianum L.	Family: MIMOSACEAE	Cname: Patang
+Sname: Haldina cordifolia (Rioxb.) Ridsdale	Family: RUBIACEAE	Cname: Haldu
+Sname: Haloxylon griffithii DC.	Family: AMARANTHACEAE	Cname: Taghaz
+Sname: Haloxylon recurvum (Moq.) Bunge ex. Boiss.	Family: CHENOPODIACEAE	Cname: Saxaul (Eng.)
+Sname: Haloxylon salicornicum(Moq.) Bunge ex. Boiss.	Family: CHENOPODIACEAE	Cname: Rimth Saltbush (Eng.)
+Sname: Haplanthus tentaculatus Nees	Family: ACANTHACEAE	Cname: Nila Jakara (Mar.)
+Sname: Haplanthus vericillatus Nees	Family: ACANTHACEAE	Cname: Kastula
+Sname: Harpullia arborea (Blanco) Radlk.	Family: SAPINDACEAE	Cname: Nei-kottei (Tam.)
+Sname: Hedychium coronarium Koenig. ex Retz.	Family: ZINGIBERACEAE	Cname: Common Ginger Lily (Eng.)
+Sname: Hedyotis scandens Roxb. ex D.Don	Family: RUBIACEAE	Cname: Bhedeli (Assam)
+Sname: Hedyotis umbellata (L.) Lam.	Family: RUBIACEAE	Cname: Chirval
+Sname: Hedyotis verticillata (L.) Lam.	Family: RUBIACEAE	Cname: Ronder (Local name)
+Sname: Helianthus annuus L.	Family: ASTERACEAE	Cname: Surajmukhi
+Sname: Helianthus tuberosus L.	Family: ASTERACEAE	Cname: Hatichuk
+Sname: Helicteres isora L.	Family: STERCULIACEAE	Cname: Maroraphali, Marodaphali
+Sname: Heliotropium bacciferum Forsk.	Family: BORAGINACEAE	Cname: Jatimisak (Punjab)
+Sname: Heliotropium curassavicum L.	Family: BORAGINACEAE	Cname: Salt heliotrope (Eng.)
+Sname: Heliotropium ellipticum Ledeb.	Family: BORAGINACEAE	Cname: Bithua (Punjab)
+Sname: Heliotropium indicum L.	Family: BORAGINACEAE	Cname: Hatta-juri, Hatta-sura
+Sname: Heliotropium ovalifolium Forsk.	Family: BORAGINACEAE	Cname: Nag-phuli
+Sname: Heliotropium strigosum Willd.	Family: BORAGINACEAE	Cname: Chitiphul
+Sname: Hemerocallis fulva L.	Family: LILIACEAE	Cname: Tawny Day-Lily (Eng.)
+Sname: Hemidesmus indicus (L.) R.Br.	Family: ASCLEPIADACEAE	Cname: Anantamul, Kapuri
+Sname: Heracleum lanatum Michx.	Family: APIACEAE	Cname: Chhataya
+Sname: Heritiera littoralis L.	Family: STERCULIACEAE	Cname: Mukuram (Mal.)
+Sname: Herniaria glabra L.	Family: ILLECEBRACEAE	Cname: Smooth Rupturewort (Eng.)
+Sname: Herniaria hirsuta L.	Family: ILLECEBRACEAE	Cname: Hairy Rupturedwort (Eng.)
+Sname: Heterophragma quadriloculare (Roxb.) Schum.	Family: BIGNONIACEAE	Cname: Warras, Pullung
+Sname: Heteropogon contortus (L.) P.Beauv. ex Roem. & Schult.	Family: POACEAE	Cname: Kher, Kumeria
+Sname: Hibiscus cannabinus L.	Family: MALVACEAE	Cname: Ambari, Patsan
+Sname: Hibiscus furcatus Willd.	Family: MALVACEAE	Cname: Adavi gogu, Konda gogu (Tel.)
+Sname: Hibiscus mutabilis L.	Family: MALVACEAE	Cname: Shalapara, Sthal kamal
+Sname: Hibiscus ovalifolius (Forsk.) Vahl	Family: MALVACEAE	Cname: Tiny Flower Hibiscus (Eng.)
+Sname: Hibiscus rosa-sinensis L.	Family: MALVACEAE	Cname: Jasut, Jasum
+Sname: Hibiscus sabdariffa L.	Family: MALVACEAE	Cname: Lal-ambari, Patwa
+Sname: Hibiscus surattensis L.	Family: MALVACEAE	Cname: Mullu gogu (Tel.)
+Sname: Hibiscus syriacus L.	Family: MALVACEAE	Cname: Swet jaba (Beng.)
+Sname: Hibiscus tiliaceus L.	Family: MALVACEAE	Cname: Bola, Chelwa
+Sname: Hibiscus trionum L.	Family: MALVACEAE	Cname: Trailing Holyhock (Eng.)
+Sname: Hieracium vulgatum Fr.	Family: ASTERACEAE	Cname: Yellow Hackwood (Eng.)
+Sname: Hierochloe laxa R.Br.	Family: POACEAE	Cname: Lax sweet grass (Eng.)
+Sname: Hippohae tibetana Schlecht.	Family: ELAEAGNACEAE	Cname: Tsermang (Ladakhi)
+Sname: Hiptage benghalensis (L.) Kurz	Family: MALPIGHIACEAE	Cname: Madhavilata, Madhmalti
+Sname: Holarrhena antudysentrica (Roth) DC.	Family: APOCYNACEAE	Cname: Kurchi, Karchi
+Sname: Holarrhena antudysentrica Wall.	Family: APOCYNACEAE	Cname: Kurchi, Karchi
+Sname: Holarrhena mitis R.Br.	Family: APOCYNACEAE	Cname: Kiri-mawara (Tam.)
+Sname: Holigrana arnottiana Hook.f.	Family: ANACARDIACEAE	Cname: Chera (Mal.)
+Sname: Holigrana longifolia Buch.-Ham. ex Roxb.	Family: ANACARDIACEAE	Cname: Kherai (Manipur)
+Sname: Holoptelea integrifolia (Roxb.) Planch	Family: ULMACEAE	Cname: Chilbil, Papari
+Sname: Holostemma ada-kodien Schult.	Family: ASCLEPIADACEAE	Cname: Arkapushpi
+Sname: Holostemma rheedii Wall.	Family: ASCLEPIADACEAE	Cname: Chhirvel
+Sname: Holosteum umbellatum L.	Family: CARYOPHYLLACEAE	Cname: Jagged Chickweed (Eng.)
+Sname: Homalomena aromatica Schott	Family: ARACEAE	Cname: Kuchu gundubi (Beng.)
+Sname: Homonoia riperia Lour.	Family: EUPHORBIACEAE	Cname: Pashanabhedaka (Sans.)
+Sname: Hopea odorata Roxb.	Family: DIPTEROCARPACEAE	Cname: Urappuppicin (Tam.)
+Sname: Hoppea dichotoma Hayne ex Willd.	Family: GENTIANACEAE	Cname: Ram jeeta
+Sname: Hordeum vulgare L.	Family: POACEAE	Cname: Jau, Jav
+Sname: Horsfieldia irya (Gaertn.) Warb.	Family: MYRISTICACEAE	Cname: Chooglum, Mutwinda (Andamans)
+Sname: Horsfieldia kingii (Hook.f.) Warb.	Family: MYRISTICACEAE	Cname: Amol (Assam)
+Sname: Houttuynia cordata Thunb.	Family: SAURURACEAE	Cname: Alimoli, Hellijhar (Local names)
+Sname: Hovenia acerba Lindl.	Family: RHAMNACEAE	Cname: Sicka
+Sname: Hugonia mystax L.	Family: LINACEAE	Cname: Chulijinka (Oriya)
+Sname: Humboldtia vahliana Wight	Family: CAESALPINIACEAE	Cname: Arruvanci (Tam.)
+Sname: Hura crepitans L.	Family: EUPHORBIACEAE	Cname: Simaburuga (Tel.)
+Sname: Hybanthus enneaspermus (L.) F.Muell.	Family: VIOLACEAE	Cname: Ratanpurus
+Sname: Hydnocarpus kurzii (King) Warb.	Family: FLACOURTIACEAE	Cname: Dalmurgi
+Sname: Hydnocarpus pentandra (Buch.-Ham.) Oken	Family: FLACOURTIACEAE	Cname: Chaulmoogra (Hindi)
+Sname: Hydrangea aspera Buch.-Ham ex. D.Don	Family: SAXIFRAGACEAE	Cname: Phirphire ghans (Nepali)
+Sname: Hydrangea macrophylla (Thunb.) Ser.	Family: SAXIFRAGACEAE	Cname: Thamapansapi lei (Manipuri)
+Sname: Hydrocharis dubia (Blume) Backer	Family: HYDROCHARITACEAE	Cname: Frogbit (Eng.)
+Sname: Hydrocotyl javanica Thunb.	Family: APIACEAE	Cname: Mahagotukola
+Sname: Hydrocotyl sibthorpioides Lam.	Family: APIACEAE	Cname: Kulkhuri
+Sname: Hydrolea zeylanica Vahl	Family: HYDROPHYLLACEAE	Cname: Langali (Sans.)
+Sname: Hygrophila auriculata (K. Schum.) Heine	Family: ACANTHACEAE	Cname: Talmakhana, Kulaka
+Sname: Hygrophila salicifolia (Vahl) Nees	Family: ACANTHACEAE	Cname: Matham arak (Bihar)
+Sname: Hygroryza aristata (Retz.) Nees ex Wight & Arn.	Family: POACEAE	Cname: Janglidal
+Sname: Hymenodictyon orixense (Roxb.) Mabberley	Family: RUBIACEAE	Cname: Bhaulan, Kukurkat
+Sname: Hyoscyamus niger L.	Family: SOLANACEAE	Cname: Khurasaniajvayan (Hindi)
+Sname: Hypericum laxum (Blume) Koidzumi	Family: HYPERICACEAE	Cname: Pikari-char (Local name)
+Sname: Hypericum perforatum L.	Family: HYPERICACEAE	Cname: Bassant, Dendhu
+Sname: Hypericum uralum Buch.- Ham. ex D.Don	Family: HYPERICACEAE	Cname: Tumbhul (Bihar)
+Sname: Hypoxis aurea Lour.	Family: AMARYLLIDACEAE	Cname: Bhuin khajur, Dinda kinda (Bihar)
+Sname: Hyptis capitata Jacq.	Family: LAMIACEAE	Cname: False Ironwort (Eng.)
+Sname: Hyptis suaveolens (L.) Poit.	Family: LAMIACEAE	Cname: Wilayati Tulsi
+Sname: Hyssopus officinalis Lam.	Family: LAMIACEAE	Cname: Hyssop (Eng.)
+Sname: Iberis amara L.	Family: BRASSICACEAE	Cname: Rocket candytuft (Eng.)
+Sname: Ichnocarpus frutescens R.Br.	Family: APOCYNACEAE	Cname: Kalidudhi, Siamalata
+Sname: Ilex paraguariensis A.St.-Hil.	Family: AQUIFOLIACEAE	Cname: Mate (Eng.)
+Sname: Impatiens balsamina L.	Family: BALSAMINACEAE	Cname: Gul-mendhi
+Sname: Impatiens chinensis L.	Family: BALSAMINACEAE	Cname: Vashtla (Tam.)
+Sname: Impatiens tripetala Roxb. ex DC.	Family: BALSAMINACEAE	Cname: Karya bijal (Lakhimpur)
+Sname: Indigofera aspalathoides Vahl ex DC.	Family: FABACEAE	Cname: Ratakohomba (Sans.)
+Sname: Indigofera astragalina DC.	Family: FABACEAE	Cname: Andhi-neel
+Sname: Indigofera cassioides Rottl. ex DC.	Family: FABACEAE	Cname: Pharsi ghas, Hakanu
+Sname: Indigofera coerulea Roxb.	Family: FABACEAE	Cname: Gujarat Indigo (Eng.)
+Sname: Indigofera glabra L.	Family: FABACEAE	Cname: Pukhintaku (Local name)
+Sname: Indigofera glandulosa Willd.	Family: FABACEAE	Cname: Vekhariyo (Guj.)
+Sname: Indigofera linifolia (L.f.) Retz.	Family: FABACEAE	Cname: Torki
+Sname: Indigofera linnaei Ali	Family: FABACEAE	Cname: Pandarphali
+Sname: Indigofera oblongifolia Forsk.	Family: FABACEAE	Cname: Jhillan (Sans.)
+Sname: Indigofera suffruticosa Mill.	Family: FABACEAE	Cname: Vilaiti Nil
+Sname: Indigofera tinctoria L.	Family: FABACEAE	Cname: Nil, Nilika
+Sname: Indigofera trifoliata L.	Family: FABACEAE	Cname: Jangli-methi
+Sname: Indigofera trita L.f.	Family: FABACEAE	Cname: Vekhario (Guj.)
+Sname: Inula graveolens Desf.	Family: ASTERACEAE	Cname: Stinkwort (Eng.)
+Sname: Inula recemosa Hook.f.	Family: ASTERACEAE	Cname: Poshkar (Kashmir)
+Sname: Ipomoea alba L.	Family: CONVOLVULACEAE	Cname: Dudhiakalmi
+Sname: Ipomoea aquatica Forsk.	Family: CONVOLVULACEAE	Cname: Kalmisag, Karmi
+Sname: Ipomoea batatas (L.) Lam.	Family: CONVOLVULACEAE	Cname: Mitha alu
+Sname: Ipomoea cairica (L.) Sweet	Family: CONVOLVULACEAE	Cname: Neeli Bel 
+Sname: Ipomoea coptica (L.) Roth	Family: CONVOLVULACEAE	Cname: Ipomoea coptica (Tam.)
+Sname: Ipomoea dasysperma Jacq.	Family: CONVOLVULACEAE	Cname: Dipdavel (Guj)
+Sname: Ipomoea eriocarpa R.Br.	Family: CONVOLVULACEAE	Cname: Nakhari
+Sname: Ipomoea hederifolia L.	Family: CONVOLVULACEAE	Cname: Lal pungli (Mar.)
+Sname: Ipomoea muricata (L.) Jacq.	Family: CONVOLVULACEAE	Cname: Michai
+Sname: Ipomoea nil (L.) Roth.	Family: CONVOLVULACEAE	Cname: Kaladana, Mirchai
+Sname: Ipomoea obscura(L.) Ker-Gawl.	Family: CONVOLVULACEAE	Cname: Vachagandha
+Sname: Ipomoea paniculata R.Br.	Family: CONVOLVULACEAE	Cname: Bilaikand
+Sname: Ipomoea pes-caprae (L.) Roth	Family: CONVOLVULACEAE	Cname: Dopatilata
+Sname: Ipomoea pes-tigridis L.	Family: CONVOLVULACEAE	Cname: Panchpatri, Angulilata (Beng.)
+Sname: Ipomoea purga Hayne	Family: CONVOLVULACEAE	Cname: Jalap
+Sname: Ipomoea purpurea (L.) Roth.	Family: CONVOLVULACEAE	Cname: Morning Glory (Eng.)
+Sname: Ipomoea quamoclit L.	Family: CONVOLVULACEAE	Cname: Kamalata
+Sname: Ipomoea sepiaria Roxb. ex Koen.	Family: CONVOLVULACEAE	Cname: Bankalmi
+Sname: Ipomoea tuberosa L.	Family: CONVOLVULACEAE	Cname: Spanish Arbour-vine (Eng.)
+Sname: Ipomoea violacea L.	Family: CONVOLVULACEAE	Cname: Kinarwel (Mar.)
+Sname: Iris domestica (L.) Goldblatt & Mabb.	Family: IRIDACEAE	Cname: Leopard lily (Eng.)
+Sname: Ixora arborea Roxb. ex Sm.	Family: RUBIACEAE	Cname: Kota-gandhal, Nevari
+Sname: Ixora coccinea L.	Family: RUBIACEAE	Cname: Rangan, Rookmini
+Sname: Ixora nigricans R.Br. ex Wight & Arn.	Family: RUBIACEAE	Cname: Katkura (Mar.)
+Sname: Jasminum angustifolium Vahl.	Family: OLEACEAE	Cname: Banmallica, Mwari
+Sname: Jasminum arborescens Roxb.	Family: OLEACEAE	Cname: Bela, Chameli
+Sname: Jasminum azoricum L.	Family: OLEACEAE	Cname: Malati (Beng.)
+Sname: Jasminum grandiflorum L.	Family: OLEACEAE	Cname: Chameli, Jati
+Sname: Jasminum multiflorum (Burm.f.) Andrews	Family: OLEACEAE	Cname: Chameli, Kunda
+Sname: Jasminum officinale L.	Family: OLEACEAE	Cname: Chameli, Jati
+Sname: Jasminum ritchiei C.B.Clarke	Family: OLEACEAE	Cname: Karumullai (Tam.)
+Sname: Jasminum rottlerianum Wall. ex A.DC.	Family: OLEACEAE	Cname: Vanamalliga (Sans.)
+Sname: Jasminum sambac (L.) Aiton	Family: OLEACEAE	Cname: Banmallika, Chamba
+Sname: Jasminum scandens Vahl	Family: OLEACEAE	Cname: Hare lahara (Nepal)
+Sname: Jateorhiza palmata Miers	Family: MENISPERMACEAE	Cname: Kalamb-ki-jar
+Sname: Jatropha curcas L.	Family: EUPHORBIACEAE	Cname: Bagbherenda, Jangli-arandi
+Sname: Jatropha glandulifera Roxb.	Family: EUPHORBIACEAE	Cname: Janglie-randi, Undarbibi
+Sname: Jatropha gossypifolia Roxb.	Family: EUPHORBIACEAE	Cname: Bherenda, Verenda
+Sname: Jatropha multifida L.	Family: EUPHORBIACEAE	Cname: Bhadradanti (Sans.)
+Sname: Jatropha nana Dalzell & A.Gibson	Family: EUPHORBIACEAE	Cname: Kirkundi (Mar.)
+Sname: Juglans regia L.	Family: JUGLANDACEAE	Cname: Akhrot, Akrut (Trade)
+Sname: Juncellus inundatus (Roxb.) C.B.Clarke	Family: CYPERACEAE	Cname: Pati
+Sname: Juncus effusus L.	Family: JUNCACEAE	Cname: Matting Rush (Eng.)
+Sname: Juniperus communis L.	Family: CUPRESSACEAE	Cname: Aaraar, Haubera
+Sname: Juniperus polycarpus C.Koch	Family: CUPRESSACEAE	Cname: Dhup
+Sname: Juniperus recurva Buch.-Ham. ex D.Don	Family: CUPRESSACEAE	Cname: Chukboo (Sikkim)
+Sname: Jurinea dolomiaea Boiss.	Family: ASTERACEAE	Cname: Dhoop Lakkad
+Sname: Justicia adhatoda L.	Family: ACANTHACEAE	Cname: Arusha
+Sname: Justicia betonica L.	Family: ACANTHACEAE	Cname: Tellarantu (Tel.)
+Sname: Justicia gendarussa Burm.f.	Family: ACANTHACEAE	Cname: Udisanbhalu, Nilinargandi
+Sname: Justicia procumbens L.	Family: ACANTHACEAE	Cname: Karambal (Mar.)
+Sname: Kaempferia rotunda L.	Family: ZINGIBERACEAE	Cname: Bhui-champa
+Sname: Kalanchoe integra (Medik.) Kuntze	Family: CRASSULACEAE	Cname: Haiza, Rungru
+Sname: Kalanchoe laciniata (L.) Pers.	Family: CRASSULACEAE	Cname: Hamsagar
+Sname: Kedrostis rostrata (Rottl.) Cogn.	Family: CUCURBITACEAE	Cname: Kukumadunda (Tel.)
+Sname: Kendelia rheedii Wight & Arn.	Family: RHIZOPHORACEAE	Cname: Goria (Beng.)
+Sname: Kickxia ramosissima (Wall.) Janch.	Family: SCROPHULARIACEAE	Cname: Bhintgalodi (Guj.)
+Sname: Kigelia pinnata (Jacq.) DC.	Family: BIGNONIACEAE	Cname: Common Sausage Tree (Eng.)
+Sname: Kingiodendron pinnatum (Roxb. ex DC.) Harms.	Family: CAESALPINIACEAE	Cname: Madayan samprani (Tam.)
+Sname: Kirganelia reticulata (Poir.) Baill.	Family: EUPHORBIACEAE	Cname: Panjuli, Makhi
+Sname: Kleinhovia hospita L.	Family: STERCULIACEAE	Cname: Bola (Beng.)
+Sname: Knema angustifolia (Roxb.) Warb.	Family: MYRISTICACEAE	Cname: Mota-pasuti (Assam)
+Sname: Kochia indica Wight	Family: CHENOPODIACEAE	Cname: Kaura-ro (Punjab)
+Sname: Kochia scoparia (L.) Schrad.	Family: CHENOPODIACEAE	Cname: Ti Fu (Chinese)
+Sname: Kokoona zeylanica Thwaites	Family: CELASTRACEAE	Cname: Kokum (Ceylon)
+Sname: Krameria triandra Ruiz & Pav.	Family: POLYGALACEAE	Cname: Ratanya (Malay)
+Sname: Kydia calycina Roxb.	Family: MALVACEAE	Cname: Pula, Choupultea
+Sname: Kyllinga brevifolia Rottb.	Family: CYPERACEAE	Cname: Nirbisi
+Sname: Kyllinga nemoralis (Forst.) Dandy ex Hutcins. & Dalziel	Family: CYPERACEAE	Cname: White water sedge (Eng.)
+Sname: Lablab purpureus (L.) Sweet	Family: FABACEAE	Cname: Bhatvas, Shimi
+Sname: Lactuca indica L.	Family: ASTERACEAE	Cname: Salad
+Sname: Lactuca remotiflora DC.	Family: ASTERACEAE	Cname: Undirachakan (Mar.)
+Sname: Lactuca runcinata DC.	Family: ASTERACEAE	Cname: Undirachakan (Mar.)
+Sname: Lactuca sativa L.	Family: ASTERACEAE	Cname: Kahu, Salad
+Sname: Lactuca scariola L.	Family: ASTERACEAE	Cname: Kahu
+Sname: Lagenandra toxicaria Dalzell	Family: ARACEAE	Cname: Maravara tsjembu (Tam.)
+Sname: Lagenaria siceraria (Molina) Standl.	Family: CUCURBITACEAE	Cname: Kaddu, Lauki
+Sname: Lagerstroemia indica L.	Family: LYTHRACEAE	Cname: Pharash, Telingachina
+Sname: Lagerstroemia speciosa (L.) Pers.	Family: LYTHRACEAE	Cname: Jarul
+Sname: Lallemantia royleana (Wall. ex Benth.) Benth.	Family: LAMIACEAE	Cname: Gharei, Kashmalu
+Sname: Laminaria saccharina Lam.	Family: PHAEOPHYCEAE	Cname: Sea belt (Eng.)
+Sname: Lamium album L.	Family: LAMIACEAE	Cname: White Deadnettle (Eng.)
+Sname: Lamium amplexicaule L.	Family: LAMIACEAE	Cname: Henbit (Eng.)
+Sname: Lamprachaenium microcephalum Benth.	Family: ASTERACEAE	Cname: Brahma-dandi (Bombay)
+Sname: Lannea coromandelica (Houtt.) Merr.	Family: ASTERACEAE	Cname: Jhingan, Kaimil
+Sname: Lasia spinosa (L.) Thwaites	Family: ARACEAE	Cname: Kanta kachu (Beng.)
+Sname: Lathyrus aphaca L.	Family: FABACEAE	Cname: Janglimatar
+Sname: Lathyrus odoratus L.	Family: FABACEAE	Cname: Sweet Pea (Eng.)
+Sname: Lathyrus pratensis L.	Family: FABACEAE	Cname: Meadow vetchling (Eng.)
+Sname: Lathyrus sativus L.	Family: FABACEAE	Cname: Khesari, Latri
+Sname: Lathyrus sphaericus Retz.	Family: FABACEAE	Cname: Red grass pea (Eng.)
+Sname: Launaea asplenifolia (Willd.) Hook.f.	Family: ASTERACEAE	Cname: Titlia
+Sname: Launaea resedifolia (L.) Kuntze	Family: ASTERACEAE	Cname: Divided-leaved Sow Thistle (eng.)
+Sname: Launaea sarmentosa (Willd.) Alston	Family: ASTERACEAE	Cname: Sagar pathari (Mar.)
+Sname: Laurentia longiflora (L.) Endl.	Family: CAMPANULACEAE	Cname: Madam Fate (Eng.)
+Sname: Lavandula bipinnata (Roth) Kuntze	Family: LAMIACEAE	Cname: Sarpnocharo, Aasmanifalgoto (Guj.)
+Sname: Lavandula stoechas L.	Family: LAMIACEAE	Cname: Dharu
+Sname: Lavandula vera DC.	Family: LAMIACEAE	Cname: True Lavender (Eng.)
+Sname: Lawsonia inermis L.	Family: LYTHRACEAE	Cname: Mehndi
+Sname: Leea aequata L.	Family: LEEACEAE	Cname: Kakajangha
+Sname: Leea crispa L.	Family: LEEACEAE	Cname: Banchalita (Beng.)
+Sname: Leea indica (Burm.f.) Merr.	Family: LEEACEAE	Cname: Kukur-jihwa
+Sname: Leea macrophylla Roxb. ex Hornem.	Family: LEEACEAE	Cname: Dholsamudra
+Sname: Lens culinaris Medik.	Family: FABACEAE	Cname: Masur, Masser
+Sname: Leonotis nepetaiefolia R.Br.	Family: LAMIACEAE	Cname: Hejurchei
+Sname: Leonurus cardiaca L.	Family: LAMIACEAE	Cname: Common Motherwort (Eng.)
+Sname: Leonurus sibiricus L.	Family: LAMIACEAE	Cname: Halkusha
+Sname: Lepidagathis cristata Willd.	Family: ACANTHACEAE	Cname: Bhuiterada (Mar.)
+Sname: Lepidagathis hamiltoniana Wall.	Family: ACANTHACEAE	Cname: Agnikhair (Mundari)
+Sname: Lepidagathis incurva Buch.-Ham. ex D.Don	Family: ACANTHACEAE	Cname: Vangvattur (Mizoram)
+Sname: Lepidagathis trinervis Nees	Family: ACANTHACEAE	Cname: Harancharo (Guj.)
+Sname: Lepidium iberis L.	Family: BRASSICACEAE	Cname: Safed towdri
+Sname: Lepidium latifolium L.	Family: BRASSICACEAE	Cname: Gonyuch (Ladhak)
+Sname: Lepidium sativum L.	Family: BRASSICACEAE	Cname: Halim, Harf
+Sname: Leptadenia reticulata (Retz.) Wight & Arn.	Family: ASCLEPIADACEAE	Cname: Dodi
+Sname: Leucaena glauca (L.) Benth.	Family: MIMOSACEAE	Cname: Lasobaval (Guj.)
+Sname: Leucas aspera (Willd.) Link	Family: LAMIACEAE	Cname: Safed Halkusa
+Sname: Leucas cephalotus (Roth.) Spreng.	Family: LAMIACEAE	Cname: Dhurpi sag, Deldona
+Sname: Leucas lavandulifolia Sm.	Family: LAMIACEAE	Cname: Guma, Halkusa
+Sname: Leucas stelligera Wall.	Family: LAMIACEAE	Cname: Barumbi (Mar.)
+Sname: Leucas zeylanica R.Br.	Family: LAMIACEAE	Cname: Mudittumbei (Ceylon)
+Sname: Licuala spinosa Wurmb.	Family: ARECACEAE	Cname: Jungli selai
+Sname: Lilium giganteum Wall.	Family: LILIACEAE	Cname: Jaunsar-Giotra
+Sname: Lilium martagon L.	Family: LILIACEAE	Cname: Turk's Cap Lily (Eng.)
+Sname: Lilium tigrinum Ker Gawl.	Family: LILIACEAE	Cname: Tiger Lily (Eng.)
+Sname: Lilium wallichianum Schult.f.	Family: LILIACEAE	Cname: Findora
+Sname: Limnophila aromatica (Lam.) Merr.	Family: SCROPHULARIACEAE	Cname: Kuttra
+Sname: Limnophila indica (L.) Druce	Family: SCROPHULARIACEAE	Cname: Kuttra
+Sname: Limnophila rugosa (Roth) Merr.	Family: SCROPHULARIACEAE	Cname: Kala karpur (Beng.)
+Sname: Limonia acidissima L.	Family: RUTACEAE	Cname: Kavat, Kadbel (Beng.)
+Sname: Lindera caudata Benth.	Family: LAURACEAE	Cname: Dieng-soh-orthai-dieng-brau-salu(Khasi Hills)
+Sname: Lindera neesiana (Nees) Kurz	Family: LAURACEAE	Cname: Siltimur (Nepal)
+Sname: Linderbergia indica (L.) Vatke	Family: SCROPHULARIACEAE	Cname: Haldi basanto (Beng.)
+Sname: Lindernia anagallis (Burm.f.) Pennell	Family: SCROPHULARIACEAE	Cname: Gadagvel (Mar.)
+Sname: Lindernia crustacea (L.) F.Muell.	Family: SCROPHULARIACEAE	Cname: Malaysian false pimpernel (Eng.)
+Sname: Lindernia oppositifolia (Retz.) Mukerjee	Family: SCROPHULARIACEAE	Cname: Hendegel ba (Mundari)
+Sname: Lindernia procumbens (Krock.) Philcox	Family: SCROPHULARIACEAE	Cname: Vakapushpi (Mar.)
+Sname: Lindernia ruelloides (Colsm.) Mukherjee	Family: SCROPHULARIACEAE	Cname: Sam-tham-lang (Garo)
+Sname: Linum usitatissimum L.	Family: LINACEAE	Cname: Tisi, Alsi
+Sname: Liriodendron tulipifera L.	Family: MAGNOLIACEAE	Cname: Yellow popler (Eng.)
+Sname: Litchi chinensis Sonn.	Family: SAPINDACEAE	Cname: Lichi
+Sname: Lithospermum arvensis L.	Family: BORAGINACEAE	Cname: Corn Gromwell
+Sname: Lithospermum officinale L.	Family: BORAGINACEAE	Cname: Gromwell
+Sname: Litsea cubeba (Lour.) Pers.	Family: LAURACEAE	Cname: Mejankeri (Assam)
+Sname: Litsea lancifolia Hook.f.	Family: LAURACEAE	Cname: Kali Pahenle (Nepal)
+Sname: Litsea monopetala (Roxb.) Pers.	Family: LAURACEAE	Cname: Meda, Katmarra
+Sname: Litsea stocksii Hook.f.	Family: LAURACEAE	Cname: Pisi, Posha (Mar.)
+Sname: Lobelia inflata L.	Family: LOBELIACEAE	Cname: Puke weed (Eng.)
+Sname: Lobelia leschenaultiana (Presl.) Skottsh.	Family: LOBELIACEAE	Cname: Kadu hogesoppu (Kan.)
+Sname: Lobelia nicotianifolia Roth ex Roem. & Schult.	Family: LOBELIACEAE	Cname: Nala, Narasala
+Sname: Lobelia pyramidalis Wall.	Family: LOBELIACEAE	Cname: Berawchal (Lushai)
+Sname: Lolium temulentum L.	Family: POACEAE	Cname: Mochni
+Sname: Lonicera japonica Thunb.	Family: CAPRIFOLIACEAE	Cname: Leihruisen (Lushai)
+Sname: Lonicera periclymenum L.	Family: CAPRIFOLIACEAE	Cname: Woodbine Honeysuckle (Eng.)
+Sname: Lonicera semenovii Regel.	Family: CAPRIFOLIACEAE	Cname: Shea, Sheva
+Sname: Loxococcus rupicola Wendl. & Drude	Family: ARECACEAE	Cname: Dothalu (Tam.)
+Sname: Ludwigia adscendens (L.) Hara	Family: ONAGRACEAE	Cname: Kesara-dam
+Sname: Ludwigia octovalvis (Jacq.) P.H.Raven	Family: ONAGRACEAE	Cname: Banlunga
+Sname: Ludwigia perennis L.	Family: ONAGRACEAE	Cname: Sukuri pota, Gara sirgiti (Mundari)
+Sname: Ludwigia prostrata Roxb.	Family: ONAGRACEAE	Cname: Huring Rangaini (Mundari)
+Sname: Luffa acutangula (L.) Roxb.	Family: CUCURBITACEAE	Cname: Kali tori, Jhinga tori
+Sname: Luffa cylindrica(L.) M.Roem.	Family: CUCURBITACEAE	Cname: Ghiya tori
+Sname: Luffa echinata Roxb.	Family: CUCURBITACEAE	Cname: Bindal
+Sname: Luisia tenuifolia Blume	Family: CUCURBITACEAE	Cname: Amb-keli (Marathi)
+Sname: Lumnitzera racemosa Willd.	Family: COMBRETACEAE	Cname: Kripa (Beng.)
+Sname: Lupinus albus L.	Family: FABACEAE	Cname: Turmas
+Sname: Lupinus angustifolius L.	Family: FABACEAE	Cname: Blue Lupine (Eng.)
+Sname: Lupinus luteus L.	Family: FABACEAE	Cname: Yellow Lupine (Eng.)
+Sname: Luvunga scandens (Roxb.) Buch.-Ham. ex Wight	Family: RUTACEAE	Cname: Kakoli (Sans.)
+Sname: Lychnis coronaria (L.) Desr.	Family: CARYOPHYLLACEAE	Cname: Rose Campion (Eng.)
+Sname: Lycium barbarum L.	Family: SOLANACEAE	Cname: Gangro (Mar.)
+Sname: Lycopodium cernuum L.	Family: LYCOPODIACEAE	Cname: Kangrem (Lushai)
+Sname: Lycopodium clavatum L.	Family: LYCOPODIACEAE	Cname: Bendarli (Mar.)
+Sname: Lycopus europaeus L.	Family: LAMIACEAE	Cname: Jalnim, Gandamgundu (Kashmir & Punjab)
+Sname: Lygodium flexuosum (L.) Sw.	Family: LYGODIACEAE	Cname: Bhut-raj (Beng.)
+Sname: Lygodium japonicum (Thunb.) Sw.	Family: LYGODIACEAE	Cname: Japanese climbing fern (Eng.)
+Sname: Lygodium microphyllum (Cav.) R.Br.	Family: LYGODIACEAE	Cname: Curalvallipanna (Mal.)
+Sname: Lyonia ovalifolia (Wall.) Drude	Family: LYGODIACEAE	Cname: Angeri (Nepali)
+Sname: Macaranga denticulata (Blume) Muell.-Arg.	Family: PROTEACEAE	Cname: Burna (Beng.)
+Sname: Macaranga indica Wight	Family: EUPHORBIACEAE	Cname: Uppila (Mal.)
+Sname: Macaranga peltata (Roxb.) Muell.-Arg.	Family: EUPHORBIACEAE	Cname: Chanda (Mar.)
+Sname: Madhuca butyracea (Roxb.) J.F.Macbr.	Family: MORACEAE	Cname: Phulvara
+Sname: Madhuca longifolia (Koen.) Macbride	Family: SAPOTACEAE	Cname: South Indian Mahua (Eng.)
+Sname: Magnolia grandifolia L.	Family: CAPPARACEAE	Cname: Andachampa, Him champa
+Sname: Mahonia borealis Takeda	Family: BERBERIDACEAE	Cname: Pualeng (Lushai)
+Sname: Mahonia sikkimensis Takeda	Family: BERBERIDACEAE	Cname: Chatri (Nepal)
+Sname: Majorana hortensis Moench.	Family: BERBERIDACEAE	Cname: Murwa
+Sname: Malachra capitata L.	Family: LAMIACEAE	Cname: Banbhindi (Beng.)
+Sname: Mallotus philippensis (Lam.) Muell.Arg.	Family: EUPHORBIACEAE	Cname: Kamala, Sindur
+Sname: Malpighia glabra L.	Family: MALPIGHIACEAE	Cname: Barbados Cherry (Eng.)
+Sname: Malpighia punicifolia L.	Family: MALPIGHIACEAE	Cname: Vallari (Tel.)
+Sname: Malus pumila Mill.	Family: MALPIGHIACEAE	Cname: Seb, Sev
+Sname: Malus sylvestris Mill.	Family: ROSACEAE	Cname: Gulkhair, Kunzi
+Sname: Malva parvifolia L.	Family: ROSACEAE	Cname: Panirak
+Sname: Malva rotundifolia L.	Family: MALVACEAE	Cname: Khubasi
+Sname: Malva sylvestris L.	Family: MALVACEAE	Cname: Gulkhair, Kunzi
+Sname: Malva verticillata L.	Family: MALVACEAE	Cname: Lapha, Napha (Beng.)
+Sname: Malvastrum coromandelianum (L.) Garcke	Family: MALVACEAE	Cname: Kharenti, Chandiri (Mar.)
+Sname: Mandragora officinarum L.	Family: CLUSIACEAE	Cname: Luckmuna (Hindi)
+Sname: Mangifera indica L.	Family: ANACARDIACEAE	Cname: Am, Amb
+Sname: Manihot esculenta Crantz.	Family: EUPHORBIACEAE	Cname: Karrapendalamu (Tel.)
+Sname: Manilkara hexandra (Roxb.) Dubard	Family: EUPHORBIACEAE	Cname: Khirni
+Sname: Manilkara kauki (L.) Dubard	Family: SAPOTACEAE	Cname: Khirni
+Sname: Marrubium vulgare L.	Family: MARANTACEAE	Cname: Paharigandana
+Sname: Marsdenia roylei Wight	Family: ASCLEPIADACEAE	Cname: Murkula
+Sname: Marsdenia tenacissima (Roxb.) Moon	Family: ASCLEPIADACEAE	Cname: Jiti, Chiti
+Sname: Marsdenia tinctoria R.Br.	Family: ASCLEPIADACEAE	Cname: Riyong (North Bengal)
+Sname: Marsilea minuta L.	Family: MARSILEACEAE	Cname: Susnishak (Beng.)
+Sname: Matricaria chamomilla L.	Family: ASTERACEAE	Cname: Babunphul
+Sname: Matthiola incana (L.) R.Br.	Family: ASTERACEAE	Cname: Todri lila (Punjab.)
+Sname: Maytenus emarginata (Willd.) Ding Hou	Family: BRASSICACEAE	Cname: Henkal (Mar.)
+Sname: Measa chisia Ham. ex D.Don	Family: CELASTRACEAE	Cname: Susi-poma (Assamese)
+Sname: Measa indica (Roxb.) DC.	Family: MYRSINACEAE	Cname: Kramighna Phal 
+Sname: Measa ramentacea Wall.	Family: MYRSINACEAE	Cname: Seketia (Assamese)
+Sname: Medicago sativa L.	Family: FABACEAE	Cname: Wilayti-gawuth, Lasunghas
+Sname: Melanorrhoea usiata Wall.	Family: ANACARDIACEAE	Cname: Kheu (Manipur)
+Sname: Melastoma malabathricum L.	Family: MELASTOMATACEAE	Cname: Palore (Mar.)
+Sname: Melia azedarach L.	Family: MELIACEAE	Cname: Drek, Bakain
+Sname: Melilotus alba Medik. ex Desr.	Family: FABACEAE	Cname: Safed Senji
+Sname: Melilotus indica (L.) All.	Family: FABACEAE	Cname: Banmethi
+Sname: Melilotus officinalis (L.) Medik. ex Desr.	Family: FABACEAE	Cname: Yellow Sweetclover (Eng.)
+Sname: Melissa axillaris (Benth.) Bakh.f.	Family: LAMIACEAE	Cname: Bililotan
+Sname: Melochia corchorifolia L.	Family: STERCULIACEAE	Cname: Bilpat
+Sname: Melodinus monogynus Roxb.	Family: APOCYNACEAE	Cname: Soh-brab (Khasi Hills)
+Sname: Melothria amplexicaulis (Lam.) Cogn.	Family: CUCURBITACEAE	Cname: Tarali
+Sname: Melothria maderaspatana (L.) Cogn.	Family: CUCURBITACEAE	Cname: Agumaki, Bilari
+Sname: Melothria scabra Naudin	Family: CUCURBITACEAE	Cname: Varali (Bombay)
+Sname: Memecylon angustifolium Wight	Family: MELASTOMATACEAE	Cname: Vellaikkaya (Tam.)
+Sname: Memecylon umbellatum Burm.f.	Family: MELASTOMATACEAE	Cname: Anjani (Mar.)
+Sname: Mentha aquatica L.	Family: LAMIACEAE	Cname: Water Mint (Eng.)
+Sname: Mentha arvensis L.	Family: LAMIACEAE	Cname: Podina, Pudina
+Sname: Mentha longifolia (L.) Huds.	Family: LAMIACEAE	Cname: Podina, Jungli pudina
+Sname: Mentha piperita L.	Family: LAMIACEAE	Cname: Paparaminta, Gamathi
+Sname: Mentha pulegium L.	Family: LAMIACEAE	Cname: Pudding Grass (Eng.)
+Sname: Mentha sativa L.	Family: LAMIACEAE	Cname: Peppermint (Eng.)
+Sname: Mentha spicata L.	Family: LAMIACEAE	Cname: Pahari pudina, Pudina
+Sname: Mentha verticillata D.Don	Family: LAMIACEAE	Cname: Whorled Mint (Eng.)
+Sname: Menyanthes trifoliata L.	Family: MENYANTHACEAE	Cname: Bog bean (Eng.)
+Sname: Meriandra bengalensis Benth.	Family: LAMIACEAE	Cname: Kafurkapat
+Sname: Meriandra strobilifera Benth.	Family: LAMIACEAE	Cname: Kafurkapat
+Sname: Merremia dissecta (Jacq.) Hallier f.	Family: CONVOLVULACEAE	Cname: Noyau vine (Eng.)
+Sname: Merremia gangetica (L.) Cufod.	Family: CONVOLVULACEAE	Cname: Musakani
+Sname: Merremia tridentata (L.) Hallier f.	Family: CONVOLVULACEAE	Cname: Prasarini (Sans.)
+Sname: Merremia turpethum (L.) Shah & Bhatt	Family: CONVOLVULACEAE	Cname: Nishothra, Terpeth root (Eng.)
+Sname: Merremia umbellata (L.) Hallier f.	Family: CONVOLVULACEAE	Cname: Sapussundu (Beng.)
+Sname: Merremia vitifolia (Burm.f.) Hallier f.	Family: CONVOLVULACEAE	Cname: Navalicha vel (Mar.)
+Sname: Mesua ferrea L.	Family: CLUSIACEAE	Cname: Nagkesar, Nagesar (Beng.)
+Sname: Meyna laxiflora Robyns	Family: RUBIACEAE	Cname: Muyna, Muduna
+Sname: Michelia champaca L.	Family: MAGNOLIACEAE	Cname: Champa, Champaca
+Sname: Michelia montana Blume	Family: MAGNOLIACEAE	Cname: Pan sopa (Assam)
+Sname: Michelia nilagirica Zenk.	Family: MAGNOLIACEAE	Cname: Shembuga (Tam.)
+Sname: Microcos paniculata L.	Family: TILIACEAE	Cname: Shiral
+Sname: Micromeria biflora (Buch.-Ham. ex D.Don) Benth.	Family: LAMIACEAE	Cname: Ote budu ba (Mundari)
+Sname: Micromeria capitellata Benth.	Family: LAMIACEAE	Cname: Karvat (Bombay)
+Sname: Microrhychus nudicaulis Less.	Family: ASTERACEAE	Cname: Paprastaka
+Sname: Microsorum scolopendria (Burm.f.) Copel	Family: POLYPODIACEAE	Cname: Paku Wangi (Malay)
+Sname: Mikania cordata (Burm.f.) B.L.Rob.	Family: ASTERACEAE	Cname: Tara lata (Beng.)
+Sname: Miliusa velutina (Dunal) Hook.f. & Thoms.	Family: ANNONACEAE	Cname: Dom-sal, Kari
+Sname: Millettia extensa (Benth.) Baker	Family: FABACEAE	Cname: Gauj, Gonj
+Sname: Millettia pachycarpa Benth.	Family: FABACEAE	Cname: Bishloti (Beng.)
+Sname: Millettia piscidia Wight	Family: FABACEAE	Cname: Dieng-sohlynthein (Khasi Hills)
+Sname: Millettia racemosa Benth.	Family: FABACEAE	Cname: Jungi
+Sname: Millingtonia hortensis L.f.	Family: BIGNONIACEAE	Cname: Neem-chameli, Akas nim
+Sname: Mimosa pudica L.	Family: MIMOSACEAE	Cname: Lajwanti, Chui-mui
+Sname: Mimosa rubicaulis Lam.	Family: MIMOSACEAE	Cname: Shiah-kanta
+Sname: Mimulus moschatus Douglas ex Lindl.	Family: SCROPHULARIACEAE	Cname: Musk Plant (Eng.)
+Sname: Mimulus strictus Benth.	Family: SCROPHULARIACEAE	Cname: Erect Monkey Flower (Eng.)
+Sname: Mimusops elengi L.	Family: SAPOTACEAE	Cname: Maulsari, Bakul
+Sname: Mitragyna parvifolia (Roxb.) Korth.	Family: RUBIACEAE	Cname: Kaim, Kalmi
+Sname: Mitragyna rotundifolia (Roxb.) Kuntze	Family: RUBIACEAE	Cname: Timi (Assam)
+Sname: Mollugo cerviana (L.) Ser.	Family: MOLLUGINACEAE	Cname: Ghimasak (Beng.)
+Sname: Mollugo nudicaulis Lam.	Family: MOLLUGINACEAE	Cname: Parppadagam (Madras)
+Sname: Mollugo pentaphylla L.	Family: MOLLUGINACEAE	Cname: Khet-papara (Beng.)
+Sname: Monotropa uniflora L.	Family: MONOTROPACEAE	Cname: Indian Pipe (Eng.)
+Sname: Morinda citrifolia L.	Family: RUBIACEAE	Cname: Surangi, Bartundi
+Sname: Morinda umbellata L.	Family: RUBIACEAE	Cname: Pitadaru (Sans.)
+Sname: Moringa concanensis Nimmo	Family: MORINGACEAE	Cname: Jangli sargua
+Sname: Moringa oleifera Lam.	Family: MORINGACEAE	Cname: Sahjana, Sahijana
+Sname: Mormordica balsamina L.	Family: CUCURBITACEAE	Cname: Mokha
+Sname: Mormordica charantia L.	Family: CUCURBITACEAE	Cname: Karela, Kareli
+Sname: Mormordica cochinchinensis (Lour.) Spreng.	Family: CUCURBITACEAE	Cname: Gulkakra, Gangerua
+Sname: Mormordica dioica Roxb. ex Willd.	Family: CUCURBITACEAE	Cname: Kaksa, Golkandra
+Sname: Morus alba L.	Family: MORACEAE	Cname: Tut, Chinni
+Sname: Morus australis Poir.	Family: MORACEAE	Cname: Kiskuri (Assamese)
+Sname: Morus nigra L.	Family: MORACEAE	Cname: Shah-tut
+Sname: Moschosma polystachyum Benth.	Family: LAMIACEAE	Cname: Musk basil (Eng.)
+Sname: Mucuna gigantea DC.	Family: FABACEAE	Cname: Enugadulagondi (Tel.)
+Sname: Mucuna monosperma DC. ex Wight	Family: FABACEAE	Cname: Khatavangi (Sans.)
+Sname: Mucuna nigricans (Lour.) Steud.	Family: FABACEAE	Cname: Kasi (Beng.)
+Sname: Mucuna pruriens (L.) DC.	Family: FABACEAE	Cname: Kevanch, Kaunch
+Sname: Murdannia scapiflora (Roxb.) Royle	Family: COMMELINACEAE	Cname: Musli-Siyah
+Sname: Murraya koenigii (L.) Spreng.	Family: RUTACEAE	Cname: Kathneem, Mitha neem
+Sname: Murraya paniculata (L.) Jacq.	Family: RUTACEAE	Cname: Kamini, Marchula
+Sname: Musa paradisiaca L.	Family: MUSACEAE	Cname: Kela
+Sname: Mussaenda glabra Vahl	Family: RUBIACEAE	Cname: Charai-atha (Assam)
+Sname: Mussaenda glabrata (Hook.f.) Hutch. ex Gamble	Family: RUBIACEAE	Cname: Bedina, Bebina
+Sname: Myrica esculenta Buch.-Ham.	Family: MYRICACEAE	Cname: Kaiphal, Kaphala
+Sname: Myricaria bracteata Royle	Family: TAMARICACEAE	Cname: Shalakat (Punjab)
+Sname: Myristica dactyloides Gaertn.	Family: MYRISTICACEAE	Cname: Jayaphal (Mar.)
+Sname: Myristica fragrans Houtt.	Family: MYRISTICACEAE	Cname: Jaiphal, Jayapatri
+Sname: Myristica malabarica Lam.	Family: MYRISTICACEAE	Cname: Patthiri (Tam.)
+Sname: Myrsine africana L.	Family: MYRSINACEAE	Cname: Chapra
+Sname: Myrtus communis L.	Family: MYRTACEAE	Cname: Vilayati mehndi, Murad
+Sname: Myxopyrum smilacifolium (Wall.) Blume	Family: OLEACEAE	Cname: Chathuravalli (Mal.)
+Sname: Nannorhops ritchiena (Griff.) Wendl.	Family: ARECACEAE	Cname: Mazari Palm (Eng.)
+Sname: Nardostachys grandiflora DC.	Family: VALERIANACEAE	Cname: Bal-chir, Jatamansi
+Sname: Naringi crenulata (Roxb.) Nicolson	Family: RUTACEAE	Cname: Beli, Surasi (Sanskrit)
+Sname: Nelumbo nucifera Gaertn.	Family: NYMPHAEACEAE	Cname: Kanwal, Kamal
+Sname: Neolitsea cassia (L.) Kosterm.	Family: LAURACEAE	Cname: Kanvel (Mar.)
+Sname: Olea dioica Roxb.	Family: OLEACEAE	Cname: Atta-jam (Beng.)
+Sname: Olea europaea L.	Family: OLEACEAE	Cname: Common Olive (Eng.)
+Sname: Olea ferruginea Royle	Family: OLEACEAE	Cname: Kahu, Kankao (N.W. Himalayas)
+Sname: Olea glandulifera Wall. ex G.Don	Family: OLEACEAE	Cname: Gulili (N.W. Himalayas)
+Sname: Onosma bracteatum Wall.	Family: BORAGINACEAE	Cname: Gaozaban, Shankhahuli
+Sname: Onosma hispidum Wall. ex G.Don	Family: BORAGINACEAE	Cname: Ratanjot
+Sname: Ophioglossum vulgatum L.	Family: OPHIOGLOSSACEAE	Cname: Adder's-tongue (Eng.)
+Sname: Ophiorrhiza mungos L.	Family: RUBIACEAE	Cname: Sarahati
+Sname: Opuntia coccinellifera Mill.	Family: CACTACEAE	Cname: Cochineal Cactus (Eng.)
+Sname: Opuntia nigricans Haw.	Family: CACTACEAE	Cname: Nagadali (Tam.)
+Sname: Oreocnide integrifolia Miq.	Family: URTICACEAE	Cname: Lipe (Nepal)
+Sname: Origanum vulgare L.	Family: LAMIACEAE	Cname: Sathra
+Sname: Ormocarpum sennoides DC.	Family: FABACEAE	Cname: Kananashekhara (Sans.)
+Sname: Orobanche aegyptiaca Pers.	Family: OROBANCHACEAE	Cname: Sarsan-banda, Bhatua ghas
+Sname: Oroxylum indicum (L.) Vent.	Family: BIGNONIACEAE	Cname: Ullu, Saona
+Sname: Orthosiphon grandiflorus Boldingh.	Family: LAMIACEAE	Cname: Java tea (Eng.)
+Sname: Orthosiphon pallidus Royle ex Benth.	Family: LAMIACEAE	Cname: Arjaka (Sans.)
+Sname: Osbeckia crinita Benth.	Family: MELASTOMATACEAE	Cname: Handi samba (Bhutan)
+Sname: Osbeckia nepalensis Hook.	Family: MELASTOMATACEAE	Cname: Baga phatkala (Assam)
+Sname: Osmanthus fragrans Lour.	Family: OLEACEAE	Cname: Silang (U.P. Hills)
+Sname: Osmunda regalis L.	Family: OSMUNDACEAE	Cname: Royal Fern (Eng.)
+Sname: Ougeinia oojeinensis (Roxb.) Hochr.	Family: FABACEAE	Cname: Sandan, Panjan
+Sname: Ouratea angustifolia Baill. ex Laness.	Family: OCHNACEAE	Cname: Valermani (Mar.)
+Sname: Oxalis corniculata L.	Family: OXALIDACEAE	Cname: Tinpatiya, Amrul (Beng.)
+Sname: Oxyria digyna (L.) Hill	Family: POLYGONACEAE	Cname: Amlu (Punjab)
+Sname: Oxystelma secamone (L.) K.Schum.	Family: ASCLEPIADACEAE	Cname: Dudhialata
+Sname: Pachyrrhizus erosus (L.) Urban	Family: FABACEAE	Cname: Sankalu
+Sname: Paederia scandens (Lour.) Merr.	Family: RUBIACEAE	Cname: Gandha prasarini, Somaraji
+Sname: Paeonia emodi Wall. ex Hook.f.	Family: PAEONIACEAE	Cname: Chandayra
+Sname: Pajanelia longifolia (Willd.) K.Schum.	Family: BIGNONIACEAE	Cname: Doundi (Mar.)
+Sname: Panax pseudo-ginseng Wall.	Family: ARALIACEAE	Cname: Asiatic or Chinese Ginseng (Eng.)
+Sname: Panicum antidotale Retz.	Family: POACEAE	Cname: Gunara
+Sname: Panicum incomtum Trin.	Family: POACEAE	Cname: Cheen
+Sname: Panicum maximum Jacq.	Family: POACEAE	Cname: Gini pullu; Gini hullu (Tam.)
+Sname: Papaver argemone L.	Family: PAPAVERACEAE	Cname: Bharbhand, Seyalkata (Beng.)
+Sname: Papaver dubium L.	Family: PAPAVERACEAE	Cname: Long-Head Poppy (Eng.)
+Sname: Papaver hybridum L.	Family: PAPAVERACEAE	Cname: Rough Poppy (Eng.)
+Sname: Papaver nudicaule L.	Family: PAPAVERACEAE	Cname: Iceland Poppy (Eng.)
+Sname: Papaver orientale L.	Family: PAPAVERACEAE	Cname: Oriental Poppy (Eng.)
+Sname: Papaver rhoeas L.	Family: PAPAVERACEAE	Cname: Lalpost, Post
+Sname: Papaver somniferum L.	Family: PAPAVERACEAE	Cname: Aphim, Posto (Beng.)
+Sname: Paracalyx scariosa (Roxb.) Ali	Family: FABACEAE	Cname: Simbi, Toranvel (Local nmaes)
+Sname: Parameria polyneura Hook.f.	Family: APOCYNACEAE	Cname: Mikirtengalata (Assam)
+Sname: Paramignya angulata Kurz	Family: RUTACEAE	Cname: Ban nimbu (Beng.)
+Sname: Paramignya monophylla Wight	Family: RUTACEAE	Cname: Kurwa-wagutti (Mar.)
+Sname: Parsonsia helicandra Hook. & Arn.	Family: APOCYNACEAE	Cname: Penalivalli (Mal.)
+Sname: Paspalum scrobiculatum L.	Family: POACEAE	Cname: Kodo, Kodra
+Sname: Passiflora edulis Sims	Family: PASSIFLORACEAE	Cname: Passion Fruit (Eng.)
+Sname: Passiflora foetida L.	Family: PASSIFLORACEAE	Cname: Jhumkalata, Tellajumiki (Tel.)
+Sname: Pavetta crassicaulis Bremek.	Family: RUBIACEAE	Cname: Kankra, Papari
+Sname: Pavonia odorata Willd.	Family: MALVACEAE	Cname: Sugandha-bala
+Sname: Pavonia zeylanica (L.) Cav.	Family: MALVACEAE	Cname: Pera mutti (Tel.)
+Sname: Pedalium murex L.	Family: PEDALIACEAE	Cname: Bara-gokhru, Kadvagokkru
+Sname: Pedicularis pectinata Wall. ex Benth.	Family: SCROPHULARIACEAE	Cname: Mishran (Punjab)
+Sname: Pedicularis siphonantha D.Don	Family: SCROPHULARIACEAE	Cname: Tube Lousewort (Eng.)
+Sname: Pedilanthus tithymaloides (L.) Poit.	Family: EUPHORBIACEAE	Cname: Nagdaman, Rangchita (Beng.)
+Sname: Peganum harmala L.	Family: RUTACEAE	Cname: Harmal, Isband-lahouri
+Sname: Pelargonium graveolens L'Herit.	Family: GERANIACEAE	Cname: Rose-Scented Geranium (Eng.)
+Sname: Pellaea hastata (Thunb.) Prantl.	Family: ADIANTACEAE	Cname: Cliff brake (Eng.)
+Sname: Pentapetes phoenicea L.	Family: STERCULIACEAE	Cname: Dopahariya
+Sname: Pentatropis spiralis (Forsk.) Decne	Family: ASCLEPIADACEAE	Cname: Kauathodi
+Sname: Pergularia daemia (Forsk.) Choiv.	Family: ASCLEPIADACEAE	Cname: Uttaranajutuka, Sagovani
+Sname: Pericampylus glaucus (Lam.) Miers.	Family: MENISPERMACEAE	Cname: Barakkanta
+Sname: Perilepta auriculata (Nees) Bremek	Family: ACANTHACEAE	Cname: Phandadi (Guj)
+Sname: Perilla frutescens (L.) Britton	Family: LAMIACEAE	Cname: Bhanjira
+Sname: Periploca aphylla Decne.	Family: PERIPLOCACEAE	Cname: Bata (Punjab)
+Sname: Peristrophe bicalyculata (Retz.) Nees	Family: ACANTHACEAE	Cname: Atrilal
+Sname: Peristrophe roxburghiana (Roem. & Schult.) Bremek.	Family: ACANTHACEAE	Cname: Magenta plant (Eng.)
+Sname: Perovskia abrotanoides Kar.	Family: LAMIACEAE	Cname: Shanshohai (Pushtu)
+Sname: Petroselinum crispum (Mill.) Airy-Shaw	Family: APIACEAE	Cname: Achu mooda (Kan.)
+Sname: Peucedanum dhana Buch.-Ham. ex C.B.Clarke	Family: APIACEAE	Cname: Bhoj raj (Bihar)
+Sname: Peucedanum grande C.B.Clarke	Family: APIACEAE	Cname: Duku
+Sname: Peucedanum nagpurense Prain	Family: APIACEAE	Cname: Tej raj (Beng.)
+Sname: Phaseolus adenanthus G.F.Meyer	Family: FABACEAE	Cname: Banbarbati (Beng.)
+Sname: Phaseolus lunatus L.	Family: FABACEAE	Cname: Sem
+Sname: Phaseolus vulgaris L.	Family: FABACEAE	Cname: Bakla, Lobia
+Sname: Phlogacanthus thyrsiflorus (Roxb.) Nees	Family: ACANTHACEAE	Cname: Banheka (Assam)
+Sname: Phoenix dactylifera L.	Family: ARECACEAE	Cname: Kejuri (Assamese)
+Sname: Phoenix pusilla Gaertn.	Family: ARECACEAE	Cname: Chiruata-ita, chitti-ita (Tel.)
+Sname: Phoenix sylvestris (L.) Roxb.	Family: ARECACEAE	Cname: Khajur, Khajuri
+Sname: Phyla nodiflora (L.) Greene	Family: VERBENACEAE	Cname: Jalpapli, Panisigaa
+Sname: Phyllanthus acidus (L.) Skeels	Family: EUPHORBIACEAE	Cname: Chalmeri, Harfarauri
+Sname: Phyllanthus fraternus Webster	Family: EUPHORBIACEAE	Cname: Jaramla, Jangli amli
+Sname: Phyllanthus maderaspatensis L.	Family: EUPHORBIACEAE	Cname: Kanocha, Bazarmani
+Sname: Phyllanthus urinaria L.	Family: EUPHORBIACEAE	Cname: Lal-bhuin anvalah, Hazarmani
+Sname: Phyllanthus virgatus Forst.	Family: EUPHORBIACEAE	Cname: Bhuiavali (Mar.)
+Sname: Phyllochlamys taxoides Koord.	Family: MORACEAE	Cname: Sheora (Beng.)
+Sname: Physalis angulata L.	Family: SOLANACEAE	Cname: Popti (Mar.)
+Sname: Physalis minima L.	Family: SOLANACEAE	Cname: Tulati pati
+Sname: Physalis peruviana L.	Family: SOLANACEAE	Cname: Tipari
+Sname: Physochlaina praealta (Walp.) Hook.f.	Family: SOLANACEAE	Cname: Sholar (Punjab)
+Sname: Phytolacca acinosa Roxb.	Family: PHYTOLACCACEAE	Cname: Matazor, Sarangum
+Sname: Picororhiza kurroa Royle ex Benth.	Family: SCROPHULARIACEAE	Cname: Kuru, Kutki
+Sname: Picrasma javanica Blume	Family: SIMAROUBACEAE	Cname: Bonposhla (Assam)
+Sname: Picrasma quassioides (D.Don) Benn.	Family: SIMAROUBACEAE	Cname: Bharangi, Charangi
+Sname: Picris hieracioides L.	Family: ASTERACEAE	Cname: Hawk Weed (Eng.)
+Sname: Pilea microphylla (L.) Liebm.	Family: URTICACEAE	Cname: Artillery Plant (Eng.)
+Sname: Pimpinella anisum L.	Family: APIACEAE	Cname: Saunf, Badian
+Sname: Pimpinella heyneana Wall.	Family: APIACEAE	Cname: Selvanthachedi (Tamil)
+Sname: Pinanga dicksonii (Roxb.) Scheffer	Family: ARECACEAE	Cname: Mala-adakka (Malayalam, Kaana Kamugu) (Tam.)
+Sname: Pinus gerardiana Wall. ex Lamb	Family: PINACEAE	Cname: Chilgoza, Neoza (seeds)
+Sname: Pinus roxburghii Sargent.	Family: PINACEAE	Cname: Chir, Cheed
+Sname: Piper cubeba L.f.	Family: PIPERACEAE	Cname: Kabab chini
+Sname: Piper longum L.	Family: PIPERACEAE	Cname: Pipal, Pipli
+Sname: Piper retrofractum Vahl	Family: PIPERACEAE	Cname: Chab, Chavi
+Sname: Piper sarmentosum Roxb.	Family: PIPERACEAE	Cname: Tippili (Tam.), Pipul (Beng.)
+Sname: Piper sylvaticum Roxb.	Family: PIPERACEAE	Cname: Pahari pipul (Beng.)
+Sname: Piper trioicum Roxb.	Family: PIPERACEAE	Cname: Kattumulaku (Malayalam)
+Sname: Piper wallichii (Miq.) Hand.-Mazz.	Family: PIPERACEAE	Cname: Shambhaluka
+Sname: Pisonia mitis L.	Family: NYCTAGINACEAE	Cname: Lechai (Tam.)
+Sname: Pistacia kinjuk Stocks	Family: ANACARDIACEAE	Cname: Kakra, Kakri (N.W. Himalayas)
+Sname: Pistacia lentiscus L.	Family: ANACARDIACEAE	Cname: Mastic Tree
+Sname: Pistacia vera L.	Family: ANACARDIACEAE	Cname: Pistachio (Eng.)
+Sname: Pistia stratiotes L.	Family: ARACEAE	Cname: Jalkhumbi, Takapana
+Sname: Pisum sativum L.	Family: FABACEAE	Cname: Matar
+Sname: Pithecellobium angulatum Benth.	Family: MIMOSACEAE	Cname: Bhasahu (Assam)
+Sname: Pithecellobium clypearia Benth.	Family: MIMOSACEAE	Cname: Bhasahu (Assam)
+Sname: Pithecellobium dulce (Roxb.) Benth.	Family: MIMOSACEAE	Cname: Vilayati babul, Vilayati Imli
+Sname: Pithecellobium monadelphum (Roxb.) Koster	Family: MIMOSACEAE	Cname: Kachlora
+Sname: Pittosporum napaulense (DC.) Rehder & E.H.Wilson	Family: PITTOSPORACEAE	Cname: Tumari (Hindi), Vikhari (Mar.)
+Sname: Plantago amplexicaulis Cav.	Family: PLANTAGINACEAE	Cname: Isafghol (Punjab)
+Sname: Plantago himalaica Pilger	Family: PLANTAGINACEAE	Cname: Ashwakarn
+Sname: Plantago lanceolata L.	Family: PLANTAGINACEAE	Cname: Baltanga
+Sname: Plantago major L.	Family: PLANTAGINACEAE	Cname: Gul, Isafghol (Kashmir)
+Sname: Plantago ovata Forsk.	Family: PLANTAGINACEAE	Cname: Isubgol
+Sname: Plantago psyllium L.	Family: PLANTAGINACEAE	Cname: Kala isabgol
+Sname: Platanus orientalis L.	Family: PLATANACEAE	Cname: Chinar (Kashmir)
+Sname: Plectranthus mollis (Aiton) Spreng.	Family: LAMIACEAE	Cname: Lal-agada (Bombay)
+Sname: Pleopeltis macrocarpa (Borry ex Willd.) Kaulf.	Family: POLYPODIACEAE	Cname: Lance fern (Eng.)
+Sname: Plesmonium margaritiferum (Roxb.) Schott	Family: ARACEAE	Cname: Gajeer mul (Beng.)
+Sname: Pluchea indica Less.	Family: ASTERACEAE	Cname: Kukronda, Munjhu rukha
+Sname: Pluchea lanceolata (DC.) C.B.Clarke	Family: ASTERACEAE	Cname: Rasana, Rashana
+Sname: Plumbago indica L.	Family: PLUMBAGINACEAE	Cname: Chitra, Lal chita
+Sname: Plumbago zeylanica L.	Family: PLUMBAGINACEAE	Cname: Chita, Chitarak
+Sname: Plumeria alba L.	Family: APOCYNACEAE	Cname: Veyvi varahaalu (Tel.)
+Sname: Plumeria rubra L.	Family: APOCYNACEAE	Cname: Lal Champa (Mar.)
+Sname: Plumeria rubra L. forma acuminata	Family: APOCYNACEAE	Cname: Lal Champa (Mar.)
+Sname: Podocarpus neriifolia D.Don	Family: PODOCARPACEAE	Cname: Halis
+Sname: Pogostemon benghalense (Burm.) Kuntze	Family: LAMIACEAE	Cname: Jui-lata (Beng.)
+Sname: Pogostemon heyneanus Benth.	Family: LAMIACEAE	Cname: Pacholi, Peholi
+Sname: Pogostemon parviflorus Benth.	Family: LAMIACEAE	Cname: Phangla, Pangli (Mar.)
+Sname: Pogostemon purpurascens Dalzell	Family: LAMIACEAE	Cname: Sangbrei (Manipuri)
+Sname: Polyalthia longifolia (Sonn.) Thwaites	Family: ANNONACEAE	Cname: Asoka, Debdari
+Sname: Polycarpea corymbosa (L.) Lam.	Family: CARYOPHYLLACEAE	Cname: Jinapanano (Guj.)
+Sname: Polycarpon prostratum (Forsk.) Aschers. & Schweinf.	Family: CARYOPHYLLACEAE	Cname: Sureta
+Sname: Polygala crotalarioides Buch.-Ham. ex DC.	Family: POLYGALACEAE	Cname: Lil kathi (Santal)
+Sname: Polygala elongata Klein ex Willd.	Family: POLYGALACEAE	Cname: Periyananka (Mal.)
+Sname: Polygala glomerata Lour.	Family: POLYGALACEAE	Cname: Meradu
+Sname: Polygala sibirica L.	Family: POLYGALACEAE	Cname: Common Milkwort (Eng.)
+Sname: Polygala telephioides Willd.	Family: POLYGALACEAE	Cname: Meradu, Miragu
+Sname: Polygonatum multiflorum (L.) Allioni	Family: LILIACEAE	Cname: Solmon's Seal (Eng.)
+Sname: Polygonum aviculare L.	Family: POLYGONACEAE	Cname: Machoti, Ban-natia
+Sname: Polygonum barbatum L.	Family: POLYGONACEAE	Cname: Bekh-unjubaz (Beng.)
+Sname: Polygonum chinense L.	Family: POLYGONACEAE	Cname: Paral (Mar.)
+Sname: Polygonum glabrum Willd.	Family: POLYGONACEAE	Cname: Panimircha, Bihagni (Beng.)
+Sname: Polygonum hydropiper L.	Family: POLYGONACEAE	Cname: Pani-mari
+Sname: Polygonum molle D.Don	Family: POLYGONACEAE	Cname: Kochomah (Assam)
+Sname: Polygonum nepalense Meissn.	Family: POLYGONACEAE	Cname: Kangany-machan-pillu (Tam.)
+Sname: Polygonum orientale L.	Family: POLYGONACEAE	Cname: Machoti, Bara pani mirich (Beng.)
+Sname: Polygonum persicaria L.	Family: POLYGONACEAE	Cname: Lady's Thumb (Eng.)
+Sname: Polygonum plebeium R.Br.	Family: POLYGONACEAE	Cname: Chemti sag, Dubia sag (Beng.)
+Sname: Polygonum polystachyum Wall. ex Meissn.	Family: POLYGONACEAE	Cname: Amldandi (Punjab)
+Sname: Polygonum tenellum Blume	Family: POLYGONACEAE	Cname: Pygmy Smartweed (Eng.)
+Sname: Polygonum virginianum L.	Family: POLYGONACEAE	Cname: Jumpseed (Eng.)
+Sname: Polygonum viviparum L.	Family: POLYGONACEAE	Cname: Maslun, Mameche (Punjab)
+Sname: Polypodium vulgare L.	Family: POLYPODIACEAE	Cname: Basfaij (Ind. Baz.)
+Sname: Polyscias fruticosa (L.) Harms	Family: ARALIACEAE	Cname: Ming Aralia (Chinese)
+Sname: Populus alba L.	Family: SALICACEAE	Cname: Fras (Kashmir)
+Sname: Populus euphratica Oliv.	Family: SALICACEAE	Cname: Hotung, Hodung (Ladakh)
+Sname: Portulaca oleracea L.	Family: PORTULACACEAE	Cname: Khursa, Baralaniya
+Sname: Portulaca pilosa L.	Family: PORTULACACEAE	Cname: Koli mulaiyan (Tamil)
+Sname: Portulaca quadrifida L.	Family: PORTULACACEAE	Cname: Chounlayi, Chotalunia
+Sname: Potentilla anserina L.	Family: ROSACEAE	Cname: Silver weed (Eng.)
+Sname: Potentilla arbuscula D.Don	Family: ROSACEAE	Cname: Merino (Punjab)
+Sname: Potentilla lineata Trevir ex Reich.	Family: ROSACEAE	Cname: Bhuitara (Beng.)
+Sname: Potentilla nepalensis Hook.	Family: ROSACEAE	Cname: Rattanjot (Punjab)
+Sname: Potentilla reptans L.	Family: ROSACEAE	Cname: Five-finger grass (Eng.)
+Sname: Potentilla sundaica (Blume) Kuntze	Family: ROSACEAE	Cname: Tilipalang (Nepali)
+Sname: Potentilla supina L.	Family: ROSACEAE	Cname: Karnali, Kanikar (Guj.)
+Sname: Pothos cathcartii Schott	Family: ARACEAE	Cname: Hathi Denkiya
+Sname: Pothos scandens L.	Family: ARACEAE	Cname: Parisa, Paruvakodi (Mal.)
+Sname: Pouzolzia sanguinea (Blume) Merr.	Family: URTICACEAE	Cname: Misagi-jollaphang (Assam)
+Sname: Pouzolzia zeylanica (L.) Benn.	Family: URTICACEAE	Cname: Piparisari, Eddu (Tel.)
+Sname: Prangos pabularia Lindl.	Family: APIACEAE	Cname: Komal
+Sname: Pratia nummularia (Lam.) A.Braun & Asch.	Family: CAMPANULACEAE	Cname: Chaokathi (Lushai)
+Sname: Premna corymbosa Rottler & Willd.	Family: VERBENACEAE	Cname: Agetha, Arni
+Sname: Premna divaricata Wall.	Family: VERBENACEAE	Cname: Headache tree (Eng.)
+Sname: Premna latifolia Roxb.	Family: VERBENACEAE	Cname: Pedda-nelli koora (Tel.)
+Sname: Premna tomentosa Willd.	Family: VERBENACEAE	Cname: Chambara (Mar.)
+Sname: Primula reticulata Wall.	Family: PRIMULACEAE	Cname: Bishkopra (Kumaun)
+Sname: Prinsepia utilis Royle	Family: ROSACEAE	Cname: Bekkra, Bhekal
+Sname: Prosopis chilensis (Molana) Stuntze	Family: MIMOSACEAE	Cname: Vilayati kikkar, Kabuli kikkar
+Sname: Prosopis cineraria (L.) Druce	Family: MIMOSACEAE	Cname: Jand, Chaunkra
+Sname: Prunella vulgaris L.	Family: LAMIACEAE	Cname: Dharu
+Sname: Prunus armeniaca L.	Family: ROSACEAE	Cname: Zardalu, Khubani
+Sname: Prunus avium L.	Family: ROSACEAE	Cname: Gilas (Kumaun)
+Sname: Prunus cerasoides D.Don	Family: ROSACEAE	Cname: Paddam, Payan
+Sname: Prunus cerasus L.	Family: ROSACEAE	Cname: Alubalu
+Sname: Prunus ceylanica (Wight) Miq.	Family: ROSACEAE	Cname: Galmorre (Beng.)
+Sname: Prunus domestica L.	Family: ROSACEAE	Cname: Alu, Alucha, Shanalu, Alubukhara, Alucha
+Sname: Prunus dulcis (Mill.) D.A.Webb.	Family: ROSACEAE	Cname: Badam
+Sname: Prunus mahaleb L.	Family: ROSACEAE	Cname: Mahaleb Cherry (Eng.)
+Sname: Prunus persica (L.) Batsch	Family: ROSACEAE	Cname: Aru, Shaftalu
+Sname: Prunus salicina Lindl.	Family: ROSACEAE	Cname: Japanese plum (Eng.)
+Sname: Prunus undulata Buch.-Ham. ex D.Don	Family: ROSACEAE	Cname: Aria, Gadharu
+Sname: Psammogeton canescens (DC.) Vatke	Family: APIACEAE	Cname: Gargira (Punjab)
+Sname: Pseudarthria viscida (L.) Wight & Arn.	Family: FABACEAE	Cname: Sanaparni (Sans.), Chapakno velo (Guj.)
+Sname: Psidium guajava L.	Family: MYRTACEAE	Cname: Amrud, Safed safari
+Sname: Psoralea corylifolia L.	Family: FABACEAE	Cname: Babachi, Babehibavanchi
+Sname: Pteridium aquilinum (L.) Kuhn.	Family: DENNSTAEDTIACEAE	Cname: Parnai (Tam.)
+Sname: Pterocarpus indicus Willd.	Family: FABACEAE	Cname: Vengai (Tam.)
+Sname: Pterocarpus marsupium Roxb.	Family: FABACEAE	Cname: Bijasal, Bija
+Sname: Pterocarpus santalinus L.f.	Family: FABACEAE	Cname: Raktachandan, Lalchandan
+Sname: Pterocymbium javanicum R.Br.	Family: STERCULIACEAE	Cname: Tshaw (Burma)
+Sname: Pterospermum acerifolium (L.) Willd.	Family: STERCULIACEAE	Cname: Kanakchampa
+Sname: Pterospermum suberifolium Lam.	Family: STERCULIACEAE	Cname: Moochukund, Tada (Tel.)
+Sname: Pterospermum xylocarpum (Gaertn.) Oken	Family: STERCULIACEAE	Cname: Lolgu (Tel.)
+Sname: Pueraria phaseoloides (Roxb.) Benth.	Family: FABACEAE	Cname: Jermei-kyn-saw (Assam)
+Sname: Pueraria tuberosa (Roxb. ex Willd.) DC.	Family: FABACEAE	Cname: Sural, Bilaikand
+Sname: Pulicaria crispa (Forssk.) Benth.	Family: ASTERACEAE	Cname: Burhna
+Sname: Pulicaria dysenterica (L.) Gaeertn.	Family: ASTERACEAE	Cname: Common fleabane (Eng.)
+Sname: Punica granatum L.	Family: PUNICACEAE	Cname: Anar, Dalim (Beng.)
+Sname: Quercus infectoria Oliv.	Family: FAGACEAE	Cname: Majuphal, Mazu
+Sname: Quercus lamellosa Sm.	Family: FAGACEAE	Cname: Falant (Nepali)
+Sname: Quercus leucotrichophora A.Camus ex Bahadur	Family: FAGACEAE	Cname: Sila supari, Iri (Kashmir)
+Sname: Quercus pachyphylla Kurz	Family: FAGACEAE	Cname: Badaa Katus (Nepali)
+Sname: Quisqualis indica L.	Family: COMBRETACEAE	Cname: Rangoon ki bel
+Sname: Radermachera xylocarpa (Roxb.) K.Schum.	Family: BIGNONIACEAE	Cname: Kharsing
+Sname: Randia cochinchinensis (Lour.) Merr.	Family: RUBIACEAE	Cname: Dieng-iong-blei (Khasi Hills)
+Sname: Randia longiflora Lam.	Family: RUBIACEAE	Cname: Pulikaint (Assam)
+Sname: Randia tomentosa Hook.f.	Family: RUBIACEAE	Cname: Mainphal
+Sname: Ranunculus aquatilis L.	Family: RANUNCULACEAE	Cname: Water-Crowfoot (Eng.)
+Sname: Ranunculus arvensis L.	Family: RANUNCULACEAE	Cname: Chambul (Punjab)
+Sname: Ranunculus cantoniensis DC.	Family: RANUNCULACEAE	Cname: Chinese Buttercup (Eng.)
+Sname: Ranunculus lingua L.	Family: RANUNCULACEAE	Cname: Great Spearwort (Eng.)
+Sname: Ranunculus muricatus L.	Family: RANUNCULACEAE	Cname: Rough-fruited Buttercup (Eng.)
+Sname: Ranunculus sceleratus L.	Family: RANUNCULACEAE	Cname: Jaldhania
+Sname: Raphanus sativus L.	Family: BRASSICACEAE	Cname: Muli, Muri
+Sname: Rauvolfia sarpentina (L.) Benth. ex Kurz	Family: APOCYNACEAE	Cname: Chandrabhaga, Chota chand
+Sname: Rauvolfia tetraphylla L.	Family: APOCYNACEAE	Cname: Barachandrika
+Sname: Reinwardtia indica Dumort.	Family: LINACEAE	Cname: Basanthi
+Sname: Reissantia indica (Willd.) Halle	Family: HIPPOCRATEACEAE	Cname: Atari-lata (Beng.)
+Sname: Remusatia vivipara (Roxb.) Schott	Family: ARACEAE	Cname: Rukhalu
+Sname: Reseda odorata L.	Family: RESEDACEAE	Cname: Mignonette (Eng.)
+Sname: Rhamnus nepalensis (Wall.) M.A.Lawson	Family: RHAMNACEAE	Cname: Biringa (Assam)
+Sname: Rhamnus purpureus Edgew.	Family: RHAMNACEAE	Cname: Purple Buckthorn (Eng.)
+Sname: Rhamnus triquetra Wall. ex Roxb.	Family: RHAMNACEAE	Cname: Gudlei, Fagora (Punjab)
+Sname: Rhamnus virgatus Roxb.	Family: RHAMNACEAE	Cname: Chato, Chadua
+Sname: Rhamnus wightii Wight & Arn.	Family: RHAMNACEAE	Cname: Wight's Buckthorn (Eng.)
+Sname: Rheum emodi Wall. ex Meissn.	Family: POLYGONACEAE	Cname: Hindirevandchini
+Sname: Rheum spiciforme Royle	Family: POLYGONACEAE	Cname: Archu (Garhwal)
+Sname: Rheum webbianum Royle	Family: POLYGONACEAE	Cname: Archu (Garhwal)
+Sname: Rhinacanthus nasuta (L.) Kurz	Family: ACANTHACEAE	Cname: Palak juhi
+Sname: Rhizophora mucronata Lam.	Family: RHIZOPHORACEAE	Cname: Kamo, Bhora (Beng.)
+Sname: Rhodamnia trinervia Blume	Family: MYRTACEAE	Cname: Brown Mallet-Wood (Eng.)
+Sname: Rhododendron anthopogon D.Don	Family: ERICACEAE	Cname: Nichni (Punjab)
+Sname: Rhododendron arboreum Sm.	Family: ERICACEAE	Cname: Burans
+Sname: Rhododendron campanulatum D.Don	Family: ERICACEAE	Cname: Cherailu
+Sname: Rhododendron lepidotum Wall. ex G.Don	Family: ERICACEAE	Cname: Talisfur (Punjab)
+Sname: Rhododendron setosum D.Don	Family: ERICACEAE	Cname: Tsalluo (Bhutan)
+Sname: Rhodomyrtus tomentosa Wight	Family: MYRTACEAE	Cname: Kattupera (Malayalam)
+Sname: Rhus coriaria L.	Family: ANACARDIACEAE	Cname: Sicilian Sumac (Eng.)
+Sname: Rhus hookeri K.C.Sahni & Bahadur	Family: ANACARDIACEAE	Cname: Momphulai (Beng.)
+Sname: Rhus javanica L.	Family: ANACARDIACEAE	Cname: Nutgall tree (Eng.)
+Sname: Rhus parviflora Roxb. ex DC.	Family: ANACARDIACEAE	Cname: Tung, Raitung
+Sname: Rhus punjabensis J.L.Stew. ex Brand.	Family: ANACARDIACEAE	Cname: Dor (Punjab)
+Sname: Rhus succedanea L.	Family: ANACARDIACEAE	Cname: Kakra-singi
+Sname: Rhynchosia minima (L.) DC.	Family: FABACEAE	Cname: Daktaranghevda (Mar.)
+Sname: Rhynchostylis retusa (L.) Blume	Family: ORCHIDACEAE	Cname: Draupadi mala
+Sname: Ribes alpestre Wall. ex Decne.	Family: GROSSULARIACEAE	Cname: Amlanch (Punjab)
+Sname: Ribes orientalis Desf.	Family: GROSSULARIACEAE	Cname: Askuta (Ladakh)
+Sname: Ricinus communis L.	Family: EUPHORBIACEAE	Cname: Erandi
+Sname: Rivea ornata (Roxb.) Choisy.	Family: CONVOLVULACEAE	Cname: Phanji (Sans.)
+Sname: Rorippa indica (L.) Hiern	Family: BRASSICACEAE	Cname: Chamsuru
+Sname: Rorippa islandica (Oeder) Borbás	Family: BRASSICACEAE	Cname: Yellow marshcress (Eng.)
+Sname: Rorippa nasturtium-aquaticum (L.) Hayek	Family: BRASSICACEAE	Cname: Chhuch, Jal-indushoor
+Sname: Rosa banksiae R.Br.	Family: ROSACEAE	Cname: Bank's Rose
+Sname: Rosa brunonii Lindl.	Family: ROSACEAE	Cname: Kuji, Kunja
+Sname: Rosa centifolia L.	Family: ROSACEAE	Cname: Gulab
+Sname: Rosa damascena Mill.	Family: ROSACEAE	Cname: Fasli Gulab
+Sname: Rosa multiflora Thunb.	Family: ROSACEAE	Cname: Multiflora Rose (Eng.)
+Sname: Roscoea purpurea Sm.	Family: ZINGIBERACEAE	Cname: Rasagaree (Nepali)
+Sname: Rosmarinus officinalis L.	Family: LAMIACEAE	Cname: Rusmari
+Sname: Rotula aquatica Lour.	Family: BORAGINACEAE	Cname: Sherni (Mar.)
+Sname: Roylea cineria (D.Don) Baill.	Family: LAMIACEAE	Cname: Patkarru
+Sname: Rubia cordifolia L.	Family: RUBIACEAE	Cname: Manjit, Manjitha
+Sname: Rubia tinctorum L.	Family: RUBIACEAE	Cname: Bacho (Punjab)
+Sname: Rubus moluccanus L.	Family: ROSACEAE	Cname: Katsoi (Kumaun)
+Sname: Rumex acetosa L.	Family: POLYGONACEAE	Cname: Khatta palak
+Sname: Rumex acetosella L.	Family: POLYGONACEAE	Cname: Chuk
+Sname: Rumex crispus L.	Family: POLYGONACEAE	Cname: Yellow Dock (Eng.)
+Sname: Rumex dentatus L.	Family: POLYGONACEAE	Cname: Ambavah, Amrule
+Sname: Rumex maritimus L.	Family: POLYGONACEAE	Cname: Jub-palum, Jungli palak
+Sname: Rumex nepalensis Spreng.	Family: POLYGONACEAE	Cname: Pahari palang
+Sname: Rumex scutatus L.	Family: POLYGONACEAE	Cname: Ambavati
+Sname: Rungia parviflora (Retz.) Nees	Family: ACANTHACEAE	Cname: Moto khadsalyo (Guj.)
+Sname: Rungia repens (L.) Nees	Family: ACANTHACEAE	Cname: Kharmor
+Sname: Ruta graveolens L.	Family: RUTACEAE	Cname: Garden Rue (Eng.)
+Sname: Saccharum bengalense Retz.	Family: POACEAE	Cname: Kans
+Sname: Saccharum spontaneum L.	Family: POACEAE	Cname: Kans, Kas
+Sname: Sageraea laurifolia (Grah.) Blatter	Family: ANNONACEAE	Cname: Sageree, Harkinjal (Mar.)
+Sname: Sagittaria sagittifolia L.	Family: ALISMATACEAE	Cname: Chhoto-kut, Muya Muya (Beng.)
+Sname: Salacia chinensis L.	Family: CELASTRACEAE	Cname: Saptrangi, Dimal (Beng.)
+Sname: Salacia oblonga Wall.	Family: CELASTRACEAE	Cname: Chundan (Tam.)
+Sname: Salacia reticulata Wight	Family: CELASTRACEAE	Cname: Saptarangi, Etanayakam (Sans.)
+Sname: Salicornia brachiata Roxb.	Family: CHENOPODIACEAE	Cname: Muchul (Guj.)
+Sname: Salix acmophylla Boiss.	Family: SALICACEAE	Cname: Bada, Bed
+Sname: Salix babylonica L.	Family: SALICACEAE	Cname: Attuppalai (Tel.)
+Sname: Salix caprea L.	Family: SALICACEAE	Cname: Bedmushk
+Sname: Salix tetrasperma Roxb.	Family: SALICACEAE	Cname: Bod, Bent
+Sname: Salsola baryosma (R.& S.) Dandy	Family: CHENOPODIACEAE	Cname: Ellakura (Tel.)
+Sname: Salsola kali L.	Family: CHENOPODIACEAE	Cname: Sajjibuti (Punjab)
+Sname: Salvadora oleoides Decne.	Family: SALVADORACEAE	Cname: Bahapilu, Chootapilu
+Sname: Salvadora persica L.	Family: SALVADORACEAE	Cname: Jhak, Kharjal
+Sname: Salvia aegyptica L.	Family: LAMIACEAE	Cname: Tukham malanga (Punjab)
+Sname: Salvia moorcroftiana Wall. ex Benth.	Family: LAMIACEAE	Cname: Thuth, Kali jarri (Punjab)
+Sname: Salvia officinalis L.	Family: LAMIACEAE	Cname: Salvia sefakuss
+Sname: Salvia plebeia R.Br.	Family: LAMIACEAE	Cname: Kaka-buradi (Beng.)
+Sname: Samadera indica Gaertn.	Family: SIMAROUBACEAE	Cname: Nibam, Mepa, Karinjottei (Tam.)
+Sname: Sambucus nigra L.	Family: CAPRIFOLIACEAE	Cname: European or Black Elder (Eng.)
+Sname: Sambucus wightiana Wall. ex Wight & Arn.	Family: CAPRIFOLIACEAE	Cname: Richhkas (Punjab)
+Sname: Sandoricum indicum Cav.	Family: MELIACEAE	Cname: Sayai (Tam.)
+Sname: Santaloides minus Schellenb.	Family: CONNARACEAE	Cname: Kalavidhara, Vidhara
+Sname: Santalum album L.	Family: SANTALACEAE	Cname: Safed chandan, Sandal
+Sname: Sapindus mukorossi Gaertn.	Family: SAPINDACEAE	Cname: Ritha, Reetha
+Sname: Sapindus trifoliatus L.	Family: SAPINDACEAE	Cname: Reetha, Ritha
+Sname: Sapium indicum Willd.	Family: EUPHORBIACEAE	Cname: Hurna
+Sname: Sapium insigne (Royle) Benth.	Family: EUPHORBIACEAE	Cname: Khinna, Khirun
+Sname: Sapium sebiferum (L.) Roxb.	Family: EUPHORBIACEAE	Cname: Pippalyang, Vilayati-shisham
+Sname: Saprosma ternatum Benth. & Hook.f.	Family: RUBIACEAE	Cname: Bhedeli (Assam)
+Sname: Saraca indica L.	Family: CAESALPINIACEAE	Cname: Asok, Ashoka
+Sname: Sarcococca saligna Muell.Arg.	Family: EUPHORBIACEAE	Cname: Sukat sing (Kumaun)
+Sname: Sarcostemma acidum (Roxb.) Voigt.	Family: ASCLEPIADACEAE	Cname: Somlata
+Sname: Sarcostemma brunonianum Wight & Arn.	Family: ASCLEPIADACEAE	Cname: Muroakiriya (Sinhalese)
+Sname: Sarcostemma intermedium Decne.	Family: ASCLEPIADACEAE	Cname: Phok (Mar.)
+Sname: Sarcostigma kleinii Wight & Arn.	Family: ICACINACEAE	Cname: Ingudi (Sans.)
+Sname: Satureja hortensis L.	Family: LAMIACEAE	Cname: Summer Savory (Eng.)
+Sname: Sauromatum venosum (Aiton) Kunth	Family: ARACEAE	Cname: Nurki (Mar.)
+Sname: Sauropus androgynus (L.) Merr.	Family: EUPHORBIACEAE	Cname: Thavasai murungai (Tam.)
+Sname: Sauropus quadrangularis (Willd.) Müll.Arg.	Family: EUPHORBIACEAE	Cname: Tellavusirika (Tel.)
+Sname: Saussurea affinis Spreng. ex DC.	Family: ASTERACEAE	Cname: Gangamula (Assam)
+Sname: Saussurea auriculata (Spreng. ex DC.) Sch.Bip.	Family: ASTERACEAE	Cname: Kut
+Sname: Saussurea heteromalla (D.Don) Hand.-Mazz.	Family: ASTERACEAE	Cname: Batula (Punjab)
+Sname: Saussurea lappa (Decne.) Sch.Bip.	Family: ASTERACEAE	Cname: Kut, Kur
+Sname: Saussurea obvallata (DC.) Sch.Bip.	Family: ASTERACEAE	Cname: Kanwal (Punjab)
+Sname: Scaevola taccada (Gaertn.) Roxb.	Family: GOODENIACEAE	Cname: Bhadrak (Mar.)
+Sname: Schima wallichii (DC.) Korth.	Family: THEACEAE	Cname: Chilauni, Kanak
+Sname: Schleichera oleosa (Lour.) Oken	Family: SAPINDACEAE	Cname: Kusum
+Sname: Schrebera swietenioides Roxb.	Family: OLEACEAE	Cname: Moka, Banpalas
+Sname: Schweinfurthia papilionacea (Burm.f.) Boiss.	Family: SCROPHULARIACEAE	Cname: Nepal nimb, Sanipat
+Sname: Scilla hyacinthina (Roth) Macbridge	Family: LILIACEAE	Cname: Safedi-khus
+Sname: Scindapsus officinalis (Roxb.) Schott	Family: ARACEAE	Cname: Gajapipal, Pippal-jhanca
+Sname: Scirpus articulatus L.	Family: CYPERACEAE	Cname: Chichora
+Sname: Scirpus grossus L.f.	Family: CYPERACEAE	Cname: Kasuru, Kesur
+Sname: Scirpus lacustris L.	Family: CYPERACEAE	Cname: Great Bulrush (Eng.)
+Sname: Scirpus maritimus L.	Family: CYPERACEAE	Cname: Saltmarsh buirush (Eng.)
+Sname: Scleria levis Retz.	Family: CYPERACEAE	Cname: Nutrushes (Eng.)
+Sname: Scleria lithosperma (L.) Sw.	Family: CYPERACEAE	Cname: Nakkupullu (Malayalam)
+Sname: Scoparia dulcis L.	Family: SCROPHULARIACEAE	Cname: Jastimadhu (Santal)
+Sname: Scutellaria discolor Wall. ex Benth.	Family: LAMIACEAE	Cname: Daampaate (Nepali)
+Sname: Scutellaria galericulata L.	Family: LAMIACEAE	Cname: Common Skullcap (Eng.)
+Sname: Sebastiania chamaelea(L.) Muell.Arg.	Family: EUPHORBIACEAE	Cname: Bhuierendi (Konkan)
+Sname: Secamone emetica (Retz.) R.Br. ex Sm.	Family: EUPHORBIACEAE	Cname: Shadaburi (Beng.)
+Sname: Securinega leucopyrus (Willd.) Müll.Arg.	Family: EUPHORBIACEAE	Cname: Hartho, Ainta
+Sname: Securinega virosa (Roxb. ex Willd.) Baill.	Family: EUPHORBIACEAE	Cname: Dalme, Patala
+Sname: Sedum multicaule Wall. ex Lindl.	Family: CRASSULACEAE	Cname: Multi-Stem Sedum (Eng.)
+Sname: Semecarpus anacardium L.f.	Family: ANACARDIACEAE	Cname: Bhela, Bhilawa
+Sname: Senecio bhutanicus N.P.Balakr.	Family: ASTERACEAE	Cname: Lemon Bean Bush (Eng.)
+Sname: Senecio chrysanthemoides DC.	Family: ASTERACEAE	Cname: Cheerful Senecio (Eng.)
+Sname: Senecio jacquemontianus (Decne.) Benth. ex Hook.f.	Family: ASTERACEAE	Cname: Poshkar (Kashmir)
+Sname: Senecio tenuifolius Burm.f.	Family: ASTERACEAE	Cname: Katimera (Tel.)
+Sname: Senecio vulgaris L.	Family: ASTERACEAE	Cname: Groundsel (Eng.)
+Sname: Sesamum orientale L.	Family: PEDALIACEAE	Cname: Til
+Sname: Sesbania bispinosa (Jacq.) W.Wight	Family: FABACEAE	Cname: Ikkada
+Sname: Sesbania grandiflora (L.) Poir.	Family: FABACEAE	Cname: Bak, Agasti
+Sname: Sesbania sesban (L.) Merr.	Family: FABACEAE	Cname: Jainti, Jait
+Sname: Seseli diffusum (Roxb. ex Sm.) Santapau & Wagh	Family: APIACEAE	Cname: Vanayamani (Sans.)
+Sname: Seseli sibiricum Benth. ex C.B.Clarke	Family: APIACEAE	Cname: Bhootakeshi (J &K)
+Sname: Setaria plicata (Lam.) T.Cook	Family: POACEAE	Cname: Kangni
+Sname: Shorea robusta Gaertn.f.	Family: DIPTEROCARPACEAE	Cname: Sal, Sakhu
+Sname: Sida acuta Burm.f.	Family: MALVACEAE	Cname: Bariara, Kareta
+Sname: Sida cordata (Burm.f.) Borss.Waalk.	Family: MALVACEAE	Cname: Bhiunli, Junka (Beng.)
+Sname: Sida cordifolia L.	Family: MALVACEAE	Cname: Kungyi
+Sname: Sida ovata Forsk.	Family: MALVACEAE	Cname: Ball (Rajasthan)
+Sname: Sida rhombifolia L.	Family: MALVACEAE	Cname: Lal barela
+Sname: Siegesbeckia orientalis L.	Family: ASTERACEAE	Cname: Pilibadkadi (Guj.)
+Sname: Silene conoidea L.	Family: CARYOPHYLLACEAE	Cname: Cone campion (Eng.)
+Sname: Silene gallica L.	Family: CARYOPHYLLACEAE	Cname: Windmill Pink (Eng.)
+Sname: Silybum marianum (L.) Gaertn.	Family: ASTERACEAE	Cname: Milk Thistle (Eng.)
+Sname: Sisymbrium altissimum L.	Family: BRASSICACEAE	Cname: Tumble-Mustard (Eng.)
+Sname: Sisymbrium irio L.	Family: BRASSICACEAE	Cname: Khubkalan
+Sname: Sisymbrium loeselii L.	Family: BRASSICACEAE	Cname: Small tumble weed mustard (Eng.)
+Sname: Skimmia laureola (DC.) Sieb. & Zucc. ex Walp.	Family: RUTACEAE	Cname: Kedarpatta, Masturipath (Local names)
+Sname: Smilax glabra Roxb.	Family: SMILACACEAE	Cname: Barichob-chini
+Sname: Smilax lanceaefolia Roxb.	Family: SMILACACEAE	Cname: Hindichobchini
+Sname: Smilax ovalifolia Roxb.	Family: SMILACACEAE	Cname: Jangli- aushbah, Chob-chini
+Sname: Smithia conferta Sm.	Family: FABACEAE	Cname: Naichibha (Mar.)
+Sname: Smithia sensitiva Aiton	Family: FABACEAE	Cname: Odabrini
+Sname: Solanum albicaule Kotschy ex Dunal	Family: SOLANACEAE	Cname: Narkanta (Rajasthan)
+Sname: Solanum dulcamara L.	Family: SOLANACEAE	Cname: Kakmachi (Sans.)
+Sname: Solanum erianthum D.Don	Family: SOLANACEAE	Cname: Vidari (Sans.)
+Sname: Solanum ferox L.	Family: SOLANACEAE	Cname: Garbhada (Sans.)
+Sname: Solanum gracilipes Decne.	Family: SOLANACEAE	Cname: Howa (Punjab)
+Sname: Solanum indicum L.	Family: SOLANACEAE	Cname: Barhanta, Birhatta (Hindi)
+Sname: Solanum melongena L.	Family: SOLANACEAE	Cname: Bengan, Ubhi ringani (Guj)
+Sname: Solanum nigrum L.	Family: SOLANACEAE	Cname: Makoi
+Sname: Solanum spirale Roxb.	Family: SOLANACEAE	Cname: Mungaskajur
+Sname: Solanum surattense Burm.f.	Family: SOLANACEAE	Cname: Kateli, Katai
+Sname: Solanum torvum Sw.	Family: SOLANACEAE	Cname: Titbaigun (Beng.)
+Sname: Solanum trilobatum L.	Family: SOLANACEAE	Cname: Alarka (Sans.)
+Sname: Solanum tuberosum L.	Family: SOLANACEAE	Cname: Alu
+Sname: Solidago virgaurea L.	Family: ASTERACEAE	Cname: Woundwort (Eng.)
+Sname: Sonchus asper (L.) Hill	Family: ASTERACEAE	Cname: Didhi
+Sname: Sonchus brachyotus DC.	Family: ASTERACEAE	Cname: Sadhi
+Sname: Sonchus oleraceus L.	Family: ASTERACEAE	Cname: Dudhi, Dodak
+Sname: Sonneratia caseolaris (L.) Engl.	Family: SONNERATIACEAE	Cname: Orcha, Archa (Beng.)
+Sname: Sophora mollis (Royle) Baker	Family: FABACEAE	Cname: Kun, Malan (Punjab)
+Sname: Sophora tomentosa L.	Family: FABACEAE	Cname: Silver Bush (Eng.)
+Sname: Sopubia delphinifolia (L.) G.Don	Family: SCROPHULARIACEAE	Cname: Dudhali (Mar. & Guj.)
+Sname: Sorbaria tomentosa (Lindl.) Rehder	Family: ROSACEAE	Cname: Baakhre jhaar (Nepali)
+Sname: Sorbus aucuparia L.	Family: ROSACEAE	Cname: Baltal (Punjab)
+Sname: Sorghum halepense (L.) Pers.	Family: POACEAE	Cname: Baru
+Sname: Soymida febrifuga A.Juss.	Family: MELIACEAE	Cname: Rohun, Rohunna
+Sname: Spermadictyon suaveolens Roxb.	Family: RUBIACEAE	Cname: Kondamuritidi (Tel.)
+Sname: Sphaeranthus africanus L.	Family: ASTERACEAE	Cname: Sveta hapusa (Sans.)
+Sname: Sphaeranthus indicus L.	Family: ASTERACEAE	Cname: Mundi, Gorakh mundi
+Sname: Sphenodesme pentandra Jack.	Family: VERBENACEAE	Cname: Tukha-karaing (Kach.)
+Sname: Spilanthes calva DC.	Family: ASTERACEAE	Cname: Akkalkara (Mar.)
+Sname: Spinacia oleracea L.	Family: CHENOPODIACEAE	Cname: Para cress (Eng.)
+Sname: Spondias pinnata (L.f.) Kurz	Family: ANACARDIACEAE	Cname: Ambada, Jangali Aam
+Sname: Stachys palustris L.	Family: LAMIACEAE	Cname: Marsh Woundwort (Eng.)
+Sname: Stachys parviflora Benth.	Family: LAMIACEAE	Cname: Baggibuti, Kirimar (Punjab)
+Sname: Stachys sylvatica L.	Family: LAMIACEAE	Cname: Hedge Woundwort (Eng.)
+Sname: Stachytarpheta indica (L.) Vahl	Family: VERBENACEAE	Cname: Kariyartharani
+Sname: Stellaria alsine Grimm	Family: CARYOPHYLLACEAE	Cname: Bog stitchwort (Eng.)
+Sname: Stellaria media (L.) Vill.	Family: CARYOPHYLLACEAE	Cname: Morolia (Assam)
+Sname: Stemodia viscosa Roxb.	Family: SCROPHULARIACEAE	Cname: Nukachuni (Beng.)
+Sname: Stephania glabra (Roxb.) Miers.	Family: MENISPERMACEAE	Cname: Gindaru (Garhwal)
+Sname: Stephania hernandifolia (Willd.) Walp.	Family: MENISPERMACEAE	Cname: Musakani, Vanatiktika (Sans.)
+Sname: Sterculia balanghas L.	Family: STERCULIACEAE	Cname: Kavalam (Tam.)
+Sname: Sterculia foetida L.	Family: STERCULIACEAE	Cname: Jangli badam
+Sname: Sterculia rubiginosa Vent.	Family: STERCULIACEAE	Cname: Rusty Sterculai (Eng.)
+Sname: Sterculia urens Roxb.	Family: STERCULIACEAE	Cname: Gular, Gulu
+Sname: Stereospermum chelonoides (L.f.) DC.	Family: BIGNONIACEAE	Cname: Parral, Pader
+Sname: Stereospermum personatum (Hassk.) Chatterjee	Family: BIGNONIACEAE	Cname: Parral, Pader
+Sname: Stranvaesia glaucescens Lindl.	Family: ROSACEAE	Cname: Gadh-mehal (Kumaun)
+Sname: Streblus asper Lour.	Family: MORACEAE	Cname: Siora, Karchanua
+Sname: Striga asiatica (L.) Kuntze	Family: SCROPHULARIACEAE	Cname: Agia
+Sname: Striga gesnerioides (Willd.) Vatke	Family: SCROPHULARIACEAE	Cname: Missi
+Sname: Strobilanthes callosus Nees	Family: ACANTHACEAE	Cname: Maruadana
+Sname: Strobilanthes cusia (Nees.) Kuntze	Family: ACANTHACEAE	Cname: Rum (Assam)
+Sname: Strobilanthes lupulinus Nees	Family: ACANTHACEAE	Cname: Karun Kurinji (Tam.)
+Sname: Strophanthus wightianus Wall.	Family: APOCYNACEAE	Cname: Neivalli (Tam.)
+Sname: Strychnos aenea A.W.Hill	Family: LOGANIAACEAE	Cname: Mothira-kanjiram (Mal.)
+Sname: Strychnos cinnamomifolia Thwaites	Family: LOGANIAACEAE	Cname: Valli-kanjiram (Madras)
+Sname: Strychnos colubrina L.	Family: LOGANIAACEAE	Cname: Kuchila lata
+Sname: Strychnos ignatii Berg.	Family: LOGANIACEAE	Cname: Pipita
+Sname: Strychnos nux-vomica L.	Family: LOGANIAACEAE	Cname: Bailewa, Kajra
+Sname: Strychnos potatorum L.f.	Family: LOGANIAACEAE	Cname: Nirmali, Nelmal
+Sname: Styrax benzoin Dryand.	Family: STYRACACEAE	Cname: Luban, Loban
+Sname: Suaeda fruticosa (L.) Forsk.	Family: CHENOPODIACEAE	Cname: Lunak, Chhoti-lani
+Sname: Swertia alata (D.Don) Royle ex C.B.Clarke	Family: GENTIANACEAE	Cname: Bui (Kashmir)
+Sname: Swertia angustifolia Buch.-Ham. ex D.Don	Family: GENTIANACEAE	Cname: Pahari kiretta, Mitha kirayat
+Sname: Swertia paniculata Wall.	Family: GENTIANACEAE	Cname: Kadavi (Mar.)
+Sname: Symplocos chinensis (Lour.) Druce	Family: SYMPLOCACEAE	Cname: Ludh
+Sname: Symplocos racemosa Roxb.	Family: SYMPLOCACEAE	Cname: Lodha
+Sname: Synedrella nodiflora (L.) Gaertn.	Family: ASTERACEAE	Cname: Mudiyendra pacha (Mal.)
+Sname: Syringa persica L.	Family: OLEACEAE	Cname: Hiasmin (Kashmir)
+Sname: Syzygium aromaticum (L.) Merr. & L.M.Perry	Family: MYRTACEAE	Cname: Laung, Lavanga
+Sname: Syzygium cumini (L.) Skeels	Family: MYRTACEAE	Cname: Jaman, Jam
+Sname: Syzygium jambos (L.) Alston	Family: MYRTACEAE	Cname: Gulabjaman (Hindi & Mal.)
+Sname: Syzygium zeylanicum (L.) DC.	Family: MYRTACEAE	Cname: Bhedas (Mar.)
+Sname: Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.	Family: APOCYNACEAE	Cname: Chandni, Tagar
+Sname: Tacca integrifolia Ker-Gawl.	Family: TACCACEAE	Cname: Vrahikanda
+Sname: Tagetes erecta L.	Family: ASTERACEAE	Cname: Genda, Gultera
+Sname: Tamarindus indica L.	Family: CAESALPINIACEAE	Cname: Imli, Amli
+Sname: Taraxacum offininale Weber	Family: ASTERACEAE	Cname: Dulal, Barau
+Sname: Tarenna asiatica (L.) Kuntze ex K.Schum.	Family: RUBIACEAE	Cname: Kankra (Beng.)
+Sname: Taverniera cuneifolia (Roth) Arn.	Family: FABACEAE	Cname: East-Indian Moneywort (Eng.)
+Sname: Taxus wallichiana Zucc.	Family: TAXACEAE	Cname: Thuno, Birmi
+Sname: Tecoma stans (L.) Juss. ex Kunth	Family: BIGNONIACEAE	Cname: Sonapatti (Tam.)
+Sname: Tecomella undulata (Sm.) Seem.	Family: BIGNONIACEAE	Cname: Rugtrora, Roheda
+Sname: Tectona grandis L.f.	Family: VERBENACEAE	Cname: Sagun, Sagwan
+Sname: Tephrosia candida (Roxb.) DC.	Family: FABACEAE	Cname: Lashtia, Masethi
+Sname: Tephrosia purpurea (L.) Pers.	Family: FABACEAE	Cname: Jand, Chaunkra
+Sname: Tephrosia uniflora Pers.	Family: FABACEAE	Cname: Kanthalu (Sans.)
+Sname: Tephrosia villosa (L.) Pers.	Family: FABACEAE	Cname: Runchhalisarpankho (Guj.)
+Sname: Teramnus labialis (L.f.) Spreng	Family: FABACEAE	Cname: Mashoni, Mashparui
+Sname: Terminalia alata B.Heyne ex Roth	Family: COMBRETACEAE	Cname: Asan, Sain
+Sname: Terminalia arjuna (Roxb.) Wight & Arn.	Family: COMBRETACEAE	Cname: Arjuna
+Sname: Terminalia bellirica (Gaertn.) Roxb.	Family: COMBRETACEAE	Cname: Bahera
+Sname: Terminalia bialata Steud.	Family: COMBRETACEAE	Cname: Safed chuglam (Andamans)
+Sname: Terminalia catappa L.	Family: COMBRETACEAE	Cname: Deshi Badam
+Sname: Terminalia chebula (Gaertn.) Retz.	Family: COMBRETACEAE	Cname: Harre
+Sname: Terminalia citrina Roxb.	Family: COMBRETACEAE	Cname: Hritaki (Beng.)
+Sname: Terminalia coriacea Wight & Arn.	Family: COMBRETACEAE	Cname: Tani (Tel.)
+Sname: Terminalia myriocarpa Van Heurck & Muell.Arg.	Family: COMBRETACEAE	Cname: Pnisaj (Beng.)
+Sname: Terminalia pallida Brandis	Family: COMBRETACEAE	Cname: Tellakaraka (Tel.)
+Sname: Terminalia paniculata Roth	Family: COMBRETACEAE	Cname: Kinjal (Mar.)
+Sname: Ternstroemia gymnanthera (Wight & Arn.) Bedd.	Family: THEACEAE	Cname: Kamoni (Kan.)
+Sname: Tetracera laevis Vahl	Family: DILLENIACEAE	Cname: Anaittichal (Tam.)
+Sname: Tetradium fraxinifolium (Hook.) Hartley	Family: RUTACEAE	Cname: Kanukpa (Nepal & Bengal)
+Sname: Tetradium ruticarpum (A.Juss.) Hartley	Family: RUTACEAE	Cname: Bora-asing (Assam)
+Sname: Teucrium chamaedrys L.	Family: VITACEAE	Cname: Wall-Germander
+Sname: Teucrium polium L.	Family: VITACEAE	Cname: Felty germander (Eng.)
+Sname: Teucrium scordium L.	Family: LAMIACEAE	Cname: Water-Germander (Eng.)
+Sname: Thalictrum foliolosum DC.	Family: RANUNCULACEAE	Cname: Pilazari, Mamiri
+Sname: Thalictrum minus L.	Family: RANUNCULACEAE	Cname: Dwarf meadow Rue (Eng.)
+Sname: Theobroma cacao L.	Family: STERCULIACEAE	Cname: Chocolate Tree (Eng.)
+Sname: Thespesia populnea (L.) Soland. ex Correa	Family: MALVACEAE	Cname: Parsipu, Porush
+Sname: Thevetia peruviana (Pers.) Schum.	Family: APOCYNACEAE	Cname: Pile kaner, Zard kunel
+Sname: Thlaspi arvense L.	Family: BRASSICACEAE	Cname: Common Penycress (Eng.)
+Sname: Thuja orientalis L.	Family: CUPRESSACEAE	Cname: Morepankhi, Mayurpankh
+Sname: Thunbergia alata Bojer ex Sims	Family: ACANTHACEAE	Cname: Black-Eyed Susan (Eng.)
+Sname: Thunbergia grandiflora (Roxb. ex Rottl.) Roxb.	Family: ACANTHACEAE	Cname: Mulluta
+Sname: Thunbergia laurifolia Lindl.	Family: ACANTHACEAE	Cname: Purple allamanda (Eng.)
+Sname: Thymus serpyllum L.	Family: LAMIACEAE	Cname: Banajwain
+Sname: Thymus vulgaris L.	Family: LAMIACEAE	Cname: Common Thyme (Eng.)
+Sname: Tiliacora acuminata (Lam.) Hook.f. & Thomson	Family: MENISPERMACEAE	Cname: Bega, Bhaga
+Sname: Tinospora cordifolia (Willd.) Hook.f. & Thomson	Family: MENISPERMACEAE	Cname: Amrita, Giloe
+Sname: Tinospora sinensis (Lour.) Merr.	Family: MENISPERMACEAE	Cname: Giloe, Gulancha
+Sname: Toddalia asiatica (L.) Lam.	Family: RUTACEAE	Cname: Jangli-kalimirch, Kanj
+Sname: Toona ciliata Roem.	Family: MELIACEAE	Cname: Tun, Mahanim
+Sname: Torenia asiatica L.	Family: SCROPHULARIACEAE	Cname: Kakapu (Mal.)
+Sname: Trachelospermum lucidum (D.Don) K.Schum.	Family: APOCYNACEAE	Cname: Akhahilata (Assam)
+Sname: Trachylobium hornemannianum Hayne	Family: CAESALPINIACEAE	Cname: Zangiber copal (Eng.)
+Sname: Trachyspermum ammi (L.) Sprague	Family: APIACEAE	Cname: Ajowan, Ajwain
+Sname: Trachyspermum roxburghianum (DC.) Wolff	Family: APIACEAE	Cname: Ajmud, Ajmod
+Sname: Tragia involucrata L.	Family: EUPHORBIACEAE	Cname: Barhanta
+Sname: Tragopogon pratensis L.	Family: ASTERACEAE	Cname: Bucks-beard (Eng.)
+Sname: Tragopogon sinuatus Avé-Lall.	Family: ASTERACEAE	Cname: Oyester-Plant (Eng.)
+Sname: Trapa natans L.	Family: TRAPACEAE	Cname: Singhara
+Sname: Trema orientalis (L.) Blume	Family: ULMACEAE	Cname: Gio
+Sname: Trewia nudiflora L.	Family: EUPHORBIACEAE	Cname: Bhillaura, Gamhar
+Sname: Tribulus terrestris L.	Family: ZYGOPHYLLACEAE	Cname: Gokhru
+Sname: Trichilia connaroides (Wight. & Arn.) Bentv.	Family: MELIACEAE	Cname: Kapia kushi (Beng.)
+Sname: Trichodesma africanum (L.) R.Br.	Family: BORAGINACEAE	Cname: African Barbbell (Eng.)
+Sname: Trichodesma indicum (L.) Lehm.	Family: BORAGINACEAE	Cname: Chhota-kulpha, Ratmandi
+Sname: Trichodesma zeylanicum (Burm.f.) R.Br.	Family: BORAGINACEAE	Cname: Hetenuria
+Sname: Tricholepis glaberrima DC.	Family: ASTERACEAE	Cname: Brahmadandi
+Sname: Trichosanthes bracteata (Lam.) Voigt	Family: CUCURBITACEAE	Cname: Lal indrayan, Mahakal
+Sname: Trichosanthes cordata Roxb.	Family: CUCURBITACEAE	Cname: Bhumikumra, Patol (Beng.)
+Sname: Trichosanthes cucumerina L.	Family: CUCURBITACEAE	Cname: Jangli-chachinda
+Sname: Trichosanthes dioica Roxb.	Family: CUCURBITACEAE	Cname: Parwal
+Sname: Trichosanthes nervifolia L.	Family: CUCURBITACEAE	Cname: Palval
+Sname: Trichosanthes wallichiana (Ser.) Wight	Family: CUCURBITACEAE	Cname: Muzuumtong (Local name)
+Sname: Trifolium alexandrinum L.	Family: FABACEAE	Cname: Egyptian clover (Eng.)
+Sname: Trifolium pratense L.	Family: FABACEAE	Cname: Trepatra, Chit-batto (Punjab)
+Sname: Trifolium repens L.	Family: FABACEAE	Cname: White clover (Eng.)
+Sname: Trigonella corniculata (L.) L.	Family: FABACEAE	Cname: Kasuri Methi, Marwari Methi
+Sname: Trigonella foenum-graecum L.	Family: FABACEAE	Cname: Methi, Muthi
+Sname: Trigonella incisa Benth.	Family: FABACEAE	Cname: Chainhari (Delhi)
+Sname: Trigonella uncata Boiss. & Noe	Family: FABACEAE	Cname: Ban Methi
+Sname: Triphasia trifolia (Burm.f.) P.Wilson	Family: RUTACEAE	Cname: Cheeninaranghi
+Sname: Triumfetta semitriloba L.	Family: TILIACEAE	Cname: Burweed (Eng.)
+Sname: Turraea villosa Benn.	Family: MELIACEAE	Cname: Pandre (Mar.)
+Sname: Tussilago farfara L.	Family: ASTERACEAE	Cname: Watpan
+Sname: Tylophora fasciculata Ham. ex Wight	Family: ASCLEPIADACEAE	Cname: Bhindodi, Bhui-dari (Bombay)
+Sname: Tylophora indica (Burm.f.) Merr.	Family: ASCLEPIADACEAE	Cname: Jangli-pikvam, Antamul
+Sname: Tylophora tenuis Blume	Family: ASCLEPIADACEAE	Cname: Nanjaruppan (Tam. & Mal.)
+Sname: Uncaria gambir (Hunt) Roxb.	Family: RUBIACEAE	Cname: Kath-kutha
+Sname: Uraria crinita Desv.	Family: FABACEAE	Cname: Dieng-kha-riu (Khasi Hills)
+Sname: Uraria lagopodioides (L.) Desv.	Family: FABACEAE	Cname: Pithran
+Sname: Uraria picta (Jacq.) Desv. ex DC.	Family: FABACEAE	Cname: Dabra, Pithavan
+Sname: Uraria rufescens (DC.) Schindl.	Family: FABACEAE	Cname: Salaparni (Sans.)
+Sname: Urena lobata L.	Family: MALVACEAE	Cname: Bachita, Unga
+Sname: Urena repanda Roxb. ex Sm.	Family: MALVACEAE	Cname: Jatjotiya (Oriya)
+Sname: Urena sinuata L.	Family: MALVACEAE	Cname: Kunjuya, Lotloti
+Sname: Urgenia indica (Roxb.) Kunth	Family: LILIACEAE	Cname: Jangli piyaz, Ban piyazi
+Sname: Urtica dioica L.	Family: URTICACEAE	Cname: Bichhu booti
+Sname: Urtica parviflora Roxb.	Family: URTICACEAE	Cname: Paharah-bichuti
+Sname: Utricularia bifida L.	Family: LENTIBULARIACEAE	Cname: Chotajhangi (Beng.)
+Sname: Uvaria narum (Dunal) Blume	Family: ANNONACEAE	Cname: Pulichan (Tam.)
+Sname: Vaccaria pyramidata Medik.	Family: CARYOPHYLLACEAE	Cname: Musna, Sabuni
+Sname: Valeriana dubia Bunge	Family: VALERIANACEAE	Cname: Common Valerian (Eng.)
+Sname: Valeriana hardwickii Wall.	Family: VALERIANACEAE	Cname: Tagger, Shumeo
+Sname: Valeriana jatamansi Jones	Family: VALERIANACEAE	Cname: Mushkbala
+Sname: Vallaris solanacea (Roth) Kuntze	Family: APOCYNACEAE	Cname: Ramsar, Chamari-ki-vel
+Sname: Vanda spathulata (L.) Spreng.	Family: ORCHIDACEAE	Cname: Ponnamponmarva (Mal.)
+Sname: Vanda tessellata (Roxb.) Hook. ex G.Don	Family: ORCHIDACEAE	Cname: Banda, Nai
+Sname: Vateria indica L.	Family: DIPTEROCARPACEAE	Cname: Safed domar, Kahruba
+Sname: Ventilago denticulata Willd.	Family: RHAMNACEAE	Cname: Pitti, Raidhani
+Sname: Ventilago madraspatana Gaertn.	Family: RHAMNACEAE	Cname: Pitti
+Sname: Verbascum chinense (L.) Santapau	Family: SCROPHULARIACEAE	Cname: Gadartambaku
+Sname: Verbascum thapsus L.	Family: SCROPHULARIACEAE	Cname: Gidar tamaku, Ban tamaku
+Sname: Vernonia arborea Buch.-Ham.	Family: ASTERACEAE	Cname: Shutthi (Tam.)
+Sname: Vernonia cineria (L.) Less.	Family: ASTERACEAE	Cname: Sahadevi
+Sname: Vernonia squarrosa (D.Don) Less.	Family: ASTERACEAE	Cname: Grey Vernonia (Eng.)
+Sname: Veronica anagallis-aquatica L.	Family: SCROPHULARIACEAE	Cname: Titlokia (U.P.)
+Sname: Veronica arvensis L.	Family: SCROPHULARIACEAE	Cname: Corn speedwell (Eng.)
+Sname: Veronica beccabunga L.	Family: SCROPHULARIACEAE	Cname: Brooklime (Eng.)
+Sname: Vetiveria zizanioides (L.) Roberty	Family: POACEAE	Cname: Khasa, Bena
+Sname: Viburnum foetidum Wall.	Family: CAPRIFOLIACEAE	Cname: Dieng-soh-leng (Khasi Hills)
+Sname: Vicia faba L.	Family: FABACEAE	Cname: Bakla, Kala matar
+Sname: Vicia hirsuta (L.) S.F.Gray	Family: FABACEAE	Cname: Jhunjhuni ankari, Mun-muna
+Sname: Vicia sativa L.	Family: FABACEAE	Cname: Narrow-Leaved Vetch (Eng.)
+Sname: Vigna aconitifolia (Jacq.) Marechal	Family: FABACEAE	Cname: Moth, Bhringga
+Sname: Vigna mungo (L.) Hepper	Family: FABACEAE	Cname: Urd
+Sname: Vigna radiata (L.) Wilczek	Family: FABACEAE	Cname: Mung, Pessara
+Sname: Vigna trilobata (L.) Verdcourt	Family: FABACEAE	Cname: Mugam, Trianguli
+Sname: Vigna umbellata (Thunb.) Ohwi & Ohashi	Family: FABACEAE	Cname: Sutri, Ghurush
+Sname: Vigna unguiculata (L.) Walp.	Family: FABACEAE	Cname: Lobia, Riantshi
+Sname: Vincetoxicum album (Mill.) Asch.	Family: ASCLEPIADACEAE	Cname: Swallow-Wort (Eng.)
+Sname: Viola biflora L.	Family: VIOLACEAE	Cname: Banfsa, Dundi Birali
+Sname: Viola cineria Boiss.	Family: VIOLACEAE	Cname: Jinkobanafsha (Guj.)
+Sname: Viola diffusa Ging.	Family: VIOLACEAE	Cname: Spreding white violet (Eng.)
+Sname: Viola patrinii Ging	Family: VIOLACEAE	Cname: China violet (Eng.)
+Sname: Viola pilosa Blume	Family: VIOLACEAE	Cname: Banafshah
+Sname: Viola sylvestris Lam.	Family: VIOLACEAE	Cname: Wood violet (Eng.)
+Sname: Viola tricolor L.	Family: VIOLACEAE	Cname: Garden Pansey (Eng.)
+Sname: Viscum articulatum Burm.f.	Family: LORANTHACEAE	Cname: Budu, Pand
+Sname: Viscum monoicum Roxb. ex DC.	Family: LORANTHACEAE	Cname: Kuchle-ka-malang
+Sname: Viscum orientale Willd.	Family: LORANTHACEAE	Cname: Baandaa
+Sname: Vitex agnus-castus L.	Family: VERBENACEAE	Cname: Monk's Pepper-Tree (Eng.)
+Sname: Vitex glabrata R.Br.	Family: VERBENACEAE	Cname: Bhadu (Bihar)
+Sname: Vitex leucoxylon L.f.	Family: VERBENACEAE	Cname: Sherus (Mar.)
+Sname: Vitex negundo L.	Family: VERBENACEAE	Cname: Nirgundi, Sambhalu (Punjabi)
+Sname: Vitex peduncularis Wall. ex Schauer	Family: VERBENACEAE	Cname: Minjurgorwa, Nagpheni
+Sname: Vitex pinnata L.	Family: VERBENACEAE	Cname: Nowlieragu (Tel.)
+Sname: Vitex trifolia L.	Family: VERBENACEAE	Cname: Pani-ki-sanbhalu, Sufed-sanbhalu
+Sname: Vitis vinifera L.	Family: VITACEAE	Cname: Angur dakh
+Sname: Wagatea spicata Dalzell	Family: CAESALPINIACEAE	Cname: Wakeri (Mar.)
+Sname: Waltheria indica L.	Family: STERCULIACEAE	Cname: Khar dudhi (Beng.)
+Sname: Wattakaka volubilis (L.) Stapf	Family: ASCLEPIADACEAE	Cname: Nak-chhikni
+Sname: Wedelia biflora (L.) DC.	Family: ASTERACEAE	Cname: Sonki (Beng.)
+Sname: Wedelia chinensis (Osbeck) Merr.	Family: ASTERACEAE	Cname: Bhanra, Bhangra
+Sname: Wedelia wallichii Less.	Family: ASTERACEAE	Cname: Parbatijeera (Oriya)
+Sname: Wikstroemia indica (L.) C.A.Mey.	Family: THYMELAEACEAE	Cname: Small-Leaf Salago (Eng.)
+Sname: Withania coagulans (Stocks) Dunal	Family: SOLANACEAE	Cname: Akri, Punir
+Sname: Withania somnifera (L.) Dunal	Family: SOLANACEAE	Cname: Punir, Asgandh
+Sname: Woodfordia fruticosa (L.) Kurz	Family: LYTHRACEAE	Cname: Dhai, Dhava
+Sname: Wrightia tinctoria R.Br.	Family: APOCYNACEAE	Cname: Indrajau, Mitha-indrajau
+Sname: Wrightia tomentosa (Roxb.) Roem. & Schult.	Family: APOCYNACEAE	Cname: Dudhi, Dharauli
+Sname: Xanthium strumarium L.	Family: ASTERACEAE	Cname: Banokra, Gokhru
+Sname: Xeromphis spinosa (Thunb.) Keay	Family: RUBIACEAE	Cname: Mainphal
+Sname: Xeromphis uliginosa (Retz.) Maheshw.	Family: RUBIACEAE	Cname: Pindalu, Panar
+Sname: Ximenia americana L.	Family: OLACACEAE	Cname: Kondanakkera (Tel.)
+Sname: Xylia xylocarpa (Roxb.) Taub.	Family: MIMOSACEAE	Cname: Jambu, Suria
+Sname: Yucca aloifolia L.	Family: LILIACEAE	Cname: Adam's Needle (Eng.)
+Sname: Yucca gloriosa L.	Family: LILIACEAE	Cname: Yucca (Marathi)
+Sname: Zanonia indica L.	Family: CUCURBITACEAE	Cname: Chirpoti, Patakona
+Sname: Zanthoxylum acanthopodium DC.	Family: RUTACEAE	Cname: Darmar, Nepali Dhaniya
+Sname: Zanthoxylum armatum DC.	Family: RUTACEAE	Cname: Timbur, Timur
+Sname: Zanthoxylum nitidum (Roxb.) DC.	Family: RUTACEAE	Cname: Tezamul (Assam)
+Sname: Zanthoxylum ovalifolium Wight	Family: RUTACEAE	Cname: Armadalu (Kan.)
+Sname: Zanthoxylum oxyphyllum Edgew.	Family: RUTACEAE	Cname: Mezenga (Assam)
+Sname: Zanthoxylum rhetsa (Roxb.) DC.	Family: RUTACEAE	Cname: Badrang
+Sname: Zataria multiflora Boiss.	Family: LAMIACEAE	Cname: Saatar (Urdu)
+Sname: Zeuxine strateumatica (L.) Schltr.	Family: ORCHIDACEAE	Cname: Swethuli (Beng.)
+Sname: Zingiber montanum (Koen.) Link ex A.Dietr.	Family: ZINGIBERACEAE	Cname: Ban-ada
+Sname: Zingiber officinale Roscoe	Family: ZINGIBERACEAE	Cname: Adrak
+Sname: Zingiber zerumbet (L.) Sm.	Family: ZINGIBERACEAE	Cname: Gada (Local Name)
+Sname: Ziziphus glabrata Heyne ex Roth	Family: RHAMNACEAE	Cname: Vatadalla (Sans.)
+Sname: Ziziphus jujuba Mill.	Family: RHAMNACEAE	Cname: Pitni-ber, kandika
+Sname: Ziziphus mauritiana Lam.	Family: RHAMNACEAE	Cname: Baer, Ber
+Sname: Ziziphus nummularia (Burm.f.) Wight & Arn.	Family: RHAMNACEAE	Cname: Jharberi
+Sname: Ziziphus oenoplia (L.) Mill.	Family: RHAMNACEAE	Cname: Makai
+Sname: Ziziphus rugosa Lam.	Family: RHAMNACEAE	Cname: Churna
+Sname: Zornia gibbosa Span.	Family: FABACEAE	Cname: Samrapani (Guj.)
+Sname: Zygophyllum simplex L.	Family: ZYGOPHYLLACEAE	Cname: Alethi (Punjab)
