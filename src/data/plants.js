@@ -65,7 +65,7 @@ const plants = [
   {
     id: 10,
     name: 'Aloe Vera',
-    image: '/images/aloe-vera.jpg', // Local image
+    image: '/images/aloevera.jpg', // Local image
     description: 'Succulent known for its healing properties.',
     moreDetails: 'Aloe Vera is great for soothing burns...'
   }
