@@ -9,23 +9,29 @@ body {
   color: #e0e0e0; /* Light text color */
 }
 
-h1 {
-  font-family: 'Open Sans', sans-serif;
-  color: #54ac77; /* Bright accent color */
+header, footer {
+  background-color: #1e1e1e;
+  padding: 15px;
   text-align: center;
-  margin-top: 20px;
+}
+
+header h1, footer p {
+  margin: 0;
+  color: #54ac77;
 }
 
 nav {
-  background-color: #1e1e1e; /* Darker nav background */
+  background-color: #1e1e1e;
   padding: 10px;
   position: sticky;
   top: 0;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center; /* Center align the content */
 }
 
 nav a {
-  color: #e0e0e0; /* Light link color */
+  color: #e0e0e0;
   text-decoration: none;
   margin: 0 10px;
   font-weight: 700;
@@ -33,15 +39,19 @@ nav a {
 }
 
 nav a:hover {
-  color: #54ac77; /* Bright accent color on hover */
+  color: #54ac77;
+}
+
+.main-content {
+  padding: 20px;
 }
 
 .plant-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
-  background: rgba(30, 30, 30, 0.9); /* Dark transparent background */
+  justify-content: center;
+  background: rgba(30, 30, 30, 0.9);
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   margin: 20px;
@@ -53,34 +63,51 @@ nav a:hover {
 }
 
 .plant-card {
-  border: 1px solid #333; /* Dark border */
+  border: 1px solid #333;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   transition: transform 0.2s, background 0.3s;
-  background: rgba(48, 48, 48, 0.8); /* Dark card background */
+  background: rgba(48, 48, 48, 0.8);
+  width: 250px; /* Fixed width for consistency */
+  margin: 10px; /* Added margin to separate cards */
 }
 
 .plant-card:hover {
   transform: scale(1.05);
-  background: rgba(48, 48, 48, 0.95); /* Slightly lighter on hover */
+  background: rgba(48, 48, 48, 0.95);
 }
 
 .plant-card img {
   width: 100%;
   height: 150px;
   object-fit: cover;
-  border-bottom: 1px solid #333; /* Dark border */
+  border-bottom: 1px solid #333;
 }
 
 .plant-card h2 {
   margin: 10px;
-  color: #54ac77; /* Bright accent color */
+  color: #54ac77;
   font-size: 1.2em;
 }
 
 .plant-card p {
   margin: 10px;
-  color: #e0e0e0; /* Light text color */
+  color: #e0e0e0;
   font-size: 0.9em;
+}
+
+.plant-card button {
+  margin: 10px;
+  padding: 10px;
+  background-color: #54ac77;
+  color: #121212;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.plant-card button:hover {
+  background-color: #54ac77;
 }
