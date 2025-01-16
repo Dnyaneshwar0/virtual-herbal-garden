@@ -7,7 +7,6 @@ const PlantCard = ({ plant }) => {
       <img src={plant.image} alt={plant.name} />
       <h2>{plant.name}</h2>
       <p>{plant.description}</p>
-      <button>Learn More</button>
     </div>
   );
 };
