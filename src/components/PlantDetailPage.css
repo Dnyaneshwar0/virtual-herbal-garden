@@ -28,7 +28,14 @@
     color: #54ac77; /* Accent color */
   }
   
-  .plant-description,
+  .plant-description {
+    font-size: 1.4em; /* Larger font size */
+    font-family: 'Open Sans', sans-serif; /* Different font */
+    color: #54ac77; /* Match accent color */
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  
   .plant-more-details {
     font-size: 1.2em;
     color: #e0e0e0; /* Light text color */

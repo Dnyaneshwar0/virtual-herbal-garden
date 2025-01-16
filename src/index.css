@@ -13,6 +13,7 @@ header, footer {
   background-color: #1e1e1e;
   padding: 15px;
   text-align: center;
+  margin: 0;
 }
 
 header h1, footer p {
@@ -28,6 +29,7 @@ nav {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   display: flex;
   justify-content: center; /* Center align the content */
+  z-index: 1000; /* High z-index to ensure it stays on top */
 }
 
 nav a {
@@ -71,11 +73,13 @@ nav a:hover {
   background: rgba(48, 48, 48, 0.8);
   width: 250px; /* Fixed width for consistency */
   margin: 10px; /* Added margin to separate cards */
+  z-index: 1; /* Lower z-index than the navbar */
 }
 
 .plant-card:hover {
   transform: scale(1.05);
   background: rgba(48, 48, 48, 0.95);
+  z-index: 2; /* Higher z-index when hovered */
 }
 
 .plant-card img {
