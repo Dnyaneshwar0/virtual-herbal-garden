@@ -154,6 +154,29 @@ nav a:hover {
   pointer-events: none; /* Prevent click on the icon */
 }
 
+.about-us-container {
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 800px;
+  background-color: rgba(30, 30, 30, 0.9); /* Dark background similar to the rest of the site */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  color: #e0e0e0; /* Light text color */
+}
+
+.about-us-container h1 {
+  text-align: center;
+  color: #54ac77;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.about-us-content p {
+  font-size: 1em;
+  margin: 15px 0;
+  line-height: 1.6;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
