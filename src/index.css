@@ -127,20 +127,29 @@ nav a:hover {
 /* Style for the search input field */
 .search-bar {
   width: 100%;
-  padding: 10px 40px 10px 10px; /* Padding to make space for the icon on the right */
+  padding: 12px 20px 12px 20px; /* Increased padding for better spacing */
   font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box; /* To include padding in width calculation */
+  border: 2px solid #54ac77; /* To match the plant-themed color */
+  border-radius: 25px; /* Rounded corners for a softer look */
+  background-color: #1e1e1e; /* Dark background for input */
+  color: #e0e0e0; /* Light text color */
+  outline: none; /* Remove default outline on focus */
+  box-sizing: border-box;
+  transition: border-color 0.3s ease; /* Smooth transition for border color */
+}
+
+/* Change border color on focus */
+.search-bar:focus {
+  border-color: #54ac77;
 }
 
 /* Style for the search icon inside the input field, aligned to the right */
 .search-icon {
   position: absolute;
-  right: 10px;  /* Move the icon to the right side */
+  right: 20px; /* Adjusted right position for better alignment */
   top: 50%;
-  transform: translateY(-50%); /* Vertically center the icon */
-  font-size: 18px;
-  color: #888; /* Light gray color */
-  cursor: pointer; /* Make the icon clickable */
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #54ac77; /* Matching color with search bar */
+  pointer-events: none; /* Prevent click on the icon */
 }
