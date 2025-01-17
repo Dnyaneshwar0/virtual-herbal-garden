@@ -318,3 +318,26 @@ nav a:hover {
   margin-bottom: 6px;
   font-size: 1em;
 }
+
+.nursery-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  background-color: #54ac77;;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nursery-name {
+  font-size: 1.5rem;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.nursery-location,
+.nursery-contact
+.nursery-email {
+  font-size: 1rem;
+  color: white;
+  margin: 4px 0;
+}
