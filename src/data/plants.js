@@ -46,28 +46,28 @@ const plants = [
     name: 'Cactus',
     image: '/images/cactus.jpg', // Local image
     description: 'A thorny plant adapted to arid environments.',
-    moreDetails: 'Cacti store water in their stems and can survive in very dry conditions, making them ideal for low-maintenance gardens. They are popular as decorative plants and come in a variety of shapes and sizes. The fruit of some cacti, known as prickly pear, is edible and used in various dishes. Some cacti also have medicinal properties and are used in traditional remedies. Cacti symbolize endurance, protection, and warmth.'
+    moreDetails: 'Cacti store water in their stems and can survive in very dry conditions, making them ideal for low-maintenance gardens. They are popular as decorative plants and come in a variety of shapes and sizes. The fruit of some cacti, known as prickly pear, is edible and used in various dishes. Some cacti also have medicinal properties and are used in traditional remedies. Cacti symbolize endurance, protection, and warmth.(Bulb sign)Tips for unwanted growth : 1)Removing the pests manually : For Mealybugs use cotton swab dipped in alcohol,for Spider mites spray with water & for Scale insects use soft brush. 2)Maintain good air circulation. 3)Neem oil on mealybugs. 4)Garlic spray-Blend garlic cloves with water, strain the mixture, and spray it on the cactus. 5)Cinnamon powder prevents fungal infections. 6)Place yellow sticky traps around the cactus to catch gnats. 7)Avoid overcrowding as any infestation can spread quickly.'
   },
   {
     id: 'orchid',
     name: 'Orchid',
     image: '/images/orchid.jpg', // Local image
     description: 'An exotic, delicate flower.',
-    moreDetails: 'Orchids are prized for their intricate and long-lasting blooms, and they come in a variety of shapes and colors. They are often used in decorative floral arrangements and are a symbol of luxury, beauty, and strength. Some species of orchids have medicinal properties and are used in traditional remedies. Orchids are also a popular subject in art and literature, admired for their beauty and elegance.'
+    moreDetails: 'Orchids are prized for their intricate and long-lasting blooms, and they come in a variety of shapes and colors. They are often used in decorative floral arrangements and are a symbol of luxury, beauty, and strength. Some species of orchids have medicinal properties and are used in traditional remedies. Orchids are also a popular subject in art and literature, admired for their beauty and elegance. (Bulb sign)Tips for unwanted growth :1)Removal of Scale, Aphids, Mealybugs and Spider Mites: Use a small toothbrush or cotton swab soaked in rubbing alcohol. 2)Grasshoppers can be removed by pruners or by handpicking. 3)Ant traps contain a bait that lures ants into the trap where they consume poison and bring it back to their colony. 4)Caterpillars, look for their eggs on the underside of leaves; remove them before they hatch. 5)For snails and slugs, check under pots or near damp areas around the plant. You can also lure them out by placing a piece of lettuce near the plant overnight then dispose of it in the morning along with any snails that have gathered there.'
   },
   {
     id: 'fern',
     name: 'Fern',
     image: '/images/fern.jpg', // Local image
     description: 'Lush green foliage, no flowers.',
-    moreDetails: 'Ferns are known for their feathery leaves and thrive in shady, humid environments, making them a great addition to indoor gardens. They are often used in landscaping for their rich foliage. Some species of ferns have medicinal properties and are used in traditional medicine to treat various health issues. Ferns are also valued for their ability to purify indoor air by removing toxins.'
+    moreDetails: 'Ferns are known for their feathery leaves and thrive in shady, humid environments, making them a great addition to indoor gardens. They are often used in landscaping for their rich foliage. Some species of ferns have medicinal properties and are used in traditional medicine to treat various health issues. Ferns are also valued for their ability to purify indoor air by removing toxins.(Bulb sign)Tips for unwanted growth :1)Neem oil can repel aphids, mealybugs, beetles. 2)Baking soda for fungus. 3)Removal of Scale, Aphids, Mealybugs and Spider Mites Use a small toothbrush or cotton swab soaked in rubbing alcohol. 4)Weeds can harbor aphids so removing them is necessary. 5)Whiteflies and fungus gnats require the sticky yellow tape. 6)Holes in the foliage is caused by weevils (larvae are white and grub-like) are handpicked. 7)Trim ferns in early spring or when there is yellowing or browning fronds for optimal growth before new leaves emerge.'
   },
   {
     id: 'aloe vera',
     name: 'Aloe Vera',
     image: '/images/aloevera.jpg', // Local image
     description: 'A succulent with healing properties.',
-    moreDetails: 'Aloe Vera gel is widely used in skincare for its soothing and moisturizing effects. It is great for soothing burns, cuts, and other skin irritations. Aloe Vera also has digestive benefits when consumed as a juice. The plant is easy to grow and can be used in a variety of cosmetic and medicinal products. Aloe Vera symbolizes healing, protection, and beauty.'
+    moreDetails: 'Aloe Vera gel is widely used in skincare for its soothing and moisturizing effects. It is great for soothing burns, cuts, and other skin irritations. Aloe Vera also has digestive benefits when consumed as a juice. The plant is easy to grow and can be used in a variety of cosmetic and medicinal products. Aloe Vera symbolizes healing, protection, and beauty.(Bulb sign)Tips for unwanted growth :1)Snout Beetles are manually removed. 2)The gall mites travel through the air and cutting away the affected tissue with a sharp blade is helpful .Aloes that touch an infected plant are particularly vulnerable.3)Aloe Rust (black or brown circular spots on the aloe leaves) one teaspoon of baking soda in one quart of water to help fight the rust. 4)Chili sprays on mealybugs and aphids. 5)Thrips can be destroyed with diatomaceous earth on the plant and soil as the sharp edges of the particles cut the skin of pests and absorb their moisture.'
   }
 ];
 
