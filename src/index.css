@@ -226,3 +226,95 @@ nav a:hover {
       margin-bottom: 20px;
   }
 }
+
+/* Plant Detail Page */
+.plant-detail-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #1e1e1e; /* Dark background */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  color: #e0e0e0; /* Light text color */
+}
+
+.plant-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #333; /* Border to match dark mode */
+}
+
+.plant-info {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.plant-name {
+  font-size: 2em;
+  color: #54ac77; /* Accent color */
+}
+
+.plant-description {
+  font-size: 1.4em; /* Larger font size */
+  font-family: 'Open Sans', sans-serif; /* Different font */
+  color: #54ac77; /* Match accent color */
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.plant-details-tips {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+}
+
+.plant-more-details {
+  font-size: 1.1em;
+  color: #e0e0e0; /* Light text color */
+  line-height: 1.6;
+  flex: 1; /* Allow the section to take available space */
+  margin-right: 20px; /* Add margin to separate from TipsCard */
+}
+
+/* Styles for TipsCard */
+.tips-card {
+  border: 1px solid #333;
+  padding: 16px;
+  background-color: rgba(48, 48, 48, 0.8); /* Matching background color */
+  border-radius: 8px;
+  margin-left: 20px;
+  flex: 0 0 350px; /* Set fixed width while allowing flexible growth */
+  text-align: left;
+}
+
+.tips-card h3 {
+  color: #54ac77; /* Keeping the color scheme consistent */
+  margin-bottom: 12px;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.tips-icon {
+  margin-right: 8px; /* Space between the icon and 'Tips' heading */
+  color: #54ac77; /* Matching the accent color */
+}
+
+.tips-card ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  color: #e0e0e0;
+}
+
+.tips-card li {
+  margin-bottom: 6px;
+  font-size: 1em;
+}

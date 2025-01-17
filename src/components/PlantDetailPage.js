@@ -1,7 +1,8 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import plants from '../data/plants';
-import './PlantDetailPage.css'; // Updated CSS file name
+import '../index.css'; // Importing the global CSS file
+import TipsCard from './TipsCard'; // Importing TipsCard component
 
 const PlantDetailPage = () => {
   const { id } = useParams();
@@ -15,7 +16,10 @@ const PlantDetailPage = () => {
       <div className="plant-info">
         <h1 className="plant-name">{plant.name}</h1>
         <p className="plant-description">{plant.description}</p>
-        <p className="plant-more-details">{plant.moreDetails}</p>
+        <div className="plant-details-tips">
+          <div className="plant-more-details">{plant.moreDetails}</div>
+          {plant.tips && plant.tips.length > 0 && <TipsCard tips={plant.tips} />}
+        </div>
       </div>
     </div>
   );
