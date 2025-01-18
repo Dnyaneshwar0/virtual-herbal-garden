@@ -1,37 +1,44 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
-import nurseries from '../data/nurseries'; // Import the nurseries data
 import NurseryCard from './NurseryCard'; // Component for displaying nursery information
+import nurseries from '../data/nurseries'; // Import the nurseries data
 
 const NurseryInfo = () => {
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchById, setSearchById] = useState('');
+  const [searchByName, setSearchByName] = useState('');
 
-  // Filter nurseries based on the search term
-  const filteredNurseries = nurseries.filter(nursery =>
-    nursery.name.toLowerCase().includes(searchTerm.toLowerCase())
+  // Filter nurseries based on ID
+  const filteredById = nurseries.filter(nursery =>
+    nursery.id.toLowerCase().includes(searchById.toLowerCase())
   );
 
-  const handleSearch = (event) => {
-    setSearchTerm(event.target.value);
-  };
+  // Further filter nurseries by name within the already ID-filtered results
+  const filteredNurseries = filteredById.filter(nursery =>
+    nursery.name.toLowerCase().includes(searchByName.toLowerCase())
+  );
 
   return (
     <div>
       <div className="search-container">
         <input
           type="text"
-          placeholder="Search nurseries..."
-          value={searchTerm}
-          onChange={handleSearch}
+          placeholder="Search by City..."
+          value={searchById}
+          onChange={(e) => setSearchById(e.target.value)}
           className="search-bar"
         />
-        <i className="fas fa-search search-icon"></i> {/* Search Icon */}
+        <input
+          type="text"
+          placeholder="Search by Name..."
+          value={searchByName}
+          onChange={(e) => setSearchByName(e.target.value)}
+          className="search-bar"
+        />
       </div>
 
       {/* Nurseries Grid */}
       <div className="nursery-grid">
-        {nurseries.map((nursery) => (
-            <NurseryCard key={nursery.id} nursery={nursery} />
+        {filteredNurseries.map((nursery) => (
+          <NurseryCard key={nursery.id} nursery={nursery} />
         ))}
       </div>
     </div>
