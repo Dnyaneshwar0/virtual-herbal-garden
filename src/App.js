@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link, Navigate } from 'react-ro
 import HomePage from './components/HomePage';
 import PlantDetailPage from './components/PlantDetailPage';
 import AboutUs from './components/AboutUs'; // Import the AboutUs component
+import NurseryInfo from './components/NurseryInfo'; // Import the NurseriesPage component
 
 const App = () => {
   return (
@@ -12,7 +13,8 @@ const App = () => {
       </header>
       <nav>
         <Link to="/home">Home</Link>
-        <Link to="/about">About Us</Link> {/* Add the About Us link */}
+        <Link to="/nurseries">Nurseries</Link> {/* Add the Nurseries link */}
+        <Link to="/about">About Us</Link> {/* About Us link */}
       </nav>
       <main className="main-content">
         {/* Routes */}
@@ -20,7 +22,8 @@ const App = () => {
           <Route path="/" element={<Navigate replace to="/home" />} />
           <Route path="/home" element={<HomePage />} />
           <Route path="/plant/:id" element={<PlantDetailPage />} />
-          <Route path="/about" element={<AboutUs />} /> {/* Add the About Us route */}
+          <Route path="/about" element={<AboutUs />} />
+          <Route path="/nurseries" element={<NurseryInfo />} /> {/* Add the Nurseries route */}
         </Routes>
       </main>
       <footer>
