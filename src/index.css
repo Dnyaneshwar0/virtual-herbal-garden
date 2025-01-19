@@ -126,10 +126,10 @@ nav a:hover {
 
 /* Style for the search input field */
 .search-bar {
-  width: 100%;
+  width: 80%;
   padding: 12px 20px 12px 20px; /* Increased padding for better spacing */
   font-size: 16px;
-  border: 2px solid #54ac77; /* To match the plant-themed color */
+  border: 1px solid #54ac77; /* To match the plant-themed color */
   border-radius: 25px; /* Rounded corners for a softer look */
   background-color: #1e1e1e; /* Dark background for input */
   color: #e0e0e0; /* Light text color */
@@ -141,13 +141,14 @@ nav a:hover {
 
 /* Change border color on focus */
 .search-bar:focus {
+  border-width: 3px;
   border-color: #54ac77;
 }
 
 /* Style for the search icon inside the input field, aligned to the right */
 .search-icon {
   position: absolute;
-  right: 20px; /* Adjusted right position for better alignment */
+  right: 135px; /* Adjusted right position for better alignment */
   top: 50%;
   transform: translateY(-50%);
   font-size: 20px;
@@ -320,18 +321,46 @@ nav a:hover {
   font-size: 1em;
 }
 
-.nursery-card {
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 16px;
-  margin: 16px;
-  background-color: #54ac77;;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+.nursery-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  background: rgba(30, 30, 30, 0.9);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  margin: 20px 80px;
+  padding: 30px 0px;
 }
 
-.nursery-name {
+.nursery-grid a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nursery-card {
+  justify-self: center;
+  padding: 10px 30px;
+  border: 1px solid #333;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s, background 0.3s;
+  background: rgba(48, 48, 48, 0.8);
+  width: 80%; /* Fixed width for consistency */
+  z-index: 1; /* Lower z-index than the navbar */
+}
+
+.nursery-card:hover {
+  transform: scale(1.05);
+  background: rgba(48, 48, 48, 0.95);
+  z-index: 2; /* Higher z-index when hovered */
+}
+
+.nursery-name{
   font-size: 1.5rem;
-  color: white;
+  text-decoration: none;
+  color: #54ac77;
   margin-bottom: 8px;
 }
 
@@ -341,4 +370,9 @@ nav a:hover {
   font-size: 1rem;
   color: white;
   margin: 4px 0;
+}
+
+.nursery-email a{
+  color: #54ac77;
+  text-decoration: none;
 }

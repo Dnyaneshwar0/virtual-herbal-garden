@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import NurseryCard from './NurseryCard'; // Component for displaying nursery information
 import nurseries from '../data/nurseries'; // Import the nurseries data
 
@@ -38,7 +39,9 @@ const NurseryInfo = () => {
       {/* Nurseries Grid */}
       <div className="nursery-grid">
         {filteredNurseries.map((nursery) => (
-          <NurseryCard key={nursery.id} nursery={nursery} />
+          <Link key={nursery.id} to={`/nursery/${nursery.id}`}>
+            <NurseryCard nursery={nursery} />
+          </Link>
         ))}
       </div>
     </div>

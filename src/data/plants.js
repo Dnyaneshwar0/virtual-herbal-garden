@@ -5,7 +5,13 @@ const plants = [
     image: '/images/rose.jpg', // Local image
     description: 'A fragrant flower symbolizing love and romance.',
     moreDetails: 'Roses have been cultivated for thousands of years for their beauty and fragrance. Rose petals can be used to make rosewater, which is often added to desserts, cosmetics, and medicinal preparations. Rose hips, the fruit of the rose plant, are rich in vitamin C and used in teas, jams, and herbal remedies. Roses also play a significant role in art, literature, and cultural traditions around the world.',
-    tips: []
+    tips: [
+      'Regularly check for aphids and remove them by hand or with a strong jet of water.',
+      'Prune the roses in early spring to promote new growth and remove dead or diseased wood.',
+      'Mulch around the base of the plants to help retain moisture and suppress weeds.',
+      'Water deeply and regularly, especially during dry periods.',
+      'Deadhead spent flowers to encourage continuous blooming.'
+    ]
   },
   {
     id: 'tulip',
@@ -13,7 +19,13 @@ const plants = [
     image: '/images/tulip.jpg', // Local image
     description: 'A vibrant, popular spring flower.',
     moreDetails: 'Tulips come in a variety of colors, each carrying its own symbolism. They are a favorite in gardens and floral arrangements. The bulbs of some species are edible and were historically used as a food source during times of famine. Tulips played a major role in the Dutch Golden Age, leading to the economic phenomenon known as "Tulip Mania." They are also featured in many artworks and are a symbol of elegance and grace.',
-    tips: []
+    tips: [
+      'Plant tulip bulbs in well-drained soil in a sunny location.',
+      'Water the bulbs after planting, but avoid overwatering as it can cause the bulbs to rot.',
+      'Apply a balanced fertilizer in early spring as the tulips begin to grow.',
+      'Remove the spent flowers to prevent the plant from diverting energy into seed production.',
+      'Allow the foliage to die back naturally to help the bulbs store energy for the next season.'
+    ]
   },
   {
     id: 'lavender',
@@ -21,7 +33,13 @@ const plants = [
     image: '/images/lavender.jpg', // Local image
     description: 'A plant known for its calming scent.',
     moreDetails: 'Lavender is widely used in aromatherapy to promote relaxation and better sleep. Its oil has antiseptic and anti-inflammatory properties, making it valuable in treating minor burns and insect bites. Lavender flowers are also used in culinary applications, adding a subtle flavor to baked goods and desserts. The plant is commonly grown in gardens for its beauty and fragrance, and dried lavender is often used in sachets to scent linens.',
-    tips: []
+    tips: [
+      'Plant lavender in well-drained soil with full sun exposure.',
+      'Prune the plants in early spring to promote healthy growth and prevent them from becoming woody.',
+      'Avoid overwatering; lavender prefers dry conditions once established.',
+      'Harvest the flowers when they are just starting to open for the best fragrance.',
+      'Mulch with gravel or sand to improve drainage and keep the base of the plant dry.'
+    ]
   },
   {
     id: 'sunflower',
@@ -29,7 +47,13 @@ const plants = [
     image: '/images/sunflower.jpg', // Local image
     description: 'A bright, sun-following flower.',
     moreDetails: 'Sunflowers are known for their large, cheerful blooms that track the sun’s movement across the sky. They produce seeds that are edible and nutritious, often enjoyed as snacks or used to make sunflower oil. Sunflowers are also used in phytoremediation to remove toxins from the soil. Their tall stature and vibrant appearance make them a popular choice in gardens and floral arrangements. They symbolize adoration, loyalty, and longevity.',
-    tips: []
+    tips: [
+      'Plant sunflower seeds in well-drained soil in a sunny location.',
+      'Water regularly, especially during dry periods, to keep the soil moist.',
+      'Provide support for tall varieties to prevent them from toppling over.',
+      'Fertilize with a balanced fertilizer to promote healthy growth and large blooms.',
+      'Harvest the seeds when the flower heads turn brown and the seeds are plump and mature.'
+    ]
   },
   {
     id: 'basil',
@@ -37,7 +61,13 @@ const plants = [
     image: '/images/basil.jpg', // Local image
     description: 'A common culinary herb.',
     moreDetails: 'Basil is a staple in many cuisines, particularly in Italian dishes like pesto. It has antibacterial properties and is rich in antioxidants. Basil also has anti-inflammatory effects and is used in traditional medicine to treat various ailments. Fresh basil leaves are a popular garnish for salads, pizzas, and pastas. The plant is easy to grow in home gardens and can be used fresh or dried in a variety of culinary applications.',
-    tips: []
+    tips: [
+      'Plant basil in well-drained soil with full sun exposure.',
+      'Pinch off the flower buds to encourage more leaf production.',
+      'Water regularly, keeping the soil consistently moist but not waterlogged.',
+      'Harvest the leaves frequently to promote new growth.',
+      'Mulch around the base of the plant to retain moisture and suppress weeds.'
+    ]
   },
   {
     id: 'mint',
@@ -45,7 +75,13 @@ const plants = [
     image: '/images/mint.jpg', // Local image
     description: 'A fresh and invigorating herb.',
     moreDetails: 'Mint is commonly used in beverages like mojitos and teas. It aids in digestion and has a cooling effect when applied to the skin. Mint leaves are also used in cooking to add a fresh flavor to dishes and salads. The plant is known for its aromatic properties and is often used in herbal remedies to treat digestive issues, headaches, and respiratory conditions. Mint is easy to grow and spreads quickly, making it a favorite in herb gardens.',
-    tips: []
+    tips: [
+      'Plant mint in well-drained soil in a sunny or partially shaded location.',
+      'Water regularly to keep the soil moist but not waterlogged.',
+      'Harvest the leaves frequently to promote new growth and prevent the plant from becoming leggy.',
+      'Contain the plant’s spread by planting it in a pot or using a root barrier in the garden.',
+      'Mulch around the base of the plant to retain moisture and suppress weeds.'
+    ]
   },
   {
     id: 'cactus',

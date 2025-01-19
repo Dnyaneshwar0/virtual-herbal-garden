@@ -1,15 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-//import './NurseryCard.css';
+import '../index.css';
 
 const NurseryCard = ({ nursery }) => {
   return (
     <div className="nursery-card">
       <h2 className="nursery-name">
         {/* Link only wraps the nursery name */}
-        <Link to={`/nursery/${nursery.id}`}>
           {nursery.name}
-        </Link>
       </h2>
       {/* Plain text for location */}
       <p className="nursery-location">
